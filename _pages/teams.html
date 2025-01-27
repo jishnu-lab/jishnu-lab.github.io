@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Members</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Team Members</h1>
+    </header>
+    <main>
+        <% teamMembers.forEach(member => { %>
+            <div class="member">
+                <h2><%= member.name %></h2>
+                <p><strong>Position:</strong> <%= member.position %></p>
+                <% if (member.is_pi) { %>
+                    <p><em>Principal Investigator</em></p>
+                <% } %>
+                <% if (member.is_current) { %>
+                    <p><strong>Status:</strong> Current</p>
+                <% } else { %>
+                    <p><strong>Status:</strong> Former</p>
+                <% } %>
+                <% if (member.orcid) { %>
+                    <p><strong>ORCID:</strong> <a href="<%= member.orcid %>"><%= member.orcid %></a></p>
+                <% } %>
+                <% if (member.scholar) { %>
+                    <p><strong>Google Scholar:</strong> <a href="<%= member.scholar %>"><%= member.scholar %></a></p>
+                <% } %>
+                <% if (member.researchgate) { %>
+                    <p><strong>ResearchGate:</strong> <a href="<%= member.researchgate %>"><%= member.researchgate %></a></p>
+                <% } %>
+                <% if (member.github) { %>
+                    <p><strong>GitHub:</strong> <a href="<%= member.github %>"><%= member.github %></a></p>
+                <% } %>
+                <% if (member.twitter) { %>
+                    <p><strong>Twitter:</strong> <a href="<%= member.twitter %>"><%= member.twitter %></a></p>
+                <% } %>
+                <p><strong>Bio:</strong> <%= member.bio %></p>
+                <img src="<%= member.photo %>" alt="<%= member.name %>">
+            </div>
+        <% }); %>
+    </main>
+    <footer>
+        <p>&copy; 2024 Team Members</p>
+    </footer>
+</body>
+</html>
