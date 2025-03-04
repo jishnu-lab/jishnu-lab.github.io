@@ -192,7 +192,7 @@
   is_current: True
   is_intern : False
   is_rotation : False
-  position: PhD Student | CMU-Pitt Program in Computational Biology (CPCB)
+  position: PhD Student | Integrative Systems Biology (ISB)
   bio: >
     I am interested in applying systems approaches to uncover mechanisms underlying immune regulation.
   photo: /images/Aaron_Francis.png
@@ -232,14 +232,14 @@
   is_current: True
   is_intern : False
   is_rotation : False
-  position: PhD Student | Integrative Systems Biology (ISB)
+  position: PhD Student | Biomedical Informatics (BMI)
   bio: >
     Koushul is a PhD student developing new spatial sequencing technologies for multi-omic single cell perturbation on fresh tissues. 
   photo: /images/Koushul_Ramjattun.jpeg
 
 - name: Simar Yadav
   is_pi: False
-  is_current: True
+  is_current: False
   is_intern : False
   is_rotation : False
   position: Undergraduate Student | IIT Roorkee
