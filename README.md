@@ -1,53 +1,36 @@
-# Jishnu Lab Website
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Welcome to the repository for the official website of **[Jishnu Lab](https://www.jishnulab.org)**! This repository contains the source code and assets for the lab's website, designed to share our research, team updates, publications, and more.
+## Getting Started
 
-## Table of Contents
+First, run the development server:
 
-- [About](#about)
-- [Contributing](#contributing)
-- [Contact](#contact)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## About
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Jishnu Lab focuses on cutting-edge research in computational systems immunology biology, machine learning and network biology. Our website serves as a central hub for sharing:
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- Information about our lab members
-- Details of ongoing and completed research projects
-- Publications and conference presentations
-- Opportunities to collaborate
-- Contact information
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Contributing
+## Learn More
 
-Contributions are welcome! If you have suggestions for new features, improvements, or bug fixes, feel free to:
+To learn more about Next.js, take a look at the following resources:
 
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a Pull Request.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-If you feel stuck, raise a github issue and someone from our awesome team will get back!
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Contact
+## Deploy on Vercel
 
-For questions, feedback, or collaborations, please reach out to us via:
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- **Website:** [www.jishnulab.org](https://www.jishnulab.org)
-- **Email:** [jishnu@pitt.edu](mailto:jishnu@pitt.edu)
-
-This website was developed by [Simar Yadav](mailto:simar_y@bt.iitr.ac.in), and is maintained by [Swapnil Keshari](https://www.swapnilkeshari.github.io)
-
----
-
-Thank you for visiting the Jishnu Lab website repository!
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
