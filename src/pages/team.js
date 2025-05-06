@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Layout from "@/components/common/layout";
-import { TeamData } from "@/pages/ui_data/team_ui_data";
+import { TeamData } from "@/components/ui_data/team_ui_data";
 export default function Publication() {
     return (
         <>

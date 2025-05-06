@@ -1,6 +1,6 @@
 import React from "react";
 import { CanvasRevealEffect, Card, ImageIcon } from "@/components/ui/canvas-reveal-effect";
-import { formatPeopleTagsLinksRendered } from "@/pages/ui_data/tag_ui_data";
+import { formatPeopleTagsLinksRendered } from "@/components/ui_data/tag_ui_data";
 
 // Define the role order and handle combining roles
 export const roleOrder = {

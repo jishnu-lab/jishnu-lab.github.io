@@ -1,6 +1,6 @@
 import { Timeline } from "@/components/ui/timeline";
 import changelog from "@/assets/data/changelog.json";
-import {formatPeopleTagsLinksRendered } from "@/pages/ui_data/tag_ui_data";
+import {formatPeopleTagsLinksRendered } from "@/components/ui_data/tag_ui_data";
 
 const data = changelog
 .slice() // make a shallow copy so original isn't mutated

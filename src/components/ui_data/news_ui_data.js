@@ -6,7 +6,7 @@ import {
 } from "@tabler/icons-react";
 import news from "@/assets/data/news.json";
 import {NewsCard} from "@/components/ui/news-card";
-import {formatPeopleTagsLinksRendered } from "@/pages/ui_data/tag_ui_data";
+import {formatPeopleTagsLinksRendered } from "@/components/ui_data/tag_ui_data";
 import {GlowingStarsBackgroundCard } from "@/components/backgrounds/glowing-stars";
 
 const tagIconMap = {

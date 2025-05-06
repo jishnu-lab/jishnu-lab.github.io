@@ -2,7 +2,6 @@
 import Head from "next/head";
 import Layout from "@/components/common/layout";
 import React from "react";
-import { cn } from "@/lib/utils";
 import {HeroHighlight} from "@/components/ui/hero-highlight";
 import { TextRevealCard} from "@/components/ui/text-reveal-card";
 

@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Layout from "@/components/common/layout";
-import { TimelineData } from "@/pages/ui_data/changelog_ui_data";
+import { TimelineData } from "@/components/ui_data/changelog_ui_data";
 import { SparklesCore } from "@/components/ui/sparkles";
 import { BackgroundBeams } from "@/components/backgrounds/background-beams";
 export default function Changelog() {

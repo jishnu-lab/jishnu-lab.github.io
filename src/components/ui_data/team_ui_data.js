@@ -1,6 +1,6 @@
 import React from "react";
-import { TeamCard } from "@/pages/ui_data/teamcard_ui_data";
-import { TeamTable } from "@/pages/ui_data/teamtable_ui_data";
+import { TeamCard } from "@/components/ui_data/teamcard_ui_data";
+import { TeamTable } from "@/components/ui_data/teamtable_ui_data";
 import teamdata from "@/assets/data/team.json";
 
 export function TeamData() {

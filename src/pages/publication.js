@@ -2,10 +2,10 @@
 import { useState, useMemo} from "react";
 import Head from "next/head";
 import Layout from "@/components/common/layout";
-import { PublicationData } from "./ui_data/publication_ui_data";
+import { PublicationData } from "@/components/ui_data/publication_ui_data";
 import publications from "@/assets/data/publications.json";
 import {MultiSelectDropdown} from "@/components/ui/multiselect-dropdown";
-import {formatPeopleTagsForDropdown, formatDomainTagsForDropdown} from "@/pages/ui_data/tag_ui_data";
+import {formatPeopleTagsForDropdown, formatDomainTagsForDropdown} from "@/components/ui_data/tag_ui_data";
 import { cn } from "@/lib/utils";
 
 export default function Publication() {
