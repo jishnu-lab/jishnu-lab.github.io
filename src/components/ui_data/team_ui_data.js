@@ -4,8 +4,8 @@ import { TeamTable } from "@/components/ui_data/teamtable_ui_data";
 import teamdata from "@/assets/data/team.json";
 
 export function TeamData() {
-  const current = teamdata.filter((p) => p.isCurrent === "TRUE");
-  const alumni = teamdata.filter((p) => p.isCurrent !== "TRUE");
+  const current = teamdata.filter((p) => p.isCurrent === true);
+  const alumni = teamdata.filter((p) => p.isCurrent !== true);
 
   return (
     <div className="py-20">

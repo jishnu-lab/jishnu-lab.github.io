@@ -108,7 +108,7 @@ export function ExpandableCard({
                     {domainTagsRendered}
                     {firstAuthorsLabLinksRendered}
                     {otherLabMembersLinksRendered}
-                    {isCorrespondingAuthorJishnu === "TRUE"? ("Jishnu is also one of the Co-/Corresponding Author. Feel free to reach out!") :(null) }
+                    {isCorrespondingAuthorJishnu === true? ("Jishnu is also one of the Co-/Corresponding Author. Feel free to reach out!") :(null) }
                   </div>
 
                   <motion.a
