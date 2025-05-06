@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Layout from "@/components/common/layout";
-import {Globe} from "@/pages/ui_data/globe_ui_data";
+import {Globe} from "@/components/ui_data/globe_ui_data";
 import {IconRepeat} from "@tabler/icons-react";
 import { cn } from "@/lib/utils";
 import { BackgroundLines } from "../components/backgrounds/background-lines";

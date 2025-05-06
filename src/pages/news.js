@@ -1,9 +1,8 @@
 import Head from "next/head";
 import Layout from "@/components/common/layout";
-import {NewsCardData} from "@/pages/ui_data/news_ui_data";
+import {NewsCardData} from "@/components/ui_data/news_ui_data";
 import { cn } from "@/lib/utils";
 import React from "react";
-import {GlowingStarsBackgroundCard } from "../components/backgrounds/glowing-stars";
 
 export default function News() {
     return (

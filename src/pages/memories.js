@@ -1,7 +1,7 @@
 "use client";
 import Head from "next/head";
 import Layout from "@/components/common/layout";
-import {CardsCarousel} from "@/pages/ui_data/memories_ui_data";
+import {CardsCarousel} from "@/components/ui_data/memories_ui_data";
 import { BackgroundBeamsWithCollision } from "@/components/backgrounds/background-beams-collision";
 
 

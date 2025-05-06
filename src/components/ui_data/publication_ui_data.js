@@ -1,7 +1,7 @@
 "use client";
 import {ExpandableCard} from "@/components/ui/expandable-cards";
 import {IconMusic, IconMusicStar} from "@tabler/icons-react";
-import { formatDomainTagsRendered, formatPeopleTagsLinksRendered } from "@/pages/ui_data/tag_ui_data";
+import { formatDomainTagsRendered, formatPeopleTagsLinksRendered } from "@/components/ui_data/tag_ui_data";
 
 
 export function PublicationData({data}) {
