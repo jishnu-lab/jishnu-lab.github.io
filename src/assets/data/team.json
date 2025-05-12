@@ -1,13 +1,13 @@
 [
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Jishnu",
     "lastName": "Das",
     "contactEmailId": "jishnu@pitt.edu",
-    "shortBlurb": "Jishnu completed an undergrad degree in Bioengineering at the Indian Institute of Technology Kanpur followed by graduate studies in Computational Biology at Cornell University. After a short postdoc at the Ragon Institute of MGH, MIT & Harvard/MIT, Jishnu started his Systems Immunology lab. His most important role is that of a ???translator\" of jargon across disciplines (comp bio, basic and translational clinical immunology); this helps bridge the interdisciplinary expertise in the lab.",
+    "shortBlurb": "Jishnu completed an undergrad degree in Bioengineering at the Indian Institute of Technology Kanpur followed by graduate studies in Computational Biology at Cornell University. After a short postdoc at the Ragon Institute of MGH, MIT & Harvard/MIT, Jishnu started his Systems Immunology lab. His most important role is that of a ,??translator\" of jargon across disciplines (comp bio, basic and translational clinical immunology); this helps bridge the interdisciplinary expertise in the lab.",
     "roleInLab": "Principal Investigator",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2020-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2020",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -20,14 +20,14 @@
     "googleScholarLink": "https://scholar.google.com/citations?user=61wI3HMAAAAJ&hl=en"
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Zarifeh",
     "lastName": "Heidari Rarani",
     "contactEmailId": "",
     "shortBlurb": "With a background in control systems engineering, I am deeply passionate about venturing into the captivating realm of computational biology, employing innovative methodologies to unravel its mysteries.",
     "roleInLab": "Post Doctoral Fellow",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -40,14 +40,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Isha",
     "lastName": "Mehta",
     "contactEmailId": "",
     "shortBlurb": "Passion to study the broader perspective to answer biological questions as opposed to the traditional reductionist approach is what brought Isha to Computational-Immunology Core. 'Wordle' and 'Quordle' are her daily dose of Dopamine.",
     "roleInLab": "Research Scientist",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2021-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2021",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -60,14 +60,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Mary",
     "lastName": "Dorothy Cundiff",
     "contactEmailId": "",
-    "shortBlurb": "Mary is a postdoc with backgrounds in systems neurobiology, biochemistry, and general biology. She received her bachelor???s in biology from Centre College, her masters???s in chemistry from Villanova, and her doctorate in biological sciences from Carnegie Mellon University. She is passionate about learning new things, expanding her computational skills to develop streamlined analyses, and disseminating what she???s learned to anyone who will listen. Mary loves reading, crafting, and going on outdoor adventures with her dog, Daisy.",
+    "shortBlurb": "Mary is a postdoc with backgrounds in systems neurobiology, biochemistry, and general biology. She received her bachelor,??s in biology from Centre College, her masters,??s in chemistry from Villanova, and her doctorate in biological sciences from Carnegie Mellon University. She is passionate about learning new things, expanding her computational skills to develop streamlined analyses, and disseminating what she,??s learned to anyone who will listen. Mary loves reading, crafting, and going on outdoor adventures with her dog, Daisy.",
     "roleInLab": "Post Doctoral Fellow",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2024-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2024",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -80,16 +80,16 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Hanxi",
     "lastName": "Xiao",
     "contactEmailId": "",
     "shortBlurb": "Hanxi is currently a PhD student focusing on developing methods for sequencing data analyses. She is mainly interested in applied statistics and machine learning approaches. She has 2 cats who take up most of her free time and is trying to grow a patio garden",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2020-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2020",
     "leavingMonthAndYear": "",
-    "coMentorString": "Swapnil Keshari",
+    "coMentorString": "",
     "isCurrent": true,
     "slugLongTermMembers": "hanxi_xiao",
     "photoLink": "/images/personnel/hanxi_xiao",
@@ -100,14 +100,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Swapnil",
     "lastName": "Keshari",
     "contactEmailId": "swk25@pitt.edu",
     "shortBlurb": "Swapnil is a Computational biologist enthusiast with a keen interest in the field of genomics. Before joining the CPCB program, he completed his B.Tech. in chemical engineering from IIT Bombay, India. He likes to travel a lot and is always up for outdoor sports :). In addition to that, he loves to read crime fiction novels, paint, and swim.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -116,18 +116,18 @@
     "websiteLink": "https://swapnilkeshari.github.io/",
     "linkedInLink": "https://www.linkedin.com/in/swapnilkeshari23/",
     "githubLink": "https://github.com/swapnilkeshari",
-    "xLink": "",
-    "googleScholarLink": ""
+    "xLink": "https://x.com/SwapnilKeshari7",
+    "googleScholarLink": "https://scholar.google.com/citations?hl=en&user=rqr4NuYAAAAJ"
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Prabal",
     "lastName": "Chhibbar",
     "contactEmailId": "",
     "shortBlurb": "Prabal completed his B.Tech in computer science and engineering from SRM Institute of Science and Technology in 2019. His interests are in Protein-Protein Interactions, Host-Viral interactions, complex networks, machine learning, and deep learning. Prabal is always eager to discuss science and brainstorm ideas. Out of work, you can find him passionately discussing politics, reading voraciously and consuming a whole lot of content.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "ISB",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -140,14 +140,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Trirupa",
     "lastName": "Chakraborty",
     "contactEmailId": "",
     "shortBlurb": "Trirupa has done her BS-MS dual degree from IISER Mohali, India. Her research is primarily focused on understanding the network of non-coding DNA regions in the B cell and how they may affect B cell fate dynamics. When she is not squinting at large blocks of code, you'd find her exploring new places to eat, grooving to random Tamil songs and learning Indian classical dance, or just chillin' with her friends B)",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "ISB",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -160,14 +160,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Javad",
     "lastName": "Rahimikollu",
     "contactEmailId": "",
     "shortBlurb": "Javad enjoys doing research and developing methods for solving real-world problems.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2022-02-01T05:00:00.000Z",
+    "joiningMonthAndYear": "February, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -180,14 +180,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Priyamvada",
     "lastName": "Guha Roy",
     "contactEmailId": "",
     "shortBlurb": "Priyamvada is a second-year master's student in the Department of Human Genetics. She is interested in studying the genetic architecture underlying complex traits of public health importance. In her free time, she enjoys baking and petting dogs.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "Human Genetics",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -200,14 +200,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Aaron",
     "lastName": "Rosen",
     "contactEmailId": "",
     "shortBlurb": "Aaron is using computational methods to study host-pathogen interactions and autoimmunity. Before joining CPCB, Aaron graduated from the University of Washington with a B.S. in biochemistry/applied math.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2023-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2023",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -220,14 +220,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Marisa",
     "lastName": "Abundis",
     "contactEmailId": "",
     "shortBlurb": "Marisa Abundis is a first-year PhD student in the Department of Computational & Systems Biology. She is interested in using computational methods to improve our understanding of human health and disease. In her free time she enjoys thrifting, finding new places to eat, and looking at cute animals.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2023-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2023",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -240,14 +240,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Alisa",
     "lastName": "Omelchenko",
     "contactEmailId": "",
     "shortBlurb": "Alisa completed a B.S./M.S. in Biotechnology at NYU Tandon School of Engineering. Her scientific goal is to bridge the gap between the computational and biology fields by designing easily adaptable computational methods. Outside of work, she is an avid baker and loves learning to cook new cuisines. She also enjoys dancing, hiking, and yoga.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2023-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2023",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -260,14 +260,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Zakaria",
     "lastName": "Larbi Dahmani",
     "contactEmailId": "",
     "shortBlurb": "Interested in the intersection of physics, chemistry, and biology, AI enthusiast, love to learn about people's culture and stories, big on hiking, traveling, and sports.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "ISB",
-    "joiningMonthAndYear": "2023-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2023",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -280,14 +280,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Kaveh",
     "lastName": "Moghbeli",
     "contactEmailId": "",
     "shortBlurb": "I am interested in systems immunology, machine learning, and lung transplantation.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "ISB",
-    "joiningMonthAndYear": "2022-03-01T05:00:00.000Z",
+    "joiningMonthAndYear": "March, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -300,14 +300,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Jane",
     "lastName": "Siwek",
     "contactEmailId": "",
     "shortBlurb": "Jane is a student researcher pursuing a degree in Computational & Applied Mathematics & Statistics from William & Mary. She is interested in the intersection between data science and biology, specifically using machine and deep learning methods to explore biological problems such as protein-protein interactions. She is also interested in using deep learning and neural networks to explore global education data and satellite imagery.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2024-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2024",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -320,14 +320,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Tracy",
     "lastName": "Tabib",
     "contactEmailId": "",
     "shortBlurb": "Tracy is a PhD student in the CMU-Pitt Program in Computational Biology (CPCB). She is interested in applying and developing computational methods to single-cell data, particularly for questions and issues relating to human health and disease.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2024-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2024",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -340,16 +340,16 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Alyson",
     "lastName": "Wang",
     "contactEmailId": "",
     "shortBlurb": "Ally received her degrees in Chemistry and Computer Science from Wellesley College and is co-advised by Nate Lord. Outside the lab, she enjoys figure skating, playing video games, and baking.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2024-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2024",
     "leavingMonthAndYear": "",
-    "coMentorString": "",
+    "coMentorString": "Nate Lord",
     "isCurrent": true,
     "slugLongTermMembers": "alyson_wang",
     "photoLink": "/images/personnel/alyson_wang",
@@ -360,14 +360,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Aaron",
     "lastName": "Francis",
     "contactEmailId": "",
     "shortBlurb": "I am interested in applying systems approaches to uncover mechanisms underlying immune regulation.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "PMI",
-    "joiningMonthAndYear": "2024-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2024",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -380,16 +380,16 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Yijia",
     "lastName": "Chen",
     "contactEmailId": "",
     "shortBlurb": "Yijia graduated from Rutgers University-New Brunswick with a degree in Plant Biology. After his undergraduate studies, he moved to Columbia University for the MA Biotechnology program. His master's thesis, mentored by Dr. Alex Tsankov, focused on copy number variation and its impact on the tumor microenvironment by utilizing NGS datasets and computational methods. He is now a PhD student in the ISB program, co-mentored by Dr. Amanda Poholek. He is interested in using spatial technology to answer questions in immunology. In his free time, he enjoys playing tennis and the Yu-Gi-Oh! Trading Card Game for fun.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "PMI",
-    "joiningMonthAndYear": "2024-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2024",
     "leavingMonthAndYear": "",
-    "coMentorString": "",
+    "coMentorString": "Amanda Poholek",
     "isCurrent": true,
     "slugLongTermMembers": "yijia_chen",
     "photoLink": "/images/personnel/yijia_chen",
@@ -400,16 +400,16 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Akanksha",
     "lastName": "Sachan",
     "contactEmailId": "",
     "shortBlurb": "Can tolerate spicy food",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2023-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2023",
     "leavingMonthAndYear": "",
-    "coMentorString": "",
+    "coMentorString": "Aditi Gurkar",
     "isCurrent": true,
     "slugLongTermMembers": "akanksha_sachan",
     "photoLink": "/images/personnel/akanksha_sachan",
@@ -420,14 +420,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Akash",
     "lastName": "Kishore",
     "contactEmailId": "",
     "shortBlurb": "Akash is interested in utilizing computational approaches for problems in biology no matter how big or small. Purveyor of random stories as a trivia buff, and always up for a game of tennis :)",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
-    "joiningMonthAndYear": "2025-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2025",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -440,14 +440,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Koushul",
     "lastName": "Ramjattun",
     "contactEmailId": "",
     "shortBlurb": "Koushul is a PhD student developing new spatial sequencing technologies for multi-omic single cell perturbation on fresh tissues.",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "BMI",
-    "joiningMonthAndYear": "2024-03-01T05:00:00.000Z",
+    "joiningMonthAndYear": "March, 2024",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -460,7 +460,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Simar",
     "lastName": "Yadav",
     "contactEmailId": "",
@@ -480,7 +480,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Shloka",
     "lastName": "Shukla",
     "contactEmailId": "",
@@ -500,7 +500,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Kiran",
     "lastName": "Nazarali",
     "contactEmailId": "",
@@ -520,14 +520,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Yeque(Sissi)",
     "lastName": "Sun",
     "contactEmailId": "",
     "shortBlurb": "Sissi completed her master's degree in public health at the University of Columbia. With a strong passion for sequencing data analysis, she values the chance to contribute to a dynamic and diverse work environment. Sissi aims to bring a unique perspective from the field of public health to the field of Bioinformatics. During her leisure hours, she enjoys indulging in manga, and anime, exploring various cuisines, photography, and sightseeing.",
     "roleInLab": "Research Assistant",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": false,
@@ -540,14 +540,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Augusta",
     "lastName": "Vincent",
     "contactEmailId": "",
     "shortBlurb": "",
     "roleInLab": "Research Scientist",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": true,
@@ -560,7 +560,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Aniket",
     "lastName": "Samit Naik",
     "contactEmailId": "",
@@ -580,14 +580,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Syed",
     "lastName": "A. Rahman",
     "contactEmailId": "",
     "shortBlurb": "",
     "roleInLab": "Post Doctoral Fellow",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2020-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2020",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": false,
@@ -600,14 +600,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Alexis",
     "lastName": "Brownell",
     "contactEmailId": "",
     "shortBlurb": "",
     "roleInLab": "Research Assistant",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": false,
@@ -620,14 +620,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Xin(Mike)",
     "lastName": "Bing",
     "contactEmailId": "",
     "shortBlurb": "",
     "roleInLab": "Post Doctoral Fellow",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2020-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2020",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": false,
@@ -640,14 +640,14 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Ogechukwu",
     "lastName": "Ezenwa",
     "contactEmailId": "",
     "shortBlurb": "",
     "roleInLab": "Research Assistant",
     "graduateProgram": "NA",
-    "joiningMonthAndYear": "2022-01-01T05:00:00.000Z",
+    "joiningMonthAndYear": "January, 2022",
     "leavingMonthAndYear": "",
     "coMentorString": "",
     "isCurrent": false,
@@ -660,7 +660,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Carlos",
     "lastName": "Cosme Jr.",
     "contactEmailId": "",
@@ -680,7 +680,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Mengying",
     "lastName": "Hu",
     "contactEmailId": "",
@@ -700,7 +700,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Sonia",
     "lastName": "Kruznelnecki",
     "contactEmailId": "",
@@ -720,7 +720,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Roshni",
     "lastName": "Bhatt",
     "contactEmailId": "",
@@ -740,7 +740,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Sophia",
     "lastName": "Hu",
     "contactEmailId": "",
@@ -760,7 +760,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Jacob",
     "lastName": "Berkowitz",
     "contactEmailId": "",
@@ -780,7 +780,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Anna",
     "lastName": "Rosengart",
     "contactEmailId": "",
@@ -800,7 +800,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Ansgar",
     "lastName": "Devadhasan",
     "contactEmailId": "",
@@ -820,7 +820,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Iliyan",
     "lastName": "Nazarali",
     "contactEmailId": "",
@@ -840,7 +840,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Woo",
     "lastName": "Yong Chang",
     "contactEmailId": "",
@@ -860,7 +860,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Eunseo",
     "lastName": "Sung",
     "contactEmailId": "",
@@ -880,7 +880,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Lian",
     "lastName": "Morales",
     "contactEmailId": "",
@@ -900,7 +900,7 @@
     "googleScholarLink": ""
   },
   {
-    "dateFirstCreated(not_used_anywhere_just_for_records)": "2025-05-02T04:00:00.000Z",
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
     "firstName": "Amna",
     "lastName": "Irfan",
     "contactEmailId": "",
