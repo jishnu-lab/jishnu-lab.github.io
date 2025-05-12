@@ -1,7 +1,7 @@
 [
   {
     "title": "Unique and shared transcriptomic signatures underlying localized scleroderma pathogenesis identified using interpretable machine learning",
-    "authors": "Rosen AB*, Sanyal A*, Werner THG, Berkowitz JS, Tabib T, Lafyatis R, Jacobe H, Das J^? Torok KS^",
+    "authors": "Rosen AB*, Sanyal A*, Werner THG, Berkowitz JS, Tabib T, Lafyatis R, Jacobe H, Das J^, Torok KS^",
     "date": "04/08/2025",
     "image": "/images/publications/Unique-and-shared-transcriptomic-signatures.jpg",
     "domainTags": "Antibodyomics",
@@ -98,7 +98,7 @@
     "featured": false
   },
   {
-    "title": "Tim-3 Is Required for Regulatory T Cell???Mediated Promotion of T Cell Exhaustion and Viral Persistence during Chronic Lymphocytic Choriomeningitis Virus Infection",
+    "title": "Tim-3 Is Required for Regulatory T Cell,??Mediated Promotion of T Cell Exhaustion and Viral Persistence during Chronic Lymphocytic Choriomeningitis Virus Infection",
     "authors": "Nieves-Rosado H, Banerjee H, Gocher-Demske A, Manandhar P, Mehta I, Ezenwa O, Xie B, Murter B, Das J, Vignali D, Delgoffe G, Kane L",
     "date": "08/30/2024",
     "image": "/images/publications/Tim_3_Is_Required_for.png",
@@ -169,7 +169,7 @@
   },
   {
     "title": "SLIDE- Significant Latent factor Interaction Discovery and Exploration across biological domains",
-    "authors": "Rahimikollu J*, Xiao H*, Rosengart A, Rosen A, Tabib T, Zdinak P, He K, Bing X, Bunea F, Wegkamp M, Poholek A?, Joglekar A?, Lafyatis R?, Das J?",
+    "authors": "Rahimikollu J*, Xiao H*, Rosengart A, Rosen A, Tabib T, Zdinak P, He K, Bing X, Bunea F, Wegkamp M, Poholek A, Joglekar A, Lafyatis R, Das J",
     "date": "02/19/2024",
     "image": "/images/publications/SLIDE.webp",
     "domainTags": "Machine Learning",
@@ -225,7 +225,7 @@
   },
   {
     "title": "Interpretable machine learning uncovers epithelial transcriptional rewiring and a role for Gelsolin in COPD",
-    "authors": "Sui J*, Xiao H*, Mbaekwe U, Ting NC, Murday K, Hu Q, Gregory AD, Kapellos TS, Yildirim A??, K??nigshoff M, Zhang Y, Sciurba FC,??Das J?, Kliment C?",
+    "authors": "Sui J*, Xiao H*, Mbaekwe U, Ting NC, Murday K, Hu Q, Gregory AD, Kapellos TS, Yildirim A??, K??nigshoff M, Zhang Y, Sciurba FC, Das J, Kliment C",
     "date": "11/08/2024",
     "image": "/images/publications/Interpretable-machine-learning.jpg",
     "domainTags": "Machine Learning",
@@ -253,7 +253,7 @@
   },
   {
     "title": "Deep humoral profiling coupled to interpretable machine learning unveils diagnostic markers and pathophysiology of schistosomiasis",
-    "authors": "Saha A*, Chakraborty T*, Rahimikollu J, Xiao H, de Oliveira LBP, Hand TW, Handali S, Secor WE, A OFraga L, Fairley JK?,??Das J?, Sarkar A?",
+    "authors": "Saha A*, Chakraborty T*, Rahimikollu J, Xiao H, de Oliveira LBP, Hand TW, Handali S, Secor WE, A OFraga L, Fairley JK, Das J, Sarkar A",
     "date": "09/11/2024",
     "image": "/images/publications/Deep_humoral_profiling_coupled_to.png",
     "domainTags": "Antibodyomics",
@@ -281,7 +281,7 @@
   },
   {
     "title": "Aberrant mitochondrial DNA synthesis in macrophages exacerbates inflammation and atherosclerosis",
-    "authors": "Natarajan N, Florentin J, Johny E, Xiao H, O???Neil S, Lei L, Shen J, Ohayon L, Johnson A, Rao K, Li X, Zhao Y, Zhang Y, Tavakoli S, Shiva S, Das J, Dutta P",
+    "authors": "Natarajan N, Florentin J, Johny E, Xiao H, O,??Neil S, Lei L, Shen J, Ohayon L, Johnson A, Rao K, Li X, Zhao Y, Zhang Y, Tavakoli S, Shiva S, Das J, Dutta P",
     "date": "08/11/2024",
     "image": "/images/publications/Aberrant-mitochondrial-DNA.webp",
     "domainTags": "Antibodyomics",
@@ -379,7 +379,7 @@
   },
   {
     "title": "From bench to bedside via bytes- multi-omic immunoprofiling and integration using machine learning and network approaches",
-    "authors": "Xiao H*, Rosen A*, Chhibbar P*, Moise L, Das J?",
+    "authors": "Xiao H*, Rosen A*, Chhibbar P*, Moise L, Das J",
     "date": "11/09/2023",
     "image": "/images/publications/From-bench.webp",
     "domainTags": "Antibodyomics",
@@ -392,10 +392,10 @@
     "featured": false
   },
   {
-    "title": "Cell???type???specific biomarkers of systemic sclerosis disease severity capture cell???intrinsic and cell???extrinsic circuits",
-    "authors": "Berkowitz J*, Tabib T*, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R?, Das J?",
+    "title": "Cell,??type,??specific biomarkers of systemic sclerosis disease severity capture cell,??intrinsic and cell,??extrinsic circuits",
+    "authors": "Berkowitz J*, Tabib T*, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R, Das J",
     "date": "04/25/2023",
-    "image": "/images/publications/Cell???type.webp",
+    "image": "/images/publications/Cell,??type.webp",
     "domainTags": "Machine Learning",
     "href": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.42536",
     "journal": "Arthritis and Rheumatology",
@@ -435,7 +435,7 @@
   },
   {
     "title": "Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients",
-    "authors": "Abdelhamid SS, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby JL, Kar UK, Neal MD, Sperry J, Das J?, Billiar TR?",
+    "authors": "Abdelhamid SS, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby JL, Kar UK, Neal MD, Sperry J, Das J, Billiar TR",
     "date": "08/23/2022",
     "image": "/images/publications/Multi-Omic.webp",
     "domainTags": "Machine Learning",
@@ -463,7 +463,7 @@
   },
   {
     "title": "High Dimensional Multiomics Reveals Unique Characteristics of Early Plasma Administration in Polytrauma Patients With TBI",
-    "authors": "Wu J? Moheimani H, Li S, Kar U, Bonaroti J, Miller R, Daley B, Harbrecht B, Claridge J, Gruen D, Phelan H,Guyette F, Neal M, Das J? Sperry J, Billiar T???",
+    "authors": "Wu J, Moheimani H, Li S, Kar U, Bonaroti J, Miller R, Daley B, Harbrecht B, Claridge J, Gruen D, Phelan H,Guyette F, Neal M, Das J, Sperry J, Billiar T",
     "date": "10/14/2022",
     "image": "/images/publications/high-dimensional-multiomics.jpeg",
     "domainTags": "Machine Learning",
@@ -505,7 +505,7 @@
   },
   {
     "title": "Essential Regression- A generalizable framework for inferring causal latent factors from multi-omic datasets",
-    "authors": "Bing X, Lovelace T, Bunea F, Wegkamp M, Kasturi S.P, Singh H?, Benos P.V?, Das J?",
+    "authors": "Bing X, Lovelace T, Bunea F, Wegkamp M, Kasturi S.P, Singh H, Benos P.V, Das J",
     "date": "05/13/2022",
     "image": "/images/publications/Essential-Regression.webp",
     "domainTags": "Machine Learning",
@@ -533,7 +533,7 @@
   },
   {
     "title": "Autoreactive CD8+ T cells are restrained by an exhaustion-like program that is maintained by LAG3",
-    "authors": "Grebinoski S, Zhang Q, Cillo AR, Manne S, Xiao H, Brunazzi EA, Tabib T, Cardello C, Lian CG, Murphy GF, Lafyatis R, Wherry EJ, Das J, Workman CJ, Vignali DAA",
+    "authors": "Grebinoski S*, Zhang Q, Cillo AR, Manne S, Xiao H, Brunazzi EA, Tabib T, Cardello C, Lian CG, Murphy GF, Lafyatis R, Wherry EJ, Das J, Workman CJ, Vignali DAA^",
     "date": "07/26/2022",
     "image": "/images/publications/Autoreactive-CD8+.webp",
     "domainTags": "Gene Regulatory Networks, Machine Learning",
@@ -547,7 +547,7 @@
   },
   {
     "title": "Antibodies targeting conserved non-canonical antigens and endemic coronaviruses associate with favorable outcomes in severe COVID-19",
-    "authors": "Peddireddy SP*, Rahman S*, Cillo AR, Vijay GM, Somasundaram A, Workman CJ, Bain W, McVerry BJ, Methe B, Lee JS, Ray P, Ray A, Bruno TC, Vignali DAA, Kitsios GD, Morris A, Singh H?, Sarkar A?, Das J?",
+    "authors": "Peddireddy SP*, Rahman S*, Cillo AR, Vijay GM, Somasundaram A, Workman CJ, Bain W, McVerry BJ, Methe B, Lee JS, Ray P, Ray A, Bruno TC, Vignali DAA, Kitsios GD, Morris A, Singh H^, Sarkar A^, Das J^",
     "date": "06/28/2022",
     "image": "/images/publications/Antibodies-targeting.webp",
     "domainTags": "Antibodyomics, Machine Learning",
@@ -561,7 +561,7 @@
   },
   {
     "title": "A Supervised Take on Dimensionality Reduction via Hybrid Subset Selection",
-    "authors": "Rahimikollu J, Das J?",
+    "authors": "Rahimikollu J*, Das J^",
     "date": "08/12/2022",
     "image": "/images/publications/A-Supervised.webp",
     "domainTags": "Machine Learning",
@@ -575,7 +575,7 @@
   },
   {
     "title": "A network-based approach to identify expression modules underlying rejection in pediatric liver transplantation",
-    "authors": "Ningappa M*, Rahman S*, Higgs B.W, Ashokkumar C.S, Sahni N, Sindhi R?, Das J?",
+    "authors": "Ningappa M*, Rahman S*, Higgs B.W, Ashokkumar C.S, Sahni N, Sindhi R, Das J",
     "date": "04/19/2022",
     "image": "/images/publications/a-network-based.jpg",
     "domainTags": "Antibodyomics",
@@ -743,7 +743,7 @@
   },
   {
     "title": "Latent model-based clustering for biological discovery",
-    "authors": "Bin X, Bunea F?, Royer M, Das J?",
+    "authors": "Bin X, Bunea F, Royer M, Das J",
     "date": "04/26/2019",
     "image": "/images/publications/latent-based.jpeg",
     "domainTags": "Machine Learning",
