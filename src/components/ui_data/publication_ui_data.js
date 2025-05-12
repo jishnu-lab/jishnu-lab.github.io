@@ -21,14 +21,15 @@ export function PublicationData({data}) {
                 journal={pub.journal}
                 authors={pub.authors}
                 domainTagsRendered = {formatDomainTagsRendered(pub.domainTags, "Domain")}
-                firstAuthorsLabLinksRendered = {formatPeopleTagsLinksRendered(pub.firstAuthorsLab, "First Authors Lab")}
-                otherLabMembersLinksRendered = {formatPeopleTagsLinksRendered(pub.otherLabMembers, "Contributing Lab Members")}
+                firstAuthorsLabLinksRendered = {formatPeopleTagsLinksRendered(pub.firstAuthorsLab, "(Co-)First Author(s) Lab")}
+                otherLabMembersLinksRendered = {formatPeopleTagsLinksRendered(pub.otherLabMembers, "Contributing Lab Member(s)")}
                 isCorrespondingAuthorJishnu = {pub.isCorrespondingAuthorJishnu}
                 icon ={pub.firstAuthorsLab.length > 0
                       ? <IconMusicStar className="h-9 w-8 text-green-500" />
-                      : <IconMusic className="h-9 w-9 text-green-500" />
+                      : <IconMusic className="h-9 w-9 text-blue-300" />
                   }
-                ctaText="More"
+                openText="Link"
+                closeText="More"
                 ctaLink={pub.href}
                 imageSrc= {pub.image}
               

@@ -50,7 +50,7 @@ const FloatingDockMobile = ({ items, className }) => {
               >
                 <a
                   href={item.href}
-                  className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-50 dark:bg-neutral-900"
+                  className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 dark:bg-neutral-900"
                 >
                   <div className="h-4 w-4">{item.icon}</div>
                 </a>
@@ -62,12 +62,12 @@ const FloatingDockMobile = ({ items, className }) => {
 
       <button
         onClick={() => setOpen(!open)}
-        className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-50 dark:bg-neutral-800"
+        className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 dark:bg-neutral-900"
       >
           {open ? (
-            <IconLayoutNavbarCollapseFilled className="h-5 w-5 text-neutral-500 dark:text-neutral-400" />
+            <IconLayoutNavbarCollapseFilled className="h-5 w-5 text-neutral-900 dark:text-neutral-300" />
           ) : (
-            <IconLayoutBottombarCollapseFilled className="h-5 w-5 text-neutral-500 dark:text-neutral-400" />
+            <IconLayoutBottombarCollapseFilled className="h-5 w-5 text-neutral-900 dark:text-neutral-300" />
           )}
         {/* <IconLayoutBottombarCollapse className="h-5 w-5 text-neutral-500 dark:text-neutral-400" /> */}
       </button>
@@ -94,7 +94,7 @@ const FloatingDockDesktop = ({
       onMouseMove={handleMouseMove}
       onMouseLeave={() => mouseCoord.set(Infinity)}
       className={cn(
-        "hidden h-16 items-end gap-4 rounded-2xl bg-gray-50 px-4 pb-3 md:flex dark:bg-neutral-900",
+        "hidden h-16 items-end gap-4 rounded-2xl bg-gray-400 px-4 pb-3 md:flex dark:bg-neutral-900",
         isVertical ? "flex-col h-auto w-16 py-4 px-2 gap-4" : "items-end h-16 px-4 pb-3 gap-4",
         className
       )}

@@ -1,6 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+# assets get update via google sheets scripts. Hence, we don't need to track them.
+/src/assets/data
 /node_modules
 /.pnp
 .pnp.*

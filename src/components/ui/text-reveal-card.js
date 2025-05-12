@@ -120,7 +120,7 @@ export const TextRevealCardTitle = ({
   className
 }) => {
   return (
-    <h2 className={twMerge("text-white text-lg mb-2", className)}>
+    <h2 className={twMerge("text-neutral-200 text-lg mb-2", className)}>
       {children}
     </h2>
   );

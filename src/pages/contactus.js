@@ -15,8 +15,8 @@ export function FeaturesSection() {
           "col-span-1 lg:col-span-3 dark:border-transparent",
       },
       {
-        title: "Reading and Clearing Inbox is the real ASMR",
-        description: "Reach us at jishnu@pitt.edu",
+        title: "IYKYK: Clearing Inbox is the OG ASMR",
+        description: "Reach us at jishnu@pitt.edu from wherever you are",
         skeleton: <SkeletonTwo />,
         className: "col-span-1 lg:col-span-3 dark:border-transparent",
       },
@@ -25,8 +25,8 @@ export function FeaturesSection() {
       <div className="relative z-20 py-10 lg:py-10 max-w-7xl mx-auto">
         <div className="px-8">
             <h4 className="text-3xl lg:text-5xl lg:leading-tight max-w-5xl mx-auto text-center 
-                            tracking-tight font-bold text-neutral-500 dark:text-neutral-400">
-            Whatever you like =)
+                            tracking-tight font-bold text-neutral-400 dark:text-neutral-300">
+            Whatever you prefer
             </h4>
  
             <p className="text-sm lg:text-base  max-w-2xl  my-4 mx-auto text-neutral-500 text-center font-normal dark:text-neutral-200">
@@ -112,14 +112,14 @@ export default function ContactUs() {
         <Head>
             <title>Contact Us</title>
             <meta name="description" content="Reach out to us" />
-            <link rel="icon" href="./favicon.ico" />
+            <link rel="icon" type="image/png" href="/favicon-512x512.png"/>
         </Head>
         <BackgroundLines className="fixed inset-0 pointer-events-none -z-10"/>
 
         <Layout>
         <div className="flex justify-center py-10">
             <h2 className="inline-flex items-center gap-2 bg-clip-text text-transparent bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 
-                            text-2xl md:text-4xl lg:text-7xl font-sans font-bold tracking-tight whitespace-nowrap leading-[1.2]">
+                            text-7xl font-sans font-bold tracking-tight whitespace-nowrap leading-[1.2] py-20 md:py-10">
                 Meeting <IconRepeat className="w-10 h-10 text-neutral-500 dark:text-neutral-300" /> Email
             </h2>
         </div>

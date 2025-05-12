@@ -2,7 +2,7 @@ import {
   IconFileRss,
   IconExchange,
   IconHomeFilled,
-  IconNewSection,
+  IconSchool,
   IconAddressBook,
   IconUser,
   IconCameraSelfie
@@ -12,21 +12,21 @@ export const NavItemsData=[
     {
       title: "Team",
       icon: (
-        <IconUser className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconUser className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
       href: "./team",
     },
     {
       title: "Publications",
       icon: (
-        <IconNewSection className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconSchool className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
-      href: "./publication",
+      href: "./publications",
     },
     {
       title: "News",
       icon: (
-        <IconFileRss className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconFileRss className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
       href: "./news",
     },
@@ -44,28 +44,28 @@ export const NavItemsData=[
     {
       title: "Home",
       icon: (
-        <IconHomeFilled className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconHomeFilled className="h-full w-full text-emerald-700 dark:text-green-500" />
       ),
       href: "./",
     },
     {
       title: "Changelog",
       icon: (
-        <IconExchange className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconExchange className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
       href: "./changelog",
     },
     {
       title: "Fun & Memories",
       icon: (
-        <IconCameraSelfie className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconCameraSelfie className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
       href: "./memories",
     },
     {
       title: "Contact Us",
       icon: (
-        <IconAddressBook className="h-full w-full text-neutral-500 dark:text-neutral-300" />
+        <IconAddressBook className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
       href: "./contactus",
     },

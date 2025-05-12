@@ -32,7 +32,7 @@ export const CanvasRevealEffect = ({
           center={["x", "y"]} />
       </div>
       {showGradient && (
-        <div className="absolute inset-0 bg-gradient-to-t from-gray-950 to-[84%]" />
+        <div className="absolute inset-0 bg-radial  from-gray-950 to-[80%]" />
       )}
     </div>
   );
@@ -272,7 +272,7 @@ export function Card({ title, icon, children }) {
     <div
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
-      className="border border-black/[0.2] group/canvas-card flex items-center justify-center dark:border-white/[0.2] max-w-sm w-full mx-auto p-4 relative h-[30rem]"
+      className="border border-black/[0.2] group/canvas-card flex items-center justify-center dark:border-white/[0.2] max-w-sm w-full mx-auto p-4 relative h-[25rem]"
     >
       <Icon className="absolute h-6 w-6 -top-3 -left-3 dark:text-white text-black" />
       <Icon className="absolute h-6 w-6 -bottom-3 -left-3 dark:text-white text-black" />
@@ -292,13 +292,20 @@ export function Card({ title, icon, children }) {
       </AnimatePresence>
 
       <div className="relative z-20">
-        <div className="text-center group-hover/canvas-card:-translate-y-4 group-hover/canvas-card:opacity-0 transition duration-200 w-full mx-auto flex items-center justify-center">
+        {/* Icon Layer */}
+        <div className="relative z-10 group-hover/canvas-card:opacity-0 group-hover/canvas-card:translate-y-2 
+                        transition duration-200">
           {icon}
         </div>
-        <h2 className="dark:text-white text-xl opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4 font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200">
+
+        {/* Title Overlay */}
+        <h2 className="absolute inset-0 flex items-center justify-center text-xl font-bold text-white opacity-0 text-center
+                      group-hover/canvas-card:opacity-100 group-hover/canvas-card:-translate-y-2 
+                      transition duration-200 z-20">
           {title}
         </h2>
       </div>
+
     </div>
   );
 }
@@ -320,7 +327,7 @@ export const Icon = ({ className, ...rest }) => {
 };
 
 export const ImageIcon = ({ basePath, title }) => {
-  const fallbackExtensions = ["png", "jpg", "jpeg", "webp", "gif"];
+  const fallbackExtensions = ["png", "jpg", "jpeg", "webp"];
   const extIndex = useRef(0);
 
   const [src, setSrc] = useState(`${basePath}.${fallbackExtensions[extIndex.current]}`);
@@ -341,7 +348,7 @@ export const ImageIcon = ({ basePath, title }) => {
       src={src}
       alt={title}
       onError={handleError}
-      className="w-full h-80 lg:h-80 sm:rounded-tr-lg sm:rounded-tl-lg object-cover object-top"
+      className="w-full h-80 rounded-lg object-cover object-center" 
     />
   );
 };

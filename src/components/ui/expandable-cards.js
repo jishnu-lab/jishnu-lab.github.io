@@ -3,6 +3,17 @@ import React, { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useOutsideClick } from "@/lib/hooks/use-outside-click";
 
+function processAuthors(authors) {
+  const authorList = authors.split(',').map(a => a.trim());
+  const firstAuthors = authorList
+    .filter(a => a.endsWith('*'));
+    // .map(a => a.replace('*', '').trim());
+  const correspondingAuthors = authorList
+    .filter(a => a.endsWith('^'));
+    // .map(a => a.replace('^', '').trim());
+  return `${firstAuthors.join(', ')}, [...] , ${correspondingAuthors.join(', ')}`;
+}
+
 export function ExpandableCard({
   cardKey,
   title,
@@ -14,7 +25,8 @@ export function ExpandableCard({
   otherLabMembersLinksRendered,
   isCorrespondingAuthorJishnu,
   icon,
-  ctaText,
+  openText,
+  closeText = openText,
   ctaLink,
   imageSrc,
 }) {
@@ -38,17 +50,19 @@ export function ExpandableCard({
 
   return (
     <>
+      {/* ANIMATING OVERALL LIST PRESENCE ON FIRST LOAD*/}
       <AnimatePresence>
         {active && (
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 bg-black/20 h-full w-full z-10"
+            className="fixed inset-0 bg:black/20 h-full w-full z-10"
           />
         )}
       </AnimatePresence>
 
+      {/* OPEN MODAL*/}
       <AnimatePresence>
         {active && (
           <motion.div
@@ -108,16 +122,16 @@ export function ExpandableCard({
                     {domainTagsRendered}
                     {firstAuthorsLabLinksRendered}
                     {otherLabMembersLinksRendered}
-                    {isCorrespondingAuthorJishnu === true? ("Jishnu is also one of the Co-/Corresponding Author. Feel free to reach out!") :(null) }
+                    {/* {isCorrespondingAuthorJishnu === true? ("Jishnu is also one of the Co-/Corresponding Author. Feel free to reach out!") :(null) } */}
                   </div>
 
                   <motion.a
                     layoutId={`button-${title}-${cardKey}`}
                     href={ctaLink}
                     target="_blank"
-                    className="px-4 py-3 text-sm rounded-full font-bold bg-green-500 text-white"
+                    className="px-4 py-3 text-sm rounded-full hover:underline bg-green-500 text-white"
                   >
-                    {ctaText}
+                    {openText}
                   </motion.a>
                 </div>
               </div>
@@ -126,10 +140,10 @@ export function ExpandableCard({
         )}
       </AnimatePresence>
 
-      {/* On closing */}
+      {/* CLOSED DESIGN*/}
       <div
         onClick={() => setActive(true)}
-        className="p-4 flex flex-col md:flex-row justify-between items-center hover:bg-neutral-50 dark:hover:bg-neutral-800 rounded-xl cursor-pointer max-w-2xl mx-auto"
+        className="p-4 flex flex-col md:flex-row justify-between items-center hover:bg-neutral-200 dark:hover:bg-neutral-800 rounded-xl cursor-pointer max-w-2xl mx-auto"
       >
         <div className="flex gap-4 flex-col md:flex-row">
           <motion.div layoutId={`image-${title}-${cardKey}`}>{icon}</motion.div>
@@ -144,15 +158,22 @@ export function ExpandableCard({
               layoutId={`date_journal-${date}-${journal}-${cardKey}`}
               className="italic text-neutral-600 dark:text-neutral-400"
             >
+            <span className="italic">
               {date} - {journal}
+            </span>
+            <br />
+            <span className="not-italic">
+              {processAuthors(authors)}
+            </span>
             </motion.p>
+
           </div>
         </div>
         <motion.button
-          layoutId={`button-${title}-${cardKey}`}
-          className="px-4 py-2 text-sm rounded-full font-bold bg-gray-100 hover:bg-green-500 hover:text-white text-black mt-4 md:mt-0"
+          layoutId={`closebutton-${title}-${cardKey}`}
+          className="px-4 py-2 text-sm rounded-full hover:underline bg-gray-100 hover:bg-green-500 hover:text-white text-black mt-4 md:mt-0 shadow-md"
         >
-          {ctaText}
+          {closeText}
         </motion.button>
       </div>
     </>

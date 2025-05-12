@@ -54,8 +54,8 @@ export const GlowingStarsTitle = ({
 export const Illustration = ({
   mouseEnter
 }) => {
-  const stars = 108;
-  const columns = 18;
+  const stars = 40;
+  const columns = 10;
 
   const [glowingStars, setGlowingStars] = useState([]);
 
@@ -63,7 +63,7 @@ export const Illustration = ({
 
   useEffect(() => {
     const interval = setInterval(() => {
-      highlightedStars.current = Array.from({ length: 5 }, () =>
+      highlightedStars.current = Array.from({ length: 6 }, () =>
         Math.floor(Math.random() * stars));
       setGlowingStars([...highlightedStars.current]);
     }, 3000);
@@ -110,17 +110,18 @@ const Star = ({
       key={delay}
       initial={{
         scale: 1,
+        background: "light: #fff dark:bg-[#000]",
       }}
       animate={{
         scale: isGlowing ? [1, 1.2, 2.5, 2.2, 1.5] : 1,
-        background: isGlowing ? "#fff" : "#666",
+        background: isGlowing ? "light: #fff dark:bg-[#000]" : "light: #fff dark:bg-[#000]",
       }}
       transition={{
         duration: 2,
         ease: "easeInOut",
         delay: delay,
       }}
-      className={cn("bg-[#666] h-[1px] w-[1px] rounded-full relative z-20")}></motion.div>
+      className={cn("light:bg-[#fff] dark:bg-[#000] h-[1px] w-[1px] rounded-full relative z-20")}></motion.div>
   );
 };
 

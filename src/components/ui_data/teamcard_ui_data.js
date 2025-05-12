@@ -13,14 +13,16 @@ export const roleOrder = {
 };
 // Define the properties for each role level
 export const roleProperties = {
-    1: {animationSpeed: 3,containerClassName: "bg-black", // Background for Principal Investigator,
-        colors: [[236, 72, 153],[232, 121, 249]],dotSize: 2,}, // Pink, Purple
-    2: {animationSpeed: 3,containerClassName: "bg-blue-600", // Blue background for Postdocs and Graduate Students
-        colors: [[125, 211, 252],[85, 159, 241]],dotSize: 3,}, // Light Blue // Blue
-    3: {animationSpeed: 3,containerClassName: "bg-green-600", // Green background for Graduate Students
+    1: {animationSpeed: 3,containerClassName: "bg-emerald-600", // Background for Principal Investigator,
+        colors:[[134, 239, 172],[110, 231, 183]],dotSize: 4,}, // // mint green, // soft jade
+    2: {animationSpeed: 3,containerClassName: "bg-rose-700", // Blue background for Postdocs and Graduate Students
+        colors: [[251, 207, 232],[244, 114, 182]],dotSize: 4,}, // Light Blue // Blue
+    3: {animationSpeed: 3,containerClassName: "bg-violet-600", // Green background for Graduate Students
         colors: [[34, 197, 94],[74, 222, 128]],dotSize: 4,}, // Green
-    100: {animationSpeed: 3,containerClassName: "bg-gray-600", // Gray background for other members
-        colors: [[156, 163, 175],[107, 114, 128]],dotSize: 5,}, // Gray
+    4: {animationSpeed: 3,containerClassName: "bg-yellow-600", // Yellow background for Research Assistants and Interns
+        colors: [[254, 240, 138],[253, 224, 71]],dotSize: 4,}, // Yellow
+    100: {animationSpeed: 3,containerClassName: "bg-violet-600", // Gray background for other members
+        colors: [[156, 163, 175],[107, 114, 128]],dotSize: 4,}, // Gray
 };
 
 export function TeamCard({ members }) {
@@ -55,12 +57,12 @@ export function TeamCard({ members }) {
         return (
           <div key={index} className="w-full">
             <h3 className="text-3xl text-center font-semibold mt-8 dark:text-neutral-300">{roleTitle}</h3>
-            <div className="py-4 grid [grid-template-columns:repeat(auto-fit,minmax(200px,1fr))] gap-8 px-8 max-w-7xl mx-auto bg-white dark:bg-black">
+            <div className="py-4 grid [grid-template-columns:repeat(auto-fit,minmax(200px,1fr))] gap-8 px-8 max-w-7xl mx-auto">
               {group.members.map((person, idx) => (
                 <Card
                   key={idx}
                   title={formatPeopleTagsLinksRendered(person.slugLongTermMembers)}
-                  icon={<ImageIcon basePath={person.photoLink} title={person.firstName} />}
+                  icon={<ImageIcon basePath={person.photoLink}/>}
                 >
                   <CanvasRevealEffect {...properties} />
                 </Card>

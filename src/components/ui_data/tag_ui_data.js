@@ -71,3 +71,27 @@ export const formatDomainTagsForDropdown = (tagsInput) => {
       label: tag,
     }));
   };
+
+export const formatDatesForDropdown = (dateList) => {
+    if (!Array.isArray(dateList)) return [];
+  
+    const yearToDates = {};
+  
+    dateList.forEach((dateStr) => {
+      const year = dateStr?.split("/")?.[2];
+      if (!year) return;
+  
+      if (!yearToDates[year]) {
+        yearToDates[year] = [];
+      }
+      yearToDates[year].push(dateStr);
+    });
+  
+    return Object.entries(yearToDates)
+      .sort((a, b) => b[0] - a[0]) // Sort by year descending
+      .map(([year, dates]) => ({
+        label: year,
+        value: dates, // array of full date strings
+      }));
+  };
+  

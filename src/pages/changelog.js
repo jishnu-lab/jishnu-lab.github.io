@@ -9,14 +9,14 @@ export default function Changelog() {
         <Head>
             <title>Changelog</title>
             <meta name="description" content="My publications" />
-            <link rel="icon" href="/favicon.ico" />
+            <link rel="icon" type="image/png" href="/favicon-512x512.png"/>
         </Head>
         <BackgroundBeams className="fixed inset-0 pointer-events-none -z-10"/>
 
         
         <Layout>
         <div className="w-full bg-grey-700 flex flex-col items-center justify-center overflow-hidden rounded-md">
-            <h2 className="bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 text-2xl md:text-4xl lg:text-7xl font-sans py-2 md:pt-10 relative z-20 font-bold tracking-tight">
+            <h2 className="bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 text-7xl font-sans py-20 md:py-10 relative z-20 font-bold tracking-tight">
             Here, Even Change Changes
             </h2>
             <div className="w-[40rem] relative">
@@ -28,12 +28,12 @@ export default function Changelog() {
         
                 {/* Core component */}
                 <SparklesCore
-                background="bg-primary"
+                background="bg-transparent"
                 minSize={0.4}
                 maxSize={1}
                 particleDensity={1200}
                 className="w-[40rem] h-5"
-                particleColor="#FFFFFF"
+                particleColor="#4CAF50"
                 />
         
                 {/* Radial Gradient to prevent sharp edges */}
