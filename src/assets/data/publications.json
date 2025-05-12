@@ -1,7 +1,7 @@
 [
   {
     "title": "Unique and shared transcriptomic signatures underlying localized scleroderma pathogenesis identified using interpretable machine learning",
-    "authors": "Rosen AB*, Sanyal A*, Werner THG, Berkowitz JS, Tabib T, Lafyatis R, Jacobe H, Das J@? Torok KS@",
+    "authors": "Rosen AB*, Sanyal A*, Werner THG, Berkowitz JS, Tabib T, Lafyatis R, Jacobe H, Das J^? Torok KS^",
     "date": "04/08/2025",
     "image": "/images/publications/Unique-and-shared-transcriptomic-signatures.jpg",
     "domainTags": "Antibodyomics",
@@ -71,7 +71,7 @@
   },
   {
     "title": "Uncovering cell-type-specific immunomodulatory variants and molecular phenotypes in COVID-19 using structurally resolved protein networks",
-    "authors": "Chhibbar P*, Roy P*, Harioudh M*, McGrail D, Yang D, Singh H, Hinterleitner R, Gong YN, Yi SS, Sahni N, Sarkar S, Das J",
+    "authors": "Chhibbar P*, Roy P*, Harioudh M*, McGrail D, Yang D, Singh H, Hinterleitner R, Gong YN, Yi SS, Sahni N, Sarkar S, Das J^",
     "date": "11/24/2024",
     "image": "/images/publications/Uncovering-cell-type-specific.jpg",
     "domainTags": "Protein Networks, Machine Learning",
@@ -85,7 +85,7 @@
   },
   {
     "title": "Transcriptomic and Proteomic Characterization of the Immune Response to Elective Spinal Reconstructive Surgery -Impact of Aging and Comparison with Traumatic Injury Response",
-    "authors": "Bonaroti J, Ozel M, Chen T, Darby J, Sun X, Moheimani H, Reitz K, Kar U Zuckerbraun B,Das J,Okonkwo D, Billiar T",
+    "authors": "Bonaroti J, Ozel M, Chen T, Darby J, Sun X, Moheimani H, Reitz K, Kar U Zuckerbraun B, Das J, Okonkwo D, Billiar T",
     "date": "05/12/2024",
     "image": "/images/publications/transcpritomic-and-proteomic.jpeg",
     "domainTags": "Machine Learning",
