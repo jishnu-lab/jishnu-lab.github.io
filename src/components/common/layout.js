@@ -15,23 +15,36 @@ const geistMono = Geist_Mono({
 });
 
 const links = [
-  { href: "./team", label: "Team" },
-  { href: "./publications", label: "Publications" },
-  { href: "./news", label: "News" },
-  { href: "./home", label: "Home" },
-  { href: "./changelog", label: "Changelog" },
-  { href: "./memories", label: "Fun & Memories" },
-  { href: "./contactus", label: "Contact Us" },
+  { href: "/team", label: "Team" },
+  { href: "/publications", label: "Publications" },
+  { href: "/news", label: "News" },
+  { href: "/home", label: "Home" },
+  { href: "/changelog", label: "Changelog" },
+  { href: "/memories", label: "Fun & Memories" },
+  { href: "/contactus", label: "Contact Us" },
 ];
 
 export default function Layout({ children }) {
   return (
-    <>
-        <Navbar items={NavItemsData} />
-        <div className={`pt-10 pb-10 px-20 ${geistSans.variable} ${geistMono.variable} antialiased`}>
-          {children}
-        </div>
-        <Footer links={links} />
-    </>
+    <div className={`min-h-screen flex flex-col ${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <Navbar items={NavItemsData} />
+      <main className="flex-grow pt-10 pb-10 px-20">
+        {children}
+      </main>
+      <Footer links={links} />
+    </div>
   );
 }
+
+
+// export default function Layout({ children }) {
+//   return (
+//     <>
+//         <Navbar items={NavItemsData} />
+//         <div className={`pt-10 pb-10 px-20 ${geistSans.variable} ${geistMono.variable} antialiased`}>
+//           {children}
+//         </div>
+//         <Footer links={links} />
+//     </>
+//   );
+// }

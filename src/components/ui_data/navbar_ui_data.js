@@ -1,8 +1,8 @@
 import {
   IconFileRss,
   IconExchange,
+  IconBooks,
   IconHomeFilled,
-  IconSchool,
   IconAddressBook,
   IconUser,
   IconCameraSelfie
@@ -14,21 +14,21 @@ export const NavItemsData=[
       icon: (
         <IconUser className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
-      href: "./team",
+      href: "/team",
     },
     {
       title: "Publications",
       icon: (
-        <IconSchool className="h-full w-full text-neutral-900 dark:text-neutral-300" />
+        <IconBooks className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
-      href: "./publications",
+      href: "/publications",
     },
     {
       title: "News",
       icon: (
         <IconFileRss className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
-      href: "./news",
+      href: "/news",
     },
     // {
     //   title: "Aceternity UI",
@@ -46,7 +46,7 @@ export const NavItemsData=[
       icon: (
         <IconHomeFilled className="h-full w-full text-emerald-700 dark:text-green-500" />
       ),
-      href: "./",
+      href: "/",
     },
     {
       title: "Changelog",
@@ -60,14 +60,14 @@ export const NavItemsData=[
       icon: (
         <IconCameraSelfie className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
-      href: "./memories",
+      href: "/memories",
     },
     {
       title: "Contact Us",
       icon: (
         <IconAddressBook className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
-      href: "./contactus",
+      href: "/contactus",
     },
 
   ]

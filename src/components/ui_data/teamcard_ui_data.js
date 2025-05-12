@@ -13,17 +13,77 @@ export const roleOrder = {
 };
 // Define the properties for each role level
 export const roleProperties = {
-    1: {animationSpeed: 3,containerClassName: "bg-emerald-600", // Background for Principal Investigator,
-        colors:[[134, 239, 172],[110, 231, 183]],dotSize: 4,}, // // mint green, // soft jade
-    2: {animationSpeed: 3,containerClassName: "bg-rose-700", // Blue background for Postdocs and Graduate Students
-        colors: [[251, 207, 232],[244, 114, 182]],dotSize: 4,}, // Light Blue // Blue
-    3: {animationSpeed: 3,containerClassName: "bg-violet-600", // Green background for Graduate Students
-        colors: [[34, 197, 94],[74, 222, 128]],dotSize: 4,}, // Green
-    4: {animationSpeed: 3,containerClassName: "bg-yellow-600", // Yellow background for Research Assistants and Interns
-        colors: [[254, 240, 138],[253, 224, 71]],dotSize: 4,}, // Yellow
-    100: {animationSpeed: 3,containerClassName: "bg-violet-600", // Gray background for other members
-        colors: [[156, 163, 175],[107, 114, 128]],dotSize: 4,}, // Gray
+  // Principal Investigator
+  1: {
+    animationSpeed: 3,
+    containerClassName: `
+      bg-emerald-100/40
+      backdrop-blur-sm
+    `,
+    colors: [
+      [134, 239, 172], // mint green
+      [110, 231, 183], // soft jade
+    ],
+    dotSize: 4,
+  },
+
+  // Postdocs
+  2: {
+    animationSpeed: 3,
+    containerClassName: `
+      bg-rose-100/50
+      backdrop-blur-sm
+    `,
+    colors: [
+      [251, 207, 232], // light pink
+      [244, 114, 182], // rose
+    ],
+    dotSize: 4,
+  },
+
+  // Graduate Students
+  3: {
+    animationSpeed: 3,
+    containerClassName: `
+      bg-violet-400/50
+      backdrop-blur-sm
+    `,
+    colors: [
+      [167, 139, 250], // violet
+      [139, 92, 246],  // deeper violet
+    ],
+    dotSize: 4,
+  },
+
+  // Research Assistants & Interns
+  4: {
+    animationSpeed: 3,
+    containerClassName: `
+      bg-yellow-100/50
+      backdrop-blur-sm
+    `,
+    colors: [
+      [254, 240, 138], // light yellow
+      [253, 224, 71],  // gold
+    ],
+    dotSize: 4,
+  },
+
+  // Others / Default
+  100: {
+    animationSpeed: 3,
+    containerClassName: `
+      bg-gray-100/50
+      backdrop-blur-sm
+    `,
+    colors: [
+      [156, 163, 175], // cool gray
+      [107, 114, 128], // deeper gray
+    ],
+    dotSize: 4,
+  },
 };
+
 
 export function TeamCard({ members }) {
   const sorted = [...members].sort(

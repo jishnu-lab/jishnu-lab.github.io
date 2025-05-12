@@ -20,6 +20,10 @@ export const formatPeopleTagsLinksRendered = (tagsInput, label) => {
       <a href={`/people/${tag}`} key={tag} className="hover:font-bold hover:underline text-green-500 tag-link">
         {name}
       </a>
+      // for testing below
+      // <a href={`/people/boilerplate_people`} key={tag} className="hover:font-bold hover:underline text-green-500 tag-link">
+      //   {name}
+      // </a>
     );
   });
 

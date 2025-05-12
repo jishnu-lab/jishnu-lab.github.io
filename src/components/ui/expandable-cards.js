@@ -3,15 +3,29 @@ import React, { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useOutsideClick } from "@/lib/hooks/use-outside-click";
 
+// function processAuthors(authors) {
+//   const authorList = authors.split(',').map(a => a.trim());
+//   const firstAuthors = authorList
+//     .filter(a => a.endsWith('*'));
+//     // .map(a => a.replace('*', '').trim());
+//   const correspondingAuthors = authorList
+//     .filter(a => a.endsWith('^'));
+//     // .map(a => a.replace('^', '').trim());
+//   return `${firstAuthors.join(', ')}, [...] , ${correspondingAuthors.join(', ')}`;
+// }
+
 function processAuthors(authors) {
-  const authorList = authors.split(',').map(a => a.trim());
-  const firstAuthors = authorList
-    .filter(a => a.endsWith('*'));
-    // .map(a => a.replace('*', '').trim());
-  const correspondingAuthors = authorList
-    .filter(a => a.endsWith('^'));
-    // .map(a => a.replace('^', '').trim());
-  return `${firstAuthors.join(', ')}, [...] , ${correspondingAuthors.join(', ')}`;
+  const authorList = authors.split(',').map(a => a.replace('?', '').trim());
+  const total = authorList.length;
+
+  if (total <= 6) {
+    return authorList.join(', ');
+  }
+
+  const firstThree = authorList.slice(0, 3);
+  const lastThree = authorList.slice(-3);
+
+  return `${firstThree.join(', ')}, [...], ${lastThree.join(', ')}`;
 }
 
 export function ExpandableCard({

@@ -5,17 +5,18 @@ import React, { useMemo, useRef, useState } from "react";
 import * as THREE from "three";
 import Image from "next/image";
 import { AnimatePresence, motion } from "motion/react";
+import { IconUser } from "@tabler/icons-react";
 
 export const CanvasRevealEffect = ({
   animationSpeed = 0.4,
-  opacities = [0.3, 0.3, 0.3, 0.5, 0.5, 0.5, 0.8, 0.8, 0.8, 1],
+  opacities = [0.7, 0.7, 0.7, 0.9, 0.9, 0.9, 0.8, 0.8, 0.8, 1],
   colors = [[0, 255, 255]],
   containerClassName,
   dotSize,
-  showGradient = true
+  showGradient = false
 }) => {
   return (
-    <div className={cn("h-full relative bg-white w-full", containerClassName)}>
+    <div className={cn("h-full relative w-full", containerClassName)}>
       <div className="h-full w-full">
         <DotMatrix
           colors={colors ?? [[0, 255, 255]]}
@@ -32,7 +33,12 @@ export const CanvasRevealEffect = ({
           center={["x", "y"]} />
       </div>
       {showGradient && (
-        <div className="absolute inset-0 bg-radial  from-gray-950 to-[80%]" />
+        <div
+          className="absolute inset-0 z-10 pointer-events-none bg-transparent"
+          style={{
+            background: "radial-gradient(circle at center, rgba(3, 7, 18, 0.5) 00%, transparent 100%)",
+          }}
+        />
       )}
     </div>
   );
@@ -284,7 +290,7 @@ export function Card({ title, icon, children }) {
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            className="h-full w-full absolute inset-0"
+            className="h-full w-full absolute inset-0 bg:transparent"
           >
             {children}
           </motion.div>
@@ -299,11 +305,12 @@ export function Card({ title, icon, children }) {
         </div>
 
         {/* Title Overlay */}
-        <h2 className="absolute inset-0 flex items-center justify-center text-xl font-bold text-white opacity-0 text-center
-                      group-hover/canvas-card:opacity-100 group-hover/canvas-card:-translate-y-2 
-                      transition duration-200 z-20">
+        <button className="absolute inset-0 flex items-center justify-center text-xl font-bold opacity-0 text-center
+                            bg-gray-100 dark:bg-zinc-800 shadow-md rounded-lg bg-opacity-900
+                            group-hover/canvas-card:opacity-80 group-hover/canvas-card:-translate-y-2 
+                            transition duration-200 z-20">
           {title}
-        </h2>
+        </button>
       </div>
 
     </div>
@@ -331,15 +338,24 @@ export const ImageIcon = ({ basePath, title }) => {
   const extIndex = useRef(0);
 
   const [src, setSrc] = useState(`${basePath}.${fallbackExtensions[extIndex.current]}`);
+  const [imageFailed, setImageFailed] = useState(false);
 
   const handleError = () => {
     extIndex.current += 1;
     if (extIndex.current < fallbackExtensions.length) {
       setSrc(`${basePath}.${fallbackExtensions[extIndex.current]}`);
     } else {
-      setSrc("/images/default.png");
+      setImageFailed(true);
     }
   };
+
+  if (imageFailed) {
+    return (
+      <div className="w-[200px] h-[200px] flex items-center justify-center rounded-[22px] bg-gray-100 dark:bg-zinc-800">
+        <IconUser className="w-16 h-16 text-gray-500" />
+      </div>
+    );
+  }
 
   return (
     <Image
@@ -352,12 +368,3 @@ export const ImageIcon = ({ basePath, title }) => {
     />
   );
 };
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,8 @@
+"use client";
+import Head from "next/head";
+import Layout from "@/components/common/layout";
 import teamdata from "@/assets/data/team.json";
+import {PeopleCardData} from "@/components/ui_data/people_ui_data";
 
 export async function getStaticPaths() {
   // Filter out people without a slugLongTermMembers
@@ -30,12 +34,45 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export default function PersonPage({ person }) {
+export default function PeoplePage({person}) {
+  // const person = {
+  //   firstName: "John",
+  //   lastName: "Doe",
+  //   roleInLab: "Research Scientist",
+  //   shortBlurb:
+  //     "John is a research scientist with a focus on computational systems immunology. He has a background in machine learning and network analysis.",
+  // };
+
   return (
-    <div>
-      <h1>{person.firstName} {person.lastName}</h1>
-      <p>{person.roleInLab}</p>
-      <p>{person.shortBlurb}</p>
-    </div>
+    <>
+      <Head>
+        <title>
+          {person.firstName} {person.lastName}
+        </title>
+        <meta
+          name="description"
+          content={`Profile of ${person.firstName} ${person.lastName}`}
+        />
+        <link rel="icon" type="image/png" href="/favicon-512x512.png" />
+      </Head>
+
+      <Layout>
+        <div className="max-w-4xl mx-auto px-4 py-20 text-center">
+          <div className="relative w-fit mx-auto mb-6">
+            <PeopleCardData person={person} />
+          </div>
+
+          <h1 className="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 tracking-tight mb-4">
+            {person.firstName} {person.lastName}
+          </h1>
+          <p className="text-lg md:text-2xl text-neutral-700 dark:text-neutral-300 font-medium mb-2">
+            {person.roleInLab}
+          </p>
+          <p className="text-md md:text-lg text-neutral-600 dark:text-neutral-400 max-w-2xl mx-auto">
+            {person.shortBlurb}
+          </p>
+        </div>
+      </Layout>
+    </>
   );
 }
