@@ -10,7 +10,7 @@
     "year": 2025,
     "firstAuthorsLab": "aaron_rosen",
     "otherLabMembers": "tracy_tabib, jacob_berkowitz, jishnu_das",
-    "isCorrespondingAuthorJishnu": false,
+    "isCorrespondingAuthorJishnu": true,
     "featured": false
   },
   {
@@ -24,7 +24,7 @@
     "year": 2025,
     "firstAuthorsLab": "",
     "otherLabMembers": "jishnu_das",
-    "isCorrespondingAuthorJishnu": false,
+    "isCorrespondingAuthorJishnu": true,
     "featured": false
   },
   {
@@ -379,7 +379,7 @@
   },
   {
     "title": "From bench to bedside via bytes- multi-omic immunoprofiling and integration using machine learning and network approaches",
-    "authors": "Xiao H*, Rosen A*, Chhibbar P*, Moise L, Das J",
+    "authors": "Xiao H*, Rosen A*, Chhibbar P*, Moise L, Das J^",
     "date": "11/09/2023",
     "image": "/images/publications/From-bench.webp",
     "domainTags": "Antibodyomics",
@@ -388,19 +388,19 @@
     "year": 2023,
     "firstAuthorsLab": "hanxi_xiao, prabal_chhibbar, aaron_rosen",
     "otherLabMembers": "jishnu_das",
-    "isCorrespondingAuthorJishnu": false,
+    "isCorrespondingAuthorJishnu": true,
     "featured": false
   },
   {
     "title": "Cell,??type,??specific biomarkers of systemic sclerosis disease severity capture cell,??intrinsic and cell,??extrinsic circuits",
-    "authors": "Berkowitz J*, Tabib T*, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R, Das J",
+    "authors": "Berkowitz J*, Tabib T, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R^, Das J^",
     "date": "04/25/2023",
     "image": "/images/publications/Cell,??type.webp",
     "domainTags": "Machine Learning",
     "href": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.42536",
     "journal": "Arthritis and Rheumatology",
     "year": 2023,
-    "firstAuthorsLab": "jacob_berkowitz, tracy_tabib",
+    "firstAuthorsLab": "jacob_berkowitz",
     "otherLabMembers": "jishnu_das, hanxi_xiao",
     "isCorrespondingAuthorJishnu": true,
     "featured": true
@@ -435,7 +435,7 @@
   },
   {
     "title": "Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients",
-    "authors": "Abdelhamid SS, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby JL, Kar UK, Neal MD, Sperry J, Das J, Billiar TR",
+    "authors": "Abdelhamid SS, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby JL, Kar UK, Neal MD, Sperry J, Das J^, Billiar TR^",
     "date": "08/23/2022",
     "image": "/images/publications/Multi-Omic.webp",
     "domainTags": "Machine Learning",
@@ -463,7 +463,7 @@
   },
   {
     "title": "High Dimensional Multiomics Reveals Unique Characteristics of Early Plasma Administration in Polytrauma Patients With TBI",
-    "authors": "Wu J, Moheimani H, Li S, Kar U, Bonaroti J, Miller R, Daley B, Harbrecht B, Claridge J, Gruen D, Phelan H,Guyette F, Neal M, Das J, Sperry J, Billiar T",
+    "authors": "Wu J, Moheimani H, Li S, Kar U, Bonaroti J, Miller R, Daley B, Harbrecht B, Claridge J, Gruen D, Phelan H,Guyette F, Neal M, Das J^, Sperry J^, Billiar T^",
     "date": "10/14/2022",
     "image": "/images/publications/high-dimensional-multiomics.jpeg",
     "domainTags": "Machine Learning",
@@ -472,7 +472,7 @@
     "year": 2022,
     "firstAuthorsLab": "",
     "otherLabMembers": "jishnu_das",
-    "isCorrespondingAuthorJishnu": false,
+    "isCorrespondingAuthorJishnu": true,
     "featured": false
   },
   {
@@ -519,7 +519,7 @@
   },
   {
     "title": "Determining asthma endotypes and outcomes- Complementing existing clinical practice with modern machine learning",
-    "authors": "Ray A*, Wenzel S* , Das J*",
+    "authors": "Ray A^, Das J^, Wenzel S^",
     "date": "11/10/2022",
     "image": "/images/publications/determining-asthma.jpeg",
     "domainTags": "Machine Learning",
@@ -528,7 +528,7 @@
     "year": 2022,
     "firstAuthorsLab": "jishnu_das",
     "otherLabMembers": "",
-    "isCorrespondingAuthorJishnu": false,
+    "isCorrespondingAuthorJishnu": true,
     "featured": false
   },
   {
@@ -575,7 +575,7 @@
   },
   {
     "title": "A network-based approach to identify expression modules underlying rejection in pediatric liver transplantation",
-    "authors": "Ningappa M*, Rahman S*, Higgs B.W, Ashokkumar C.S, Sahni N, Sindhi R, Das J",
+    "authors": "Ningappa M*, Rahman S*, Higgs B.W, Ashokkumar C.S, Sahni N, Sindhi R^, Das J^",
     "date": "04/19/2022",
     "image": "/images/publications/a-network-based.jpg",
     "domainTags": "Antibodyomics",
@@ -617,7 +617,7 @@
   },
   {
     "title": "Delayed fractional dosing with RTS, S/AS01 improves humoral immunity to malaria via a balance of polyfunctional NANP6-and Pf16-specific antibodies",
-    "authors": "Das J*, Fallon J K*, Yu T C*, Michell A, Suscovich T J, Linde C, Natarajan H, Weiner J, Coccia M, Gregory S, Ackerman M E, Bergmann-Leitner E, Fontana L, Dutta S, Lauffenburger D A, Jongert E, Wille-Reece U, Alter G",
+    "authors": "Das J*, Fallon J*, Yu T*, Michell A, Suscovich T J, Linde C, Natarajan H, Weiner J, Coccia M, Gregory S, Ackerman M E, Bergmann-Leitner E, Fontana L, Dutta S, Lauffenburger D A, Jongert E, Wille-Reece U, Alter G",
     "date": "11/12/2021",
     "image": "/images/publications/Delayed-fractional.webp",
     "domainTags": "Antibodyomics",
