@@ -11,7 +11,7 @@
     "firstAuthorsLab": "aaron_rosen",
     "otherLabMembers": "tracy_tabib, jacob_berkowitz, jishnu_das",
     "isCorrespondingAuthorJishnu": true,
-    "featured": false
+    "featured": true
   },
   {
     "title": "Opportunities in AI/ML to endotype asthma and other eosinophilic diseases",
@@ -165,7 +165,7 @@
     "firstAuthorsLab": "",
     "otherLabMembers": "hanxi_xiao, jishnu_das, akash_kishore, isha_mehta, augusta_vincent",
     "isCorrespondingAuthorJishnu": true,
-    "featured": true
+    "featured": false
   },
   {
     "title": "SLIDE- Significant Latent factor Interaction Discovery and Exploration across biological domains",
@@ -659,7 +659,7 @@
   },
   {
     "title": "Latency reversal agents modulate HIV antigen processing and presentation to CD8 T cells",
-    "authors": "Boucau J*, Das J*, Joshi N*, Le Gall S",
+    "authors": "Boucau J*, Das J, Joshi N, Le Gall S",
     "date": "03/20/2020",
     "image": "/images/publications/Latency-reversal.webp",
     "domainTags": "Applications",
@@ -743,7 +743,7 @@
   },
   {
     "title": "Latent model-based clustering for biological discovery",
-    "authors": "Bin X, Bunea F, Royer M, Das J",
+    "authors": "Bin X*, Royer M, Bunea F, Wegkamp M, Das J^",
     "date": "04/26/2019",
     "image": "/images/publications/latent-based.jpeg",
     "domainTags": "Machine Learning",
@@ -757,7 +757,7 @@
   },
   {
     "title": "Genetic polymorphisms in the open reading frame of the CCR5 gene from HIV-1 seronegative and seropositive individuals from national capital regions of India",
-    "authors": "Ronsard L, Sood V, Yousif A.S, Ramesh J, Shankar V, Das J, Sumi N, Rai T, Mohankumar K, Sridharan S, Dorschel A, Ramachandran V.G, Banerjea A.C",
+    "authors": "Ronsard L, Sood V, Yousif A.S, Ramesh J, Shankar V, Das J, Sumi N, Rai T, Mohankumar K, Sridharan S, Dorschel A, Ramachandran V, Banerjea A",
     "date": "05/20/2019",
     "image": "/images/publications/Genetic-polymorphisms.webp",
     "domainTags": "Applications",
@@ -855,7 +855,7 @@
   },
   {
     "title": "Route of immunization defines multiple mechanisms of vaccine-mediated protection against SIV",
-    "authors": "Ackerman M*, Das J*, Pittala S*, Broge T, Linde C, Suscovich T, Brown E, Bradley T, Natarajan H, Lin S, Sassic J, OKeefe S, Mehta N, Goodman D, Sips M, Weiner J, Tomaras G, Haynes B, Lauffenburger D, Bailey-Kellogg C, Roederer M, Alter G",
+    "authors": "Ackerman M, Das J, Pittala S, Broge T, Linde C, Suscovich T, Brown E, Bradley T, Natarajan H, Lin S, Sassic J, OKeefe S, Mehta N, Goodman D, Sips M, Weiner J, Tomaras G, Haynes B, Lauffenburger D, Bailey-Kellogg C, Roederer M, Alter G",
     "date": "09/03/2018",
     "image": "/images/publications/route-of-imm.webp",
     "domainTags": "Antibodyomics",
@@ -883,7 +883,7 @@
   },
   {
     "title": "Control of heterologous SIVsmE660 infection by DNA and protein co-immunization regimens combined with different Toll-like receptor-4 (TLR-4) based adjuvants in macaques",
-    "authors": "Singh S, Ram??rez-Salazar E, Doueiri R, Valentin A, Rosati M, Hu X, Keele B, Shen X, Tomaras G, Ferrari G, LaBranche C, Montefiori D, Das J, Alter G, Trinh H, Hamlin C, Rao M, Dayton F, Bear J, Chowdhury B, Alicea C, Lifson J, Broderick K, Sardesai N, Sivananthan S, Fox C, Reed S, Venzon D, Hirsch V, Pavlakis G, Felber B",
+    "authors": "Singh S, Ramirez-Salazar E, Doueiri R, Valentin A, Rosati M, Hu X, Keele B, Shen X, Tomaras G, Ferrari G, LaBranche C, Montefiori D, Das J, Alter G, Trinh H, Hamlin C, Rao M, Dayton F, Bear J, Chowdhury B, Alicea C, Lifson J, Broderick K, Sardesai N, Sivananthan S, Fox C, Reed S, Venzon D, Hirsch V, Pavlakis G, Felber B",
     "date": "07/17/2018",
     "image": "/images/publications/Control-of.webp",
     "domainTags": "Antibodyomics",
@@ -1023,7 +1023,7 @@
   },
   {
     "title": "Exploring mechanisms of human disease through structurally-resolved protein interactome networks",
-    "authors": "Das J*, Fragoza R, Lee H, Cordero N, Guo Y, Meyer M, Vo T, Wang X, Yu H",
+    "authors": "Das J*, Fragoza R*, Lee H, Cordero N, Guo Y, Meyer M, Vo T, Wang X, Yu H",
     "date": "03/05/2014",
     "image": "/images/publications/Exploring-mechanisms.webp",
     "domainTags": "Protein Networks, Antibodyomics",
@@ -1107,7 +1107,7 @@
   },
   {
     "title": "Cross-species protein interactome mapping reveals species-specific wiring of stress response pathways",
-    "authors": "Das J*, Vo T*, Wei X, Mellor J.C, Tong V, Degatano A, Wang X, Wang L, Cordero N, Kruer-Zerhusen N, Matsuyama A, Pleiss J, Lipkin S, Yoshida M, Roth F, Yu H",
+    "authors": "Das J*, Vo T*, Wei X, Mellor J, Tong V, Degatano A, Wang X, Wang L, Cordero N, Kruer-Zerhusen N, Matsuyama A, Pleiss J, Lipkin S, Yoshida M, Roth F, Yu H",
     "date": "05/21/2013",
     "image": "/images/publications/Cross-species.webp",
     "domainTags": "Protein Networks, Applications",
