@@ -15,7 +15,7 @@
   },
   {
     "title": "Opportunities in AI/ML to endotype asthma and other eosinophilic diseases",
-    "authors": "Ray A, Das J, Khoury P",
+    "authors": "Ray A^, Das J^, Khoury P^",
     "date": "02/14/2025",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Machine Learning",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Machine learning approaches enable the discovery of therapeutics across domains",
-    "authors": "Chhibbar P*, Das J^",
+    "authors": "Chhibbar P^, Das J^",
     "date": "04/03/2025",
     "image": "/images/publications/Machine-learning.jpg",
     "domainTags": "Machine Learning",
@@ -169,7 +169,7 @@
   },
   {
     "title": "SLIDE- Significant Latent factor Interaction Discovery and Exploration across biological domains",
-    "authors": "Rahimikollu J*, Xiao H*, Rosengart A, Rosen A, Tabib T, Zdinak P, He K, Bing X, Bunea F, Wegkamp M, Poholek A, Joglekar A, Lafyatis R, Das J",
+    "authors": "Rahimikollu J*, Xiao H*, Rosengart A, Rosen A, Tabib T, Zdinak P, He K, Bing X, Bunea F, Wegkamp M, Poholek A^, Joglekar A^, Lafyatis R^, Das J^",
     "date": "02/19/2024",
     "image": "/images/publications/SLIDE.webp",
     "domainTags": "Machine Learning",
@@ -211,7 +211,7 @@
   },
   {
     "title": "Mapping the Evolutionary Space of SARS-CoV-2 Variants to Anticipate Emergence of Subvariants Resistant to COVID-19 Therapeutics",
-    "authors": "Ch??vez R, Fili M, Han C, Rahman S, Bicar I, Gregory S, Helverson A, Hu G, Darbro B, Das J, Brown G, Haim H",
+    "authors": "Chavez R, Fili M, Han C, Rahman S, Bicar I, Gregory S, Helverson A, Hu G, Darbro B, Das J, Brown G, Haim H",
     "date": "08/12/2024",
     "image": "/images/publications/Mapping-the-Evolutionary.PNG",
     "domainTags": "Machine Learning",
@@ -225,7 +225,7 @@
   },
   {
     "title": "Interpretable machine learning uncovers epithelial transcriptional rewiring and a role for Gelsolin in COPD",
-    "authors": "Sui J*, Xiao H*, Mbaekwe U, Ting NC, Murday K, Hu Q, Gregory AD, Kapellos TS, Yildirim A??, K??nigshoff M, Zhang Y, Sciurba FC, Das J, Kliment C",
+    "authors": "Sui J*, Xiao H*, Mbaekwe U, Ting NC, Murday K, Hu Q, Gregory AD, Kapellos TS, Yildirim A??, K??nigshoff M, Zhang Y, Sciurba FC, Das J^, Kliment C^",
     "date": "11/08/2024",
     "image": "/images/publications/Interpretable-machine-learning.jpg",
     "domainTags": "Machine Learning",
@@ -253,7 +253,7 @@
   },
   {
     "title": "Deep humoral profiling coupled to interpretable machine learning unveils diagnostic markers and pathophysiology of schistosomiasis",
-    "authors": "Saha A*, Chakraborty T*, Rahimikollu J, Xiao H, de Oliveira LBP, Hand TW, Handali S, Secor WE, A OFraga L, Fairley JK, Das J, Sarkar A",
+    "authors": "Saha A*, Chakraborty T*, Rahimikollu J, Xiao H, de Oliveira LBP, Hand TW, Handali S, Secor WE, A OFraga L, Fairley JK^, Das J^, Sarkar A^",
     "date": "09/11/2024",
     "image": "/images/publications/Deep_humoral_profiling_coupled_to.png",
     "domainTags": "Antibodyomics",
