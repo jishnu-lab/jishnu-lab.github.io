@@ -4,7 +4,7 @@
     "authors": "Rosen AB*, Sanyal A*, Werner THG, Berkowitz JS, Tabib T, Lafyatis R, Jacobe H, Das J^, Torok KS^",
     "date": "04/08/2025",
     "image": "/images/publications/Unique-and-shared-transcriptomic-signatures.jpg",
-    "domainTags": "Antibodyomics",
+    "domainTags": "Machine Learning, Applications",
     "href": "https://insight.jci.org/articles/view/185758",
     "journal": "JCI Insight",
     "year": 2025,
@@ -155,7 +155,7 @@
   },
   {
     "title": "Spatial microniches of IL-2 combine with IL-10 to drive lung migratory TH2 cells in response to inhaled allergen",
-    "authors": "He K, Xiao H, MacDonald WA, Mehta I, Kishore A, Vincent A, Xu Z, Ray A, Chen W, Weaver CT, Lambrecht BN,??Das J, Poholek AC",
+    "authors": "He K, Xiao H, MacDonald WA, Mehta I, Kishore A, Vincent A, Xu Z, Ray A, Chen W, Weaver CT, Lambrecht BN, Das J, Poholek AC",
     "date": "10/14/2024",
     "image": "/images/publications/Spatial-microniches.png",
     "domainTags": "Machine Learning",
@@ -164,7 +164,7 @@
     "year": 2024,
     "firstAuthorsLab": "",
     "otherLabMembers": "hanxi_xiao, jishnu_das, akash_kishore, isha_mehta, augusta_vincent",
-    "isCorrespondingAuthorJishnu": true,
+    "isCorrespondingAuthorJishnu": false,
     "featured": false
   },
   {
@@ -392,7 +392,7 @@
     "featured": false
   },
   {
-    "title": "Cell,??type,??specific biomarkers of systemic sclerosis disease severity capture cell,??intrinsic and cell,??extrinsic circuits",
+    "title": "Cell Type-Specific Biomarkers of Systemic Sclerosis Disease Severity Capture Cell-Intrinsic and Cell-Extrinsic Circuits",
     "authors": "Berkowitz J*, Tabib T, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R^, Das J^",
     "date": "04/25/2023",
     "image": "/images/publications/Cell,??type.webp",
@@ -407,7 +407,7 @@
   },
   {
     "title": "Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates",
-    "authors": "Gunn BM, McNamara RP, Wood L, Taylor S, Devadhasan A, Guo W, Das J, Nilsson A, Shurtleff A, Dubey S, Eichberg M",
+    "authors": "Gunn B, McNamara R, Wood L, Taylor S, Devadhasan A, Guo W, Das J, Nilsson A, Shurtleff A, Dubey S, Eichberg M",
     "date": "04/25/2023",
     "image": "/images/publications/Antibodies-against.webp",
     "domainTags": "Antibodyomics",
@@ -435,7 +435,7 @@
   },
   {
     "title": "Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients",
-    "authors": "Abdelhamid SS, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby JL, Kar UK, Neal MD, Sperry J, Das J^, Billiar TR^",
+    "authors": "Abdelhamid S, Scioscia J, Vodovotz Y, Wu J, Rosengart A, Sung E, Rahman S, Voinchet R, Bonaroti J, Li S, Darby J, Kar UK, Neal MD, Sperry J, Das J^, Billiar TR^",
     "date": "08/23/2022",
     "image": "/images/publications/Multi-Omic.webp",
     "domainTags": "Machine Learning",
@@ -505,7 +505,7 @@
   },
   {
     "title": "Essential Regression- A generalizable framework for inferring causal latent factors from multi-omic datasets",
-    "authors": "Bing X, Lovelace T, Bunea F, Wegkamp M, Kasturi S.P, Singh H, Benos P.V, Das J",
+    "authors": "Bing X*, Lovelace T*, Bunea F, Wegkamp M, Kasturi S, Singh H^, Benos P^, Das J^",
     "date": "05/13/2022",
     "image": "/images/publications/Essential-Regression.webp",
     "domainTags": "Machine Learning",
@@ -533,7 +533,7 @@
   },
   {
     "title": "Autoreactive CD8+ T cells are restrained by an exhaustion-like program that is maintained by LAG3",
-    "authors": "Grebinoski S*, Zhang Q, Cillo AR, Manne S, Xiao H, Brunazzi EA, Tabib T, Cardello C, Lian CG, Murphy GF, Lafyatis R, Wherry EJ, Das J, Workman CJ, Vignali DAA^",
+    "authors": "Grebinoski S, Zhang Q, Cillo AR, Manne S, Xiao H, Brunazzi EA, Tabib T, Cardello C, Lian CG, Murphy GF, Lafyatis R, Wherry EJ, Das J, Workman CJ, Vignali DAA^",
     "date": "07/26/2022",
     "image": "/images/publications/Autoreactive-CD8+.webp",
     "domainTags": "Gene Regulatory Networks, Machine Learning",
