@@ -137,7 +137,7 @@
     "linkedInLink": "",
     "githubLink": "",
     "xLink": "",
-    "googleScholarLink": ""
+    "googleScholarLink": "https://scholar.google.com/citations?user=b8a8j78AAAAJ&hl=en"
   },
   {
     "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
@@ -284,7 +284,7 @@
     "firstName": "Jane",
     "lastName": "Siwek",
     "contactEmailId": "jcsiwe@pitt.edu",
-    "shortBlurb": "Jane is a student researcher pursuing a degree in Computational & Applied Mathematics & Statistics from William & Mary. She is interested in the intersection between data science and biology, specifically using machine and deep learning methods to explore biological problems such as protein-protein interactions. She is also interested in using deep learning and neural networks to explore global education data and satellite imagery.",
+    "shortBlurb": "Jane recieved her degree in Computational & Applied Mathematics & Statistics from William & Mary and is now a PhD student in the CMU-Pitt Computational Biology Program (CPCB). She is interested in developing and applying computational methods to better understand immunological phenomena and protein-protein interactions. Outside of work, she enjoys cooking, gardening, playing soccer, and being outside :)",
     "roleInLab": "Graduate Student Researcher",
     "graduateProgram": "CPCB",
     "joiningMonthAndYear": "January, 2024",
@@ -294,10 +294,10 @@
     "slugLongTermMembers": "jane_siwek",
     "photoLink": "/images/personnel/jane_siwek",
     "websiteLink": "",
-    "linkedInLink": "",
-    "githubLink": "",
-    "xLink": "",
-    "googleScholarLink": ""
+    "linkedInLink": "linkedin.com/in/jane-siwek-146258201",
+    "githubLink": "https://github.com/jcsiwe",
+    "xLink": "https://bsky.app/profile/jcsiwek.bsky.social",
+    "googleScholarLink": "https://scholar.google.com/citations?user=jksFSlAAAAAJ&hl=en&oi=sra"
   },
   {
     "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
@@ -417,7 +417,7 @@
     "linkedInLink": "",
     "githubLink": "",
     "xLink": "",
-    "googleScholarLink": ""
+    "googleScholarLink": "https://scholar.google.com/citations?user=DLXZKH4AAAAJ"
   },
   {
     "dateFirstCreated(not_used_anywhere_just_for_records)": "May, 2025",
