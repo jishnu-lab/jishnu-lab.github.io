@@ -125,7 +125,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "5,"
   },
   {
     "title": "The survival of B cells is compromised in kidney disease",
@@ -141,7 +141,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "6,"
   },
   {
     "title": "The RNA binding protein Arid5a drives IL-17-dependent autoantibody-induced glomerulonephritis",
@@ -157,7 +157,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "3,7"
   },
   {
     "title": "Temporal dynamics and genomic programming of plasma cell fates",
@@ -189,7 +189,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "2,4,7"
   },
   {
     "title": "SLIDE- Significant Latent factor Interaction Discovery and Exploration across biological domains",
@@ -205,7 +205,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "1,2,3,4,8"
   },
   {
     "title": "Regulatory T Cell Insufficiency in Autoimmune Diabetes Is Driven by Selective Loss of Neuropilin-1 on Intraislet Regulatory T Cells",
@@ -221,7 +221,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "6,"
   },
   {
     "title": "Population-level comparisons of gene regulatory networks modeled on high-throughput single-cell transcriptomics data",
@@ -237,7 +237,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "5,"
   },
   {
     "title": "Mapping the Evolutionary Space of SARS-CoV-2 Variants to Anticipate Emergence of Subvariants Resistant to COVID-19 Therapeutics",
@@ -253,7 +253,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "4,6"
   },
   {
     "title": "Interpretable machine learning uncovers epithelial transcriptional rewiring and a role for Gelsolin in COPD",
@@ -269,7 +269,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "2,7"
   },
   {
     "title": "High-dimensional profiling of immune responses to kidney transplant reveals heterogeneous T helper 1 and B cell effectors associated with rejection",
@@ -285,7 +285,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "2,5"
   },
   {
     "title": "Deep humoral profiling coupled to interpretable machine learning unveils diagnostic markers and pathophysiology of schistosomiasis",
@@ -301,7 +301,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "2,7"
   },
   {
     "title": "Agonism of the glutamate receptor GluK2 suppresses dermal mast cell activation and cutaneous inflammation",
@@ -317,7 +317,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "2,6"
   },
   {
     "title": "Aberrant mitochondrial DNA synthesis in macrophages exacerbates inflammation and atherosclerosis",
@@ -333,7 +333,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "4,7"
   },
   {
     "title": "The gut protist Tritrichomonas arnold restrains virus-mediated loss of oral tolerance by modulating dietary antigen-presenting dendritic cells",
@@ -349,7 +349,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "5,"
   },
   {
     "title": "Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A",
@@ -365,7 +365,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "7,"
   },
   {
     "title": "SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1",
@@ -429,7 +429,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "5,"
   },
   {
     "title": "From bench to bedside via bytes- multi-omic immunoprofiling and integration using machine learning and network approaches",
@@ -445,11 +445,11 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "1,2,3,5"
   },
   {
     "title": "Cell Type-Specific Biomarkers of Systemic Sclerosis Disease Severity Capture Cell-Intrinsic and Cell-Extrinsic Circuits",
-    "authors": "Berkowitz J*, Tabib T, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R^, Das J^",
+    "authors": "Berkowitz J, Tabib T, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis R^, Das J^",
     "date": "04/25/2023",
     "image": "/images/publications/Cell,??type.webp",
     "domainTags": "Machine Learning",
@@ -461,7 +461,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "1,2,3,8"
   },
   {
     "title": "Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates",
@@ -493,7 +493,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "4,"
   },
   {
     "title": "Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients",
@@ -507,9 +507,9 @@
     "firstAuthorsLab": "",
     "otherLabMembers": "jishnu_das, syed_a_rahman",
     "isCorrespondingAuthorJishnu": true,
-    "featured": true,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "featured": false,
+    "secondaryTag": "Primary",
+    "highlight_no": "7,"
   },
   {
     "title": "Lipidomic signatures align with inflammatory patterns and outcomes in critical illness",
@@ -540,8 +540,8 @@
     "otherLabMembers": "jishnu_das",
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "6,"
   },
   {
     "title": "Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity",
@@ -573,7 +573,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "4,6"
   },
   {
     "title": "Essential Regression- A generalizable framework for inferring causal latent factors from multi-omic datasets",
@@ -588,8 +588,8 @@
     "otherLabMembers": "jishnu_das",
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "1,8"
   },
   {
     "title": "Determining asthma endotypes and outcomes- Complementing existing clinical practice with modern machine learning",
@@ -604,8 +604,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "2,"
   },
   {
     "title": "Autoreactive CD8+ T cells are restrained by an exhaustion-like program that is maintained by LAG3",
@@ -621,7 +621,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "6,"
   },
   {
     "title": "Antibodies targeting conserved non-canonical antigens and endemic coronaviruses associate with favorable outcomes in severe COVID-19",
@@ -636,8 +636,8 @@
     "otherLabMembers": "jishnu_das",
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "2,8"
   },
   {
     "title": "A Supervised Take on Dimensionality Reduction via Hybrid Subset Selection",
@@ -652,12 +652,12 @@
     "otherLabMembers": "jishnu_das",
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "1,2"
   },
   {
     "title": "A network-based approach to identify expression modules underlying rejection in pediatric liver transplantation",
-    "authors": "Ningappa M*, Rahman S*, Higgs B.W, Ashokkumar C.S, Sahni N, Sindhi R^, Das J^",
+    "authors": "Ningappa M*, Rahman S*, Higgs B.W, Ashokkumar C, Sahni N, Sindhi R^, Das J^",
     "date": "04/19/2022",
     "image": "/images/publications/a-network-based.jpg",
     "domainTags": "Antibodyomics",
@@ -669,7 +669,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "2,7"
   },
   {
     "title": "People critically ill with COVID-19 exhibit peripheral immune profiles predictive of mortality and reflective of SARS-CoV-2 lung viral burden",
@@ -717,7 +717,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "highlight_no": ""
+    "highlight_no": "1,"
   },
   {
     "title": "Mining for humoral correlates of HIV control and latent reservoir size",
@@ -732,8 +732,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "1,"
   },
   {
     "title": "Mapping functional humoral correlates of protection against malaria challenge following RTS, S/AS01 vaccination",
@@ -748,8 +748,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "3,"
   },
   {
     "title": "Latency reversal agents modulate HIV antigen processing and presentation to CD8 T cells",
@@ -813,7 +813,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "4,"
   },
   {
     "title": "Co-immunization of DNA and Protein in the Same Anatomical Sites Induces Superior Protective Immune Responses against SHIV Challenge",
@@ -844,12 +844,12 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "2,"
   },
   {
     "title": "Latent model-based clustering for biological discovery",
-    "authors": "Bin X*, Royer M, Bunea F, Wegkamp M, Das J^",
+    "authors": "Bin X, Royer M, Bunea F, Wegkamp M, Das J^",
     "date": "04/26/2019",
     "image": "/images/publications/latent-based.jpeg",
     "domainTags": "Machine Learning",
@@ -858,14 +858,14 @@
     "year": 2019,
     "firstAuthorsLab": "",
     "otherLabMembers": "jishnu_das",
-    "isCorrespondingAuthorJishnu": false,
+    "isCorrespondingAuthorJishnu": true,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "1,4"
   },
   {
     "title": "Genetic polymorphisms in the open reading frame of the CCR5 gene from HIV-1 seronegative and seropositive individuals from national capital regions of India",
-    "authors": "Ronsard L, Sood V, Yousif A.S, Ramesh J, Shankar V, Das J, Sumi N, Rai T, Mohankumar K, Sridharan S, Dorschel A, Ramachandran V, Banerjea A",
+    "authors": "Ronsard L, Sood V, Yousif A, Ramesh J, Shankar V, Das J, Sumi N, Rai T, Mohankumar K, Sridharan S, Dorschel A, Ramachandran V, Banerjea A",
     "date": "05/20/2019",
     "image": "/images/publications/Genetic-polymorphisms.webp",
     "domainTags": "Applications",
@@ -908,8 +908,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "2,"
   },
   {
     "title": "Effect of dietary fat and sucrose consumption on cardiac fibrosis in mice and rhesus monkeys",
@@ -925,7 +925,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "3,"
   },
   {
     "title": "Antibiotics-driven gut microbiome perturbation alters immunity to vaccine in humans",
@@ -972,8 +972,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "2,"
   },
   {
     "title": "Route of immunization defines multiple mechanisms of vaccine-mediated protection against SIV",
@@ -988,8 +988,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "2,"
   },
   {
     "title": "Initiation of anti-retroviral therapy before pregnancy reduces the risk of infection related hospitalization in HIV-exposed uninfected infants",
@@ -1004,8 +1004,8 @@
     "otherLabMembers": "",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "secondaryTag": "Primary",
+    "highlight_no": "4,"
   },
   {
     "title": "Control of heterologous SIVsmE660 infection by DNA and protein co-immunization regimens combined with different Toll-like receptor-4 (TLR-4) based adjuvants in macaques",
@@ -1037,7 +1037,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "highlight_no": ""
+    "highlight_no": "2,"
   },
   {
     "title": "A role for Fc function in therapeutic monoclonal antibody-mediated protection against Ebola virus",
@@ -1073,7 +1073,7 @@
   },
   {
     "title": "Mutation3D-cancer gene prediction through atomic clustering of coding variants in the structural proteome",
-    "authors": "Meyer M, Lapcevic R, Romero A, Yoon M, Das J, Beltr??n J, Mort M, Stenson P, Cooper D, Paccanaro A, Yu H",
+    "authors": "Meyer M, Lapcevic R, Romero A, Yoon M, Das J, Beltran J, Mort M, Stenson P, Cooper D, Paccanaro A, Yu H",
     "date": "02/03/2016",
     "image": "/images/publications/Mutation3Dcancer.jpeg",
     "domainTags": "Antibodyomics",
@@ -1084,8 +1084,8 @@
     "otherLabMembers": "jishnu_das",
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
-    "secondaryTag": "Primary",
-    "highlight_no": "2,"
+    "secondaryTag": "Secondary",
+    "highlight_no": ""
   },
   {
     "title": "A proteome-wide fission yeast interactome reveals network evolution principles from yeasts to human",
@@ -1101,7 +1101,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "highlight_no": "1,"
+    "highlight_no": "2,"
   },
   {
     "title": "Studying autism in context",
@@ -1217,7 +1217,7 @@
   },
   {
     "title": "Integrative annotation of variants from 1,092 humans- application to cancer genomics",
-    "authors": "Khurana E, Fu Y, Colonna V, Mu X.J, Kang H, Lappalainen T, Sboner A, Lochovsky L, Chen J, Harmanci A, Das J, Abyzov A, Balasubramanian S, Beal K, Chakravarty D, Challis D, Chen Y, Clarke D, Clarke L, Cunningham F, Evani U, Flicek P, Fragoza R, Garrison E, Gibbs R, G??m???? Z, Herrero J, Kitabayashi N, Kong Y, Lage K, Liluashvili V, Lipkin S, MacArthur D, Marth G, Muzny D, Pers T, Ritchie G, Rosenfeld J, Sisu C, Wei X, Wilson M, Xue Y, Yu F, Dermitzakis E, Yu H, Rubin M, Tyler-Smith C, Gerstein M",
+    "authors": "Khurana E, Fu Y, Colonna V, Mu X, Kang H, Lappalainen T, Sboner A, Lochovsky L, Chen J, Harmanci A, Das J, Abyzov A, Balasubramanian S, Beal K, Chakravarty D, Challis D, Chen Y, Clarke D, Clarke L, Cunningham F, Evani U, Flicek P, Fragoza R, Garrison E, Gibbs R, G??m???? Z, Herrero J, Kitabayashi N, Kong Y, Lage K, Liluashvili V, Lipkin S, MacArthur D, Marth G, Muzny D, Pers T, Ritchie G, Rosenfeld J, Sisu C, Wei X, Wilson M, Xue Y, Yu F, Dermitzakis E, Yu H, Rubin M, Tyler-Smith C, Gerstein M",
     "date": "05/21/2013",
     "image": "/images/publications/Integrative-annotation.webp",
     "domainTags": "Gene Regulatory Networks",
