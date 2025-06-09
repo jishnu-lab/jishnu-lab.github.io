@@ -13,7 +13,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "1,7"
+    "authorsHighlighted": "1,7"
   },
   {
     "title": "Opportunities in AI/ML to endotype asthma and other eosinophilic diseases",
@@ -29,7 +29,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Machine learning approaches enable the discovery of therapeutics across domains",
@@ -45,7 +45,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "1,2"
+    "authorsHighlighted": "1,2"
   },
   {
     "title": "Immuno-oncology recapitulates ontogeny- Modern cell and gene therapy for cancer",
@@ -61,7 +61,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "2,3"
+    "authorsHighlighted": "2,3"
   },
   {
     "title": "Dysfunctional KLRB1+CD8+ T-cell responses are generated in chronically inflamed systemic sclerosis skin",
@@ -77,7 +77,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "2,3"
+    "authorsHighlighted": "2,3"
   },
   {
     "title": "Uncovering cell-type-specific immunomodulatory variants and molecular phenotypes in COVID-19 using structurally resolved protein networks",
@@ -93,7 +93,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,2,8"
+    "authorsHighlighted": "1,2,8"
   },
   {
     "title": "Transcriptomic and Proteomic Characterization of the Immune Response to Elective Spinal Reconstructive Surgery -Impact of Aging and Comparison with Traumatic Injury Response",
@@ -109,7 +109,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "6,"
+    "authorsHighlighted": "6,"
   },
   {
     "title": "Tim-3 Is Required for Regulatory T Cell,??Mediated Promotion of T Cell Exhaustion and Viral Persistence during Chronic Lymphocytic Choriomeningitis Virus Infection",
@@ -125,7 +125,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "5,"
+    "authorsHighlighted": "5,"
   },
   {
     "title": "The survival of B cells is compromised in kidney disease",
@@ -141,7 +141,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "6,"
+    "authorsHighlighted": "6,"
   },
   {
     "title": "The RNA binding protein Arid5a drives IL-17-dependent autoantibody-induced glomerulonephritis",
@@ -157,7 +157,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "3,7"
+    "authorsHighlighted": "3,7"
   },
   {
     "title": "Temporal dynamics and genomic programming of plasma cell fates",
@@ -173,7 +173,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Spatial microniches of IL-2 combine with IL-10 to drive lung migratory TH2 cells in response to inhaled allergen",
@@ -189,7 +189,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "2,4,7"
+    "authorsHighlighted": "2,4,7"
   },
   {
     "title": "SLIDE- Significant Latent factor Interaction Discovery and Exploration across biological domains",
@@ -205,7 +205,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "1,2,3,4,8"
+    "authorsHighlighted": "1,2,3,4,8"
   },
   {
     "title": "Regulatory T Cell Insufficiency in Autoimmune Diabetes Is Driven by Selective Loss of Neuropilin-1 on Intraislet Regulatory T Cells",
@@ -221,7 +221,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "6,"
+    "authorsHighlighted": "6,"
   },
   {
     "title": "Population-level comparisons of gene regulatory networks modeled on high-throughput single-cell transcriptomics data",
@@ -237,7 +237,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "5,"
+    "authorsHighlighted": "5,"
   },
   {
     "title": "Mapping the Evolutionary Space of SARS-CoV-2 Variants to Anticipate Emergence of Subvariants Resistant to COVID-19 Therapeutics",
@@ -253,7 +253,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "4,6"
+    "authorsHighlighted": "4,6"
   },
   {
     "title": "Interpretable machine learning uncovers epithelial transcriptional rewiring and a role for Gelsolin in COPD",
@@ -269,7 +269,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "2,7"
+    "authorsHighlighted": "2,7"
   },
   {
     "title": "High-dimensional profiling of immune responses to kidney transplant reveals heterogeneous T helper 1 and B cell effectors associated with rejection",
@@ -285,7 +285,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "2,5"
+    "authorsHighlighted": "2,5"
   },
   {
     "title": "Deep humoral profiling coupled to interpretable machine learning unveils diagnostic markers and pathophysiology of schistosomiasis",
@@ -301,7 +301,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "2,7"
+    "authorsHighlighted": "2,7"
   },
   {
     "title": "Agonism of the glutamate receptor GluK2 suppresses dermal mast cell activation and cutaneous inflammation",
@@ -317,7 +317,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "2,6"
+    "authorsHighlighted": "2,6"
   },
   {
     "title": "Aberrant mitochondrial DNA synthesis in macrophages exacerbates inflammation and atherosclerosis",
@@ -333,7 +333,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "4,7"
+    "authorsHighlighted": "4,7"
   },
   {
     "title": "The gut protist Tritrichomonas arnold restrains virus-mediated loss of oral tolerance by modulating dietary antigen-presenting dendritic cells",
@@ -349,7 +349,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "5,"
+    "authorsHighlighted": "5,"
   },
   {
     "title": "Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A",
@@ -365,7 +365,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "7,"
+    "authorsHighlighted": "7,"
   },
   {
     "title": "SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1",
@@ -381,7 +381,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "PRMT blockade induces defective DNA replication stress response and synergizes with PARP inhibition",
@@ -397,7 +397,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Landscape of microRNA regulatory network architecture and functional rerouting in cancer",
@@ -413,7 +413,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "High dimensional proteomics identifies organ injury patterns associated with outcomes in human trauma",
@@ -429,7 +429,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "5,"
+    "authorsHighlighted": "5,"
   },
   {
     "title": "From bench to bedside via bytes- multi-omic immunoprofiling and integration using machine learning and network approaches",
@@ -445,7 +445,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,2,3,5"
+    "authorsHighlighted": "1,2,3,5"
   },
   {
     "title": "Cell Type-Specific Biomarkers of Systemic Sclerosis Disease Severity Capture Cell-Intrinsic and Cell-Extrinsic Circuits",
@@ -461,7 +461,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "1,2,3,8"
+    "authorsHighlighted": "1,2,3,8"
   },
   {
     "title": "Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates",
@@ -477,7 +477,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Upper and lower respiratory tract correlates of protection against respiratory syncytial virus following vaccination of nonhuman primates",
@@ -493,7 +493,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "4,"
+    "authorsHighlighted": "4,"
   },
   {
     "title": "Multi-Omic Admission-Based Prognostic Biomarkers Identified by Machine Learning Algorithms Predict Patient Recovery and 30-Day Survival in Trauma Patients",
@@ -509,7 +509,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "7,"
+    "authorsHighlighted": "7,"
   },
   {
     "title": "Lipidomic signatures align with inflammatory patterns and outcomes in critical illness",
@@ -525,7 +525,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "High Dimensional Multiomics Reveals Unique Characteristics of Early Plasma Administration in Polytrauma Patients With TBI",
@@ -541,7 +541,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "6,"
+    "authorsHighlighted": "6,"
   },
   {
     "title": "Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity",
@@ -557,7 +557,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Functional reprogramming of monocytes in acute and convalescent severe COVID-19 patients",
@@ -573,7 +573,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "4,6"
+    "authorsHighlighted": "4,6"
   },
   {
     "title": "Essential Regression- A generalizable framework for inferring causal latent factors from multi-omic datasets",
@@ -589,7 +589,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "1,8"
+    "authorsHighlighted": "1,8"
   },
   {
     "title": "Determining asthma endotypes and outcomes- Complementing existing clinical practice with modern machine learning",
@@ -605,7 +605,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Autoreactive CD8+ T cells are restrained by an exhaustion-like program that is maintained by LAG3",
@@ -621,7 +621,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "6,"
+    "authorsHighlighted": "6,"
   },
   {
     "title": "Antibodies targeting conserved non-canonical antigens and endemic coronaviruses associate with favorable outcomes in severe COVID-19",
@@ -637,7 +637,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,8"
+    "authorsHighlighted": "2,8"
   },
   {
     "title": "A Supervised Take on Dimensionality Reduction via Hybrid Subset Selection",
@@ -653,7 +653,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,2"
+    "authorsHighlighted": "1,2"
   },
   {
     "title": "A network-based approach to identify expression modules underlying rejection in pediatric liver transplantation",
@@ -669,7 +669,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorBold": "2,7"
+    "authorsHighlighted": "2,7"
   },
   {
     "title": "People critically ill with COVID-19 exhibit peripheral immune profiles predictive of mortality and reflective of SARS-CoV-2 lung viral burden",
@@ -685,7 +685,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Mechanisms of Impaired Lung Development and Ciliation in Mannosidase-1-Alpha-2 Mutants",
@@ -701,7 +701,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Delayed fractional dosing with RTS, S/AS01 improves humoral immunity to malaria via a balance of polyfunctional NANP6-and Pf16-specific antibodies",
@@ -717,7 +717,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Mining for humoral correlates of HIV control and latent reservoir size",
@@ -733,7 +733,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Mapping functional humoral correlates of protection against malaria challenge following RTS, S/AS01 vaccination",
@@ -749,7 +749,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "3,"
+    "authorsHighlighted": "3,"
   },
   {
     "title": "Latency reversal agents modulate HIV antigen processing and presentation to CD8 T cells",
@@ -765,7 +765,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Glucosylation by the Legionella effector SetA promotes the nuclear localization of the transcription factor TFEB",
@@ -781,7 +781,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Extracellular Matrix Injury of Kidney Allografts in Antibody-Mediated Rejection- A Proteomics Study",
@@ -797,7 +797,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Epigenetic basis for monocyte dysfunction in acute-on-chronic liver failure and alcoholic hepatitis",
@@ -813,7 +813,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "4,"
+    "authorsHighlighted": "4,"
   },
   {
     "title": "Co-immunization of DNA and Protein in the Same Anatomical Sites Induces Superior Protective Immune Responses against SHIV Challenge",
@@ -829,7 +829,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Antibody Fc-glycosylation discriminates latent and active tuberculosis",
@@ -845,7 +845,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Latent model-based clustering for biological discovery",
@@ -861,7 +861,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,4"
+    "authorsHighlighted": "1,4"
   },
   {
     "title": "Genetic polymorphisms in the open reading frame of the CCR5 gene from HIV-1 seronegative and seropositive individuals from national capital regions of India",
@@ -877,7 +877,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Fc glycan-mediated regulation of placental antibody transfer",
@@ -893,7 +893,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Extensive disruption of protein interactions by genetic variants across the allele frequency spectrum in human populations",
@@ -909,7 +909,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Effect of dietary fat and sucrose consumption on cardiac fibrosis in mice and rhesus monkeys",
@@ -925,7 +925,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "3,"
+    "authorsHighlighted": "3,"
   },
   {
     "title": "Antibiotics-driven gut microbiome perturbation alters immunity to vaccine in humans",
@@ -941,7 +941,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "The transcription factors Runx3, T-bet and ThPOK co-regulate acquisition of cytotoxic function by human Th1 lymphocytes",
@@ -957,7 +957,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Temporal variation in HIV-specific IgG subclass antibodies during acute infection differentiates spontaneous 4 controllers from chronic progressors",
@@ -973,7 +973,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Route of immunization defines multiple mechanisms of vaccine-mediated protection against SIV",
@@ -989,7 +989,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Initiation of anti-retroviral therapy before pregnancy reduces the risk of infection related hospitalization in HIV-exposed uninfected infants",
@@ -1005,7 +1005,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "4,"
+    "authorsHighlighted": "4,"
   },
   {
     "title": "Control of heterologous SIVsmE660 infection by DNA and protein co-immunization regimens combined with different Toll-like receptor-4 (TLR-4) based adjuvants in macaques",
@@ -1021,7 +1021,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Analysis of Complement mediated lysis of SIV and SIV-infected cells reveals sex differences in vaccine-induced immune responses and protection from infection in Rhesus macaques",
@@ -1037,7 +1037,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "A role for Fc function in therapeutic monoclonal antibody-mediated protection against Ebola virus",
@@ -1053,7 +1053,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "A multi-landing pad DNA integration platform for mammalian cell engineering",
@@ -1069,7 +1069,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "Mutation3D-cancer gene prediction through atomic clustering of coding variants in the structural proteome",
@@ -1085,7 +1085,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "A proteome-wide fission yeast interactome reveals network evolution principles from yeasts to human",
@@ -1101,7 +1101,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Studying autism in context",
@@ -1117,7 +1117,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Phosphoproteomics reveals distinct modes of Mec1/ATR signaling during DNA replication",
@@ -1133,7 +1133,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "4,"
+    "authorsHighlighted": "4,"
   },
   {
     "title": "ENCAPP-elastic-net-based prognosis prediction and biomarker discovery for human cancers",
@@ -1149,7 +1149,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Predicting cancer prognosis using functional genomics datasets",
@@ -1165,7 +1165,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Exploring mechanisms of human disease through structurally-resolved protein interactome networks",
@@ -1181,7 +1181,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Elucidating common structural features of human pathogenic variations using large-scale atomic-resolution protein networks",
@@ -1197,7 +1197,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "A massively parallel pipeline to clone DNA variants and examine molecular phenotypes of human disease mutations",
@@ -1213,7 +1213,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Integrative annotation of variants from 1,092 humans- application to cancer genomics",
@@ -1229,7 +1229,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": ""
+    "authorsHighlighted": ""
   },
   {
     "title": "INstruct - a database of high-quality 3D structurally resolved protein interactome networks",
@@ -1245,7 +1245,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "2,"
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Dissecting disease inheritance modes in a 3D protein network challenges the guilt-by-association principle",
@@ -1261,7 +1261,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorBold": "3,"
+    "authorsHighlighted": "3,"
   },
   {
     "title": "Cross-species protein interactome mapping reveals species-specific wiring of stress response pathways",
@@ -1277,7 +1277,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Three-dimensional reconstruction of protein networks provides insight into human genetic disease",
@@ -1293,7 +1293,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "4,"
+    "authorsHighlighted": "4,"
   },
   {
     "title": "HINT:High quality interactomes and their applications in understanding human disease",
@@ -1309,7 +1309,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   },
   {
     "title": "Genome-scale analysis of interaction dynamics reveals organization of biological networks",
@@ -1325,6 +1325,6 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Primary",
-    "authorBold": "1,"
+    "authorsHighlighted": "1,"
   }
 ]
