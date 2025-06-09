@@ -271,7 +271,7 @@ const Shader = ({ source, uniforms, maxFps = 60 }) => {
   );
 };
 
-export function Card({ title, icon, children }) {
+export function Card({ title, icon, coMentor, children }) {
   const [hovered, setHovered] = useState(false);
 
   return (
@@ -311,6 +311,14 @@ export function Card({ title, icon, children }) {
                             transition duration-200 z-20">
           {title}
         </button>
+
+        {/* Co-Mentor Overlay */}
+        {coMentor && (
+          <div className="absolute bottom-2 left-2 text-sm text-gray-500 dark:text-gray-400 z-20">
+            Co-Mentor: {coMentor}
+          </div>
+        )}
+        
       </div>
 
     </div>

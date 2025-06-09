@@ -123,6 +123,7 @@ export function TeamCard({ members }) {
                   key={idx}
                   title={formatPeopleTagsLinksRendered(person.slugLongTermMembers)}
                   icon={<ImageIcon basePath={person.photoLink}/>}
+                  coMentor={person.coMentorString}
                 >
                   <CanvasRevealEffect {...properties} />
                 </Card>

@@ -1,7 +1,7 @@
 "use client";
 import { BackgroundGradient } from "@/components/ui/card-bg-gradient";
 import Image from "next/image";
-import {IconBrandGithub, IconBrandLinkedin, IconWorld, IconBrandTwitter, IconSchool, IconUser} from "@tabler/icons-react";
+import {IconBrandGithub, IconBrandLinkedin, IconWorld, IconBrandTwitter, IconSchool, IconUser, IconMail} from "@tabler/icons-react";
 import { useState, useRef } from "react";
 
 export const ImageIcon = ({ basePath, title }) => {
@@ -42,6 +42,8 @@ export const ImageIcon = ({ basePath, title }) => {
 
 export function PeopleCardData({ person }) {
 
+    // Destructure person object to get individual properties
+    const contactEmailId = person.contactEmailId;
     const photoLink = person.photoLink;
     const githubLink = person.githubLink;
     const linkedInLink = person.linkedInLink;
@@ -71,6 +73,11 @@ export function PeopleCardData({ person }) {
 
       {/* Social Icons */}
       <div className="flex justify-center gap-4 mt-10 relative z-10">
+        {contactEmailId && (
+          <a href={contactEmailId} target="_blank" rel="noopener noreferrer">
+            <IconMail className="w-5 h-5 hover:text-green-500 transition-colors" />
+          </a>
+        )}
         {githubLink && (
           <a href={githubLink} target="_blank" rel="noopener noreferrer">
             <IconBrandGithub className="w-5 h-5 hover:text-green-500 transition-colors" />
