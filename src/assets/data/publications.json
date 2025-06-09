@@ -214,7 +214,7 @@
     "image": "/images/publications/Regulatory_T_Cell_Insuffciency.png",
     "domainTags": "Applications, Antibodyomics",
     "href": "https://journals.aai.org/jimmunol/article-abstract/213/6/779/267054/Regulatory-T-Cell-Insufficiency-in-Autoimmune?redirectedFrom=fulltext",
-    "journal": "Nature Computational Science",
+    "journal": "Journal of Immunology",
     "year": 2024,
     "firstAuthorsLab": "",
     "otherLabMembers": "hanxi_xiao, jishnu_das",
@@ -753,7 +753,7 @@
   },
   {
     "title": "Latency reversal agents modulate HIV antigen processing and presentation to CD8 T cells",
-    "authors": "Boucau J*, Das J, Joshi N, Le Gall S",
+    "authors": "Boucau J, Das J, Joshi N, Le Gall S",
     "date": "03/20/2020",
     "image": "/images/publications/Latency-reversal.webp",
     "domainTags": "Applications",
@@ -765,7 +765,7 @@
     "isCorrespondingAuthorJishnu": false,
     "featured": false,
     "secondaryTag": "Secondary",
-    "authorsHighlighted": ""
+    "authorsHighlighted": "2,"
   },
   {
     "title": "Glucosylation by the Legionella effector SetA promotes the nuclear localization of the transcription factor TFEB",
