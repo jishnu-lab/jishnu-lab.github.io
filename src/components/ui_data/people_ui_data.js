@@ -74,7 +74,7 @@ export function PeopleCardData({ person }) {
       {/* Social Icons */}
       <div className="flex justify-center gap-4 mt-10 relative z-10">
         {contactEmailId && (
-          <a href={contactEmailId} target="_blank" rel="noopener noreferrer">
+          <a href={`mailto:${contactEmailId}`}>
             <IconMail className="w-5 h-5 hover:text-green-500 transition-colors" />
           </a>
         )}

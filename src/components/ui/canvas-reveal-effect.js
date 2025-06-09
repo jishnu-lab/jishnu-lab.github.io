@@ -310,14 +310,14 @@ export function Card({ title, icon, coMentor, children }) {
                             group-hover/canvas-card:opacity-80 group-hover/canvas-card:-translate-y-2 
                             transition duration-200 z-20">
           {title}
-        </button>
-
+          
         {/* Co-Mentor Overlay */}
-        {coMentor && (
-          <div className="absolute bottom-2 left-2 text-sm text-gray-500 dark:text-gray-400 z-20">
-            Co-Mentor: {coMentor}
-          </div>
-        )}
+          {coMentor && (
+            <div className="absolute bottom-2 text-sm text-gray-800 dark:text-gray-300 z-20">
+              Co-Mentor: {coMentor}
+            </div>
+          )}
+        </button>
         
       </div>
 
