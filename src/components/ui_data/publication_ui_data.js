@@ -24,7 +24,7 @@ export function PublicationData({data}) {
                 domainTagsRendered = {formatDomainTagsRendered(pub.domainTags, "Domain")}
                 firstAuthorsLabLinksRendered = {formatPeopleTagsLinksRendered(pub.firstAuthorsLab, "(Co-)First Author(s) Lab")}
                 otherLabMembersLinksRendered = {formatPeopleTagsLinksRendered(pub.otherLabMembers, "Contributing Lab Member(s)")}
-                isCorrespondingAuthorJishnu = {pub.isCorrespondingAuthorJishnu}
+                secondaryTag = {pub.secondaryTag}
                 icon ={pub.secondaryTag === "Primary"
                       ? <IconMusicStar className="h-9 w-8 text-green-500" />
                       : <IconMusic className="h-9 w-9 text-blue-300" />

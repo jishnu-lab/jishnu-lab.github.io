@@ -64,7 +64,7 @@ export function ExpandableCard({
   domainTagsRendered,
   firstAuthorsLabLinksRendered,
   otherLabMembersLinksRendered,
-  isCorrespondingAuthorJishnu,
+  secondaryTag,
   icon,
   openText,
   closeText = openText,
@@ -184,7 +184,10 @@ export function ExpandableCard({
       {/* CLOSED DESIGN*/}
       <div
         onClick={() => setActive(true)}
-        className="p-4 flex flex-col md:flex-row justify-between items-center hover:bg-neutral-200 dark:hover:bg-neutral-800 rounded-xl cursor-pointer max-w-2xl mx-auto"
+        // className="p-4 flex flex-col md:flex-row justify-between items-center hover:bg-neutral-200 dark:hover:bg-neutral-800 rounded-xl cursor-pointer max-w-2xl mx-auto"
+        className={`p-4 flex flex-col md:flex-row justify-between items-center hover:bg-neutral-200 dark:hover:bg-neutral-800 rounded-xl cursor-pointer max-w-2xl mx-auto ${
+          secondaryTag === 'Primary' ? 'bg-zinc-100 dark:bg-zinc-900 border border-green-500' : ''
+        }`}
       >
         <div className="flex gap-4 flex-col md:flex-row">
           <motion.div layoutId={`image-${title}-${cardKey}`}>{icon}</motion.div>
