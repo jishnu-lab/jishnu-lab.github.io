@@ -3,29 +3,55 @@ import React, { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useOutsideClick } from "@/lib/hooks/use-outside-click";
 
-// function processAuthors(authors) {
-//   const authorList = authors.split(',').map(a => a.trim());
-//   const firstAuthors = authorList
-//     .filter(a => a.endsWith('*'));
-//     // .map(a => a.replace('*', '').trim());
-//   const correspondingAuthors = authorList
-//     .filter(a => a.endsWith('^'));
-//     // .map(a => a.replace('^', '').trim());
-//   return `${firstAuthors.join(', ')}, [...] , ${correspondingAuthors.join(', ')}`;
-// }
 
-function processAuthors(authors) {
+function generateAuthorString(authors) {
   const authorList = authors.split(',').map(a => a.replace('?', '').trim());
   const total = authorList.length;
 
-  if (total <= 6) {
+  if (total <= 8) {
     return authorList.join(', ');
   }
 
-  const firstThree = authorList.slice(0, 3);
-  const lastThree = authorList.slice(-3);
+  const firstFour = authorList.slice(0, 4);
+  const lastFour = authorList.slice(-4);
 
-  return `${firstThree.join(', ')}, [...], ${lastThree.join(', ')}`;
+  return `${firstFour.join(', ')}, ${lastFour.join(', ')}`;
+}
+
+
+function processAuthors(authors, authorsHighlighted) {
+  const authorString = generateAuthorString(authors);
+
+  const authorList = authorString.split(',').map(a => a.replace('?', '').trim());
+  const total = authorList.length;
+  const boldIndexes = new Set(
+    authorsHighlighted
+      .split(',')
+      .map(i => parseInt(i.trim(), 10) - 1)
+      .filter(i => !isNaN(i))
+  );
+
+  const formattedAuthors = authorList.map((author, index) =>
+    boldIndexes.has(index) ? `<u>${author}</u>` : author
+  );
+
+  if (total < 8) {
+    return formattedAuthors.join(', ');
+  }
+  else {
+    return `${formattedAuthors.slice(0, 4).join(', ')}, [...], ${formattedAuthors.slice(-4).join(', ')}`;
+  }
+}
+
+export default function AuthorList({ authors, authorsHighlighted }) {
+  const formatted = processAuthors(authors, authorsHighlighted);
+
+  return (
+    <span
+      className="not-italic"
+      dangerouslySetInnerHTML={{ __html: formatted }}
+    />
+  );
 }
 
 export function ExpandableCard({
@@ -34,6 +60,7 @@ export function ExpandableCard({
   date,
   journal,
   authors,
+  authorsHighlighted,
   domainTagsRendered,
   firstAuthorsLabLinksRendered,
   otherLabMembersLinksRendered,
@@ -173,12 +200,10 @@ export function ExpandableCard({
               className="italic text-neutral-600 dark:text-neutral-400"
             >
             <span className="italic">
-              {date} - {journal}
+              {date} - <span className="font-bold not-italic">{journal}</span>
             </span>
             <br />
-            <span className="not-italic">
-              {processAuthors(authors)}
-            </span>
+            <AuthorList authors={authors} authorsHighlighted={authorsHighlighted} />
             </motion.p>
 
           </div>
