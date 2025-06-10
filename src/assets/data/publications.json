@@ -16,6 +16,22 @@
     "authorsHighlighted": "1,7"
   },
   {
+    "title": "High-dimensional analysis of injured patients reveals distinct circulating proteomic profiles in plasma vs. whole blood resuscitation",
+    "authors": "Moheimani H, Sun X, Ozel M, Darby JL, Ong EP, Oyebamiji T, Kar UK, Yazer MH, Neal MD, Guyette FX, Wisniewski SR, Cotton BA, Cannon JW, Schreiber MA, Moore EE, Namias N, Minei JP, Barrett CD, Das J, Sperry JL, Billiar TR",
+    "date": "03/18/2025",
+    "image": "/images/publications/Unique-and-shared-transcriptomic-signatures.jpg",
+    "domainTags": "Machine Learning, Applications",
+    "href": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00095-3",
+    "journal": "Cell Reports Medicine",
+    "year": 2025,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "6,"
+  },
+  {
     "title": "Opportunities in AI/ML to endotype asthma and other eosinophilic diseases",
     "authors": "Ray A^, Das J^, Khoury P^",
     "date": "02/14/2025",
@@ -44,12 +60,12 @@
     "otherLabMembers": "jishnu_das",
     "isCorrespondingAuthorJishnu": true,
     "featured": false,
-    "secondaryTag": "Secondary",
+    "secondaryTag": "Primary",
     "authorsHighlighted": "1,2"
   },
   {
     "title": "Immuno-oncology recapitulates ontogeny- Modern cell and gene therapy for cancer",
-    "authors": "Carleton N, Rosen ABI, Das J, Lotze MT",
+    "authors": "Carleton N, Rosen AB, Das J, Lotze MT",
     "date": "03/28/2025",
     "image": "/images/publications/Immuno-oncology.jpg",
     "domainTags": "Machine Learning",
@@ -301,7 +317,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorsHighlighted": "2,7"
+    "authorsHighlighted": "2,3,4,7"
   },
   {
     "title": "Agonism of the glutamate receptor GluK2 suppresses dermal mast cell activation and cutaneous inflammation",
@@ -321,7 +337,7 @@
   },
   {
     "title": "Aberrant mitochondrial DNA synthesis in macrophages exacerbates inflammation and atherosclerosis",
-    "authors": "Natarajan N, Florentin J, Johny E, Xiao H, AONeil S, Lei L, Shen J, Ohayon L, Johnson A, Rao K, Li X, Zhao Y, Zhang Y, Tavakoli S, Shiva S, Das J, Dutta P",
+    "authors": "Natarajan N, Florentin J, Johny E, Xiao H, ONeill S, Lei L, Shen J, Ohayon L, Johnson A, Rao K, Li X, Zhao Y, Zhang Y, Tavakoli S, Shiva S, Das J, Dutta P",
     "date": "08/11/2024",
     "image": "/images/publications/Aberrant-mitochondrial-DNA.webp",
     "domainTags": "Antibodyomics",
