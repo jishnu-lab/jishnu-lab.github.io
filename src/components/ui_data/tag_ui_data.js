@@ -4,7 +4,7 @@ const people_slugs_raw = team_data_raw
   .map(person => ({
     firstName: person.firstName,
     lastName: person.lastName,
-    slug: person.slug
+    slug: person.slugLongTermMembers
   }));
 
 const people_slugs = people_slugs_raw.reduce((acc, person) => {
