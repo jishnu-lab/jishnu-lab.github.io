@@ -1,4 +1,11 @@
-import people_slugs_raw from "@/assets/data/people_slugs.json";
+import team_data_raw from "@/assets/data/team.json";
+const people_slugs_raw = team_data_raw
+  .filter(person => person.isCurrent)
+  .map(person => ({
+    firstName: person.firstName,
+    lastName: person.lastName,
+    slug: person.slug
+  }));
 
 const people_slugs = people_slugs_raw.reduce((acc, person) => {
   acc[person.slug] = `${person.firstName} ${person.lastName}`;
