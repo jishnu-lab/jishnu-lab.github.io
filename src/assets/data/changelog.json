@@ -108,5 +108,15 @@
     "date": "June, 2023",
     "description": "Augusta Vincent joins the lab as a junior data analyst.",
     "labMember": "augusta_vincent"
+  },
+  {
+    "date": "January, 2024",
+    "description": "Aaron Francis joins the lab as a PhD student from the ISB program.",
+    "labMember": "aaron_francis"
+  },
+  {
+    "date": "December, 2024",
+    "description": "Alisa Omelchenko defends her proposal to be a PhD Candidate",
+    "labMember": "alisa_omelchenko"
   }
 ]
