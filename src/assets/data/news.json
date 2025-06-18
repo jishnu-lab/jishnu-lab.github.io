@@ -614,5 +614,26 @@
     "tag": "Award",
     "labMember": "swapnil_keshari",
     "secondaryTag": ""
+  },
+  {
+    "date": "October, 2024",
+    "description": "Alisa Omelchenko won 'Best Abstract' and gave a talk at the School of Medicine Graduate Research Symposium.",
+    "tag": "Award",
+    "labMember": "alisa_omelchenko",
+    "secondaryTag": ""
+  },
+  {
+    "date": "August, 2024",
+    "description": "Alisa Omelchenko won Best Talk at the CPCB Retreat for Sliding Window Interaction Grammar (SWING) - a Generalized Interaction Language Model for Protein and Peptide Interactions'",
+    "tag": "Award",
+    "labMember": "alisa_omelchenko",
+    "secondaryTag": ""
+  },
+  {
+    "date": "May, 2024",
+    "description": "Alisa Omelchenko gave a talk at GLBio 'SWING (Sliding Window INteraction Grammar) - a generalizable interaction-language model for protein interactions across biological contexts'",
+    "tag": "Talk",
+    "labMember": "alisa_omelchenko",
+    "secondaryTag": ""
   }
 ]
