@@ -1,5 +1,37 @@
 [
   {
+    "title": "Sliding Window Interaction Grammar (SWING): a generalized interaction language model for peptide and protein interactions",
+    "authors": "",
+    "date": "",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Machine Learning",
+    "href": "https://www.nature.com/articles/s41592-025-02723-1",
+    "journal": "Nature Methods",
+    "year": 2025,
+    "firstAuthorsLab": "prabal_chhibbar, jane_siwek, alisa_omelchenko",
+    "otherLabMembers": "jishnu_das",
+    "isCorrespondingAuthorJishnu": true,
+    "featured": true,
+    "secondaryTag": "Primary",
+    "authorsHighlighted": "1,2,3,8"
+  },
+  {
+    "title": "Determinants of successful AAV-vectored delivery of HIV-1 bNAbs in early life",
+    "authors": "Ardeshir A, O?Hagan D, Mehta I, Shandilya S, Hopkins L, Adamson L, Kuroda M, Hahn P, da Costa L, Fuchs S, Martinez-Navio J, Gardner M, Van Rompay K, Magnani D, Lifson J, Gao G, Farzan M, Desrosiers R, Das J, Martins M",
+    "date": "07/30/2025",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://www.nature.com/articles/s41586-025-09330-2",
+    "journal": "Nature",
+    "year": 2025,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, isha_mehta",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "3,7"
+  },
+  {
     "title": "Exercise-induced microbiota metabolite enhances CD8 T cell antitumor immunity promoting immunotherapy efficacy\n",
     "authors": "Phelps C, Willis N, Duan T, Lee A, Zhang Y, Rordriguez D, Pandey S, Laughlin C, Rosen AB, McPherson AC, Shapira J, Randhawa S, Hedden L, Tanner S, Lee ST, Wagner K, Winter M, Winter S, Das J, Pierre J, Trincheiri G, Meisel M",
     "date": "07/09/2025",
