@@ -590,7 +590,7 @@
     "joiningMonthAndYear": "",
     "leavingMonthAndYear": "",
     "coMentorString": "",
-    "isCurrent": false,
+    "isCurrent": true,
     "slugLongTermMembers": "kiran_nazarali",
     "photoLink": "/images/personnel/kiran_nazarali",
     "websiteLink": "",
