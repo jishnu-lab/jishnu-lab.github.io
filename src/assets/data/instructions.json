@@ -1,0 +1,110 @@
+[
+  {
+    "Please read": "TL;DR: Code works on the presumption of clean data. So please maintain the data hygeine. ",
+    "Debugging": "",
+    "Consequence": "",
+    "": ""
+  },
+  {
+    "Please read": "",
+    "Debugging": "",
+    "Consequence": "",
+    "": ""
+  },
+  {
+    "Please read": "",
+    "Debugging": "",
+    "Consequence": "",
+    "": ""
+  },
+  {
+    "Please read": "Please read",
+    "Debugging": "Debugging",
+    "Consequence": "Consequence",
+    "": ""
+  },
+  {
+    "Please read": "Issues? Add on github",
+    "Debugging": "Raise it here at: https://github.com/jishnu-lab/jishnu-lab.github.io/issues",
+    "Consequence": "Please Please Pretty please. I will try to address it! really! Do not reach out to me personally :P I will Cry",
+    "": ""
+  },
+  {
+    "Please read": "Please read",
+    "Debugging": "Debugging",
+    "Consequence": "Consequence",
+    "": ""
+  },
+  {
+    "Please read": "Performed a change? Github Push needs to be executed on each sheet. if team is updated then press github push. it will then update teams.json on github. next if you change news.json then press github push again. So on and so forth",
+    "Debugging": "Look at the github repository to see what is actually exported from google sheetws appsscript to github repository. whatever is there is rendered",
+    "Consequence": "Updates will not happen",
+    "": ""
+  },
+  {
+    "Please read": "Do not change sheet names",
+    "Debugging": "It is writing github files.",
+    "Consequence": "Bad things will happen",
+    "": ""
+  },
+  {
+    "Please read": "Do not change already specified headers",
+    "Debugging": "They are used somewhere in code and variable mismatch will occur",
+    "Consequence": "Bad things will happen",
+    "": ""
+  },
+  {
+    "Please read": "Can add new headers",
+    "Debugging": "New variables will be added",
+    "Consequence": "Refactor source code to incorporate them",
+    "": ""
+  },
+  {
+    "Please read": "Do not change any categorical variable",
+    "Debugging": "They are used somewhere in code",
+    "Consequence": "Bad things will happen",
+    "": ""
+  },
+  {
+    "Please read": "Do not change the data types",
+    "Debugging": "Date format specifically need to be mentioned as dates, and boolean as bool. Rest all are string",
+    "Consequence": "Okayish issue will happen. Most of the places have default set. so it will run but logical errors will occur",
+    "": ""
+  },
+  {
+    "Please read": "Rest feel free to change whatever and whenver you feel like. it can be updated by one click of a button",
+    "Debugging": "Currently Swapnil has the access to pushing to github script",
+    "Consequence": "Nothing will happen. All good!",
+    "": ""
+  },
+  {
+    "Please read": "Want to change your image",
+    "Debugging": "replace the file at https://github.com/jishnu-lab/jishnu-lab.github.io/tree/main/public/images/personnel with the exact name. delete your previous photo too!",
+    "Consequence": "Slugs are used to read the file name so needs to be consistent. Should be default to default icon.",
+    "": ""
+  },
+  {
+    "Please read": "Want to change your image",
+    "Debugging": "\"png\", \"jpg\", \"jpeg\", \"webp\"",
+    "Consequence": "Nothing bad, should default to icon. These are the only accepted images extension for personnel image",
+    "": ""
+  },
+  {
+    "Please read": "Author string should have * and ^. And normal english",
+    "Debugging": "Other characters might cause encoding issues",
+    "Consequence": "Nothing bad. You will see question marks in the parsed string",
+    "": ""
+  },
+  {
+    "Please read": "Added a new member and not seeing the photo?",
+    "Debugging": "people_slugs.json needed to be added. photos are displayed only for those for which the slug exists in this file",
+    "Consequence": "Nothing bad. You will see a box at right place in the team page but with blank data",
+    "": "Depricated, This issue should not arise now"
+  },
+  {
+    "Please read": "On personal pages links is not working?",
+    "Debugging": "Links should be with https:an all. put the whole link",
+    "Consequence": "Your link will not work :/",
+    "": ""
+  }
+]
