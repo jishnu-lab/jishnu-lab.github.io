@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sucralose consumption ablates cancer immunotherapy response through microbiome disruption",
+    "authors": "Morder M, Nguyen M, Wilfahrt D, Dahmani Z, Burr A, Xie B, Morikone M, Nieves-Rosado H, Gunn W, Hurd D, Wang H, Mullett S, Bossong K, Gelhaus S, Rajasundaram D, Kane L, Delgoffe  G, Das J, Davar D, Overacre-Delgoffe A",
+    "date": "07/30/2025",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-25-0247/763776/Sucralose-consumption-ablates-cancer-immunotherapy",
+    "journal": "Cancer Discovery",
+    "year": 2025,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, zakaria_larbi_dahmani",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "4,6"
+  },
+  {
     "title": "Sliding Window Interaction Grammar (SWING): a generalized interaction language model for peptide and protein interactions",
     "authors": "Siwek J*, Omelchenko A*, Chhibbar P*, Arshad S, Rosengart A, Nazarali I, Patel A, Nazarali K, Rahimikollu J, Tilstra J, Shlomchik M, Koes D, Joglekar A^, Das J^",
     "date": "07/28/2025",
@@ -77,7 +93,7 @@
     "isCorrespondingAuthorJishnu": true,
     "featured": true,
     "secondaryTag": "Primary",
-    "authorsHighlighted": "1,7"
+    "authorsHighlighted": "1,4,7"
   },
   {
     "title": "High-dimensional analysis of injured patients reveals distinct circulating proteomic profiles in plasma vs. whole blood resuscitation",
