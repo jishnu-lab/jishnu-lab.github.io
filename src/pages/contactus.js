@@ -20,6 +20,12 @@ export function FeaturesSection() {
         skeleton: <SkeletonTwo />,
         className: "col-span-1 lg:col-span-3 dark:border-transparent",
       },
+      {
+        title: "Interested in joining the band?",
+        description: "",
+        skeleton: <SkeletonThree />,
+        className: "col-span-1 lg:col-span-3 dark:border-transparent",
+      },
     ];
     return (
       <div className="relative z-20 py-10 lg:py-10 max-w-7xl mx-auto">
@@ -105,7 +111,21 @@ export function FeaturesSection() {
       </div>
     );
   };
-
+  export const SkeletonThree = () => {
+      const formUrl = "https://forms.gle/wo4PZiD249FxQeoS8";
+      return (
+        <div className="h-60 md:h-100 flex flex-col items-center justify-center relative bg-transparent dark:bg-transparent mt-10">
+          <a
+        href={formUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="relative inline-flex items-center justify-center rounded-full bg-gray-100 hover:bg-green-500 hover:text-white text-black py-2 px-4 text-center shadow-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 font-bold mb-4"
+          >
+        Fill out the form
+          </a>
+        </div>
+      );
+    };
 export default function ContactUs() {
     return (
         <>
