@@ -46,7 +46,7 @@ export default function Funding() {
         </div>
 
         <div className="flex flex-wrap justify-center items-center">
-          <FundingTileData type={showCurrent ? "current" : "completed"} />
+          <FundingTileData type={showCurrent ? "current" : "Completed"} />
         </div>
       </Layout>
     </>
