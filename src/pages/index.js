@@ -111,7 +111,7 @@ export default function Home() {
     <>
       <Head>
         <title>Jishnu Lab</title>
-        <meta name="description" content="Systems Immunology Lab at Pitt—Integrative Computational Science" />
+        <meta name="description" content="Systems Immunology Lab" />
         <link rel="icon" type="image/png" href="/favicon-512x512.png"/>
       </Head>
       <Layout>
