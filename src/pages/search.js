@@ -83,7 +83,7 @@ export default function SearchPage() {
                     </div>
                   ) : item.snippet ? (
                     <div className="prose prose-indigo dark:prose-invert max-w-full mt-2 text-base">
-                      <ReactMarkdown>{item.answer}</ReactMarkdown>
+                      <ReactMarkdown>{item.snippet}</ReactMarkdown>
                     </div>
                   ) : null}
 
