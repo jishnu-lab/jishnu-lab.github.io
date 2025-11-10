@@ -8,7 +8,8 @@
     "totalBudget": "$2,400,000 ($1,500,000 DC + $900,000 IDC)",
     "myBudget": "$2,400,000 ($1,500,000 DC + $900,000 IDC)",
     "effort": 0.475,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "NHGRI",
@@ -19,7 +20,8 @@
     "totalBudget": "$4,800,000 ($3,000,000 DC + $1,800,000 IDC)",
     "myBudget": "$1,200,000 ($800,000 DC + $400,000 IDC)",
     "effort": 0.1,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nhgri.svg"
   },
   {
     "agency": "NIAID",
@@ -30,7 +32,8 @@
     "totalBudget": "$4,000,000 ($2,500,000 DC + $1,500,000 IDC)",
     "myBudget": "$700,000 ($450,000 DC + $250,000 IDC)",
     "effort": 0.08,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "NIAID",
@@ -41,7 +44,8 @@
     "totalBudget": "$3,600,000 ($2,250,000 DC + $1,350,000 IDC)",
     "myBudget": "$735,000 ($460,000 DC + $275,000 IDC)",
     "effort": 0.08,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "NIAID",
@@ -52,7 +56,8 @@
     "totalBudget": "$8,000,000 ($5,000,000 DC + $3,000,000 IDC)",
     "myBudget": "$1,380,000 ($880,000 DC + $500,000 IDC)",
     "effort": 0.03,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "NIAMS",
@@ -63,7 +68,8 @@
     "totalBudget": "$8,000,000 ($5,000,000 DC + $3,000,000 IDC)",
     "myBudget": "$560,000 ($350,000 DC + $210,000 IDC)",
     "effort": 0.035,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niams.png"
   },
   {
     "agency": "NEI",
@@ -74,7 +80,8 @@
     "totalBudget": "$8,000,000 ($5,000,000 DC + $3,000,000 IDC)",
     "myBudget": "$590,000 ($370,000 DC + $220,000 IDC)",
     "effort": 0.08,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nei.svg"
   },
   {
     "agency": "NIAID",
@@ -85,7 +92,8 @@
     "totalBudget": "$4,000,000 ($2,500,000 DC + $1,500,000 IDC)",
     "myBudget": "$130,000 ($80,000 DC + $50,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "NIMH",
@@ -96,7 +104,8 @@
     "totalBudget": "$4,000,000 ($2,500,000 DC + $1,500,000 IDC)",
     "myBudget": "$230,000 ($160,000 DC + $70,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nimh.svg"
   },
   {
     "agency": "NCI",
@@ -107,7 +116,8 @@
     "totalBudget": "$3,000,000 ($2,000,000 DC + $1,000,000 IDC)",
     "myBudget": "$120,000 ($75,000 DC + $45,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nci.svg"
   },
   {
     "agency": "NIGMS",
@@ -118,7 +128,8 @@
     "totalBudget": "$3,500,000 ($2,250,000 DC + $1,250,000 IDC)",
     "myBudget": "$300,000 ($200,000 DC + $100,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nigms.svg"
   },
   {
     "agency": "NHLBI",
@@ -129,7 +140,8 @@
     "totalBudget": "$5,000,000 ($3,200,000 DC + $1,800,000 IDC)",
     "myBudget": "$480,000 ($300,000 DC + $180,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nhlbi.svg"
   },
   {
     "agency": "NHLBI",
@@ -140,7 +152,8 @@
     "totalBudget": "$1,350,000 ($900,000 DC + $450,000 IDC)",
     "myBudget": "$55,000 ($35,000 DC + $20,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nhlbi.svg"
   },
   {
     "agency": "CIHR",
@@ -151,7 +164,8 @@
     "totalBudget": "$100,000 ($100,000 DC)",
     "myBudget": "$100,000 ($100,000 DC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/cihr.jpg"
   },
   {
     "agency": "NIAID",
@@ -162,7 +176,8 @@
     "totalBudget": "$3,500,000 ($2,500,000 DC)",
     "myBudget": "$200,000 ($140,000 DC + $60,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "NIAID",
@@ -173,7 +188,8 @@
     "totalBudget": "$2,800,000 ($1,800,000 DC)",
     "myBudget": "$150,000 ($105,000 DC + $45,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/niaid.svg"
   },
   {
     "agency": "AHA",
@@ -184,7 +200,8 @@
     "totalBudget": "$100,000 ($90,000 DC)",
     "myBudget": "$35,000 ($32,000 DC + $3,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/aha.svg"
   },
   {
     "agency": "NCI",
@@ -195,7 +212,8 @@
     "totalBudget": "$3,400,000 ($2,150,000 DC)",
     "myBudget": "$85,000 ($60,000 DC + $25,000 IDC)",
     "effort": 0.01,
-    "status": "Current"
+    "status": "Current",
+    "logo": "/images/funding/nci.svg"
   },
   {
     "agency": "DoD",
@@ -206,7 +224,8 @@
     "totalBudget": "$1,350,000 ($900,000 DC + $450,000 IDC)",
     "myBudget": "$165,000 ($110,000 DC + $55,000 IDC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/dod.svg"
   },
   {
     "agency": "NIDDK",
@@ -217,7 +236,8 @@
     "totalBudget": "$240,000 ($150,000 DC + $90,000 IDC)",
     "myBudget": "$55,000 ($35,000 DC + $20,000 IDC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/niddk.svg"
   },
   {
     "agency": "PACER",
@@ -228,7 +248,8 @@
     "totalBudget": "$65,000 ($60,000 DC)",
     "myBudget": "$65,000 ($65,000 DC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/pacer.png"
   },
   {
     "agency": "UPMC-ITTC",
@@ -239,7 +260,8 @@
     "totalBudget": "$75,000 ($75,000 DC)",
     "myBudget": "$60,000 ($60,000 DC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/upmc.svg"
   },
   {
     "agency": "ALA",
@@ -250,7 +272,8 @@
     "totalBudget": "$100,000 ($100,000 DC)",
     "myBudget": "$30,000 ($30,000 DC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/ala.svg"
   },
   {
     "agency": "PLRC",
@@ -261,7 +284,8 @@
     "totalBudget": "$80,000 ($50,000 DC + $30,000 IDC)",
     "myBudget": "$40,000 ($25,000 DC + $15,000 IDC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/plrc.png"
   },
   {
     "agency": "CTSI",
@@ -272,7 +296,8 @@
     "totalBudget": "$45,000 ($30,000 DC + $15,000 IDC)",
     "myBudget": "$45,000 ($30,000 DC + $15,000 IDC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/ctsi.jpeg"
   },
   {
     "agency": "Rainin Foundation",
@@ -283,7 +308,8 @@
     "totalBudget": "$187,000 ($170,000 DC + $17,000 IDC)",
     "myBudget": "$40,000 ($37,000 DC + $3,000 IDC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/rainin.webp"
   },
   {
     "agency": "DoD",
@@ -294,6 +320,7 @@
     "totalBudget": "$1,350,000 ($900,000 DC + $450,000 IDC)",
     "myBudget": "$155,000 ($100,000 DC + $55,000 IDC)",
     "effort": "",
-    "status": "Completed"
+    "status": "Completed",
+    "logo": "/images/funding/dod.svg"
   }
 ]
