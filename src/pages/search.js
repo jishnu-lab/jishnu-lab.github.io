@@ -15,7 +15,7 @@ export default function SearchPage() {
     if (!query) return;
     setLoading(true);
     // Replace with your Vercel project
-    fetch(`https://jishnu-lab-github-io.vercel.app//api/perplexity?q=${encodeURIComponent(query)}`)
+    fetch(`https://jishnu-lab-github-io.vercel.app/api/perplexity?q=${encodeURIComponent(query)}`)
       .then(res => res.json())
       .then(data => setResults(data.results || []))
       .finally(() => setLoading(false));
