@@ -5,7 +5,8 @@ import {
   IconHomeFilled,
   IconAddressBook,
   IconUser,
-  IconCameraSelfie
+  IconCameraSelfie,
+  IconCurrencyDollar
 } from "@tabler/icons-react";
 
 export const NavItemsData=[
@@ -49,6 +50,13 @@ export const NavItemsData=[
       href: "/",
     },
     {
+      title: "Funding Agencies",
+      icon: (
+        <IconCurrencyDollar className="h-full w-full text-emerald-700 dark:text-green-500" />
+      ),
+      href: "/funding",
+    },
+    {
       title: "Changelog",
       icon: (
         <IconExchange className="h-full w-full text-neutral-900 dark:text-neutral-300" />
@@ -68,6 +76,5 @@ export const NavItemsData=[
         <IconAddressBook className="h-full w-full text-neutral-900 dark:text-neutral-300" />
       ),
       href: "/contactus",
-    },
-
+    }
   ]

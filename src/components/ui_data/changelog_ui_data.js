@@ -1,3 +1,4 @@
+"use client";
 import { Timeline } from "@/components/ui/timeline";
 import changelog from "@/assets/data/changelog.json";
 import {formatPeopleTagsLinksRendered } from "@/components/ui_data/tag_ui_data";
