@@ -32,9 +32,9 @@ export function FundingTileData({ type = "Current" }) {
     return (
         <div>
             <section aria-labelledby="current-funding" className="mb-6">
-                <h3 id="current-funding" className="text-lg font-semibold mb-3">
+                {/* <h3 id="current-funding" className="text-lg font-semibold mb-3">
                     Current Funding
-                </h3>
+                </h3> */}
                 <div className="flex flex-wrap justify-center items-center">
                     {current.map((fund) => (
                         <FundingTile key={fund.agency + fund.grant} {...fund} />
@@ -43,9 +43,9 @@ export function FundingTileData({ type = "Current" }) {
             </section>
             {completed.length > 0 && (
                 <section aria-labelledby="past-funding" className="mt-8">
-                    <h3 id="past-funding" className="text-lg font-semibold mb-3">
+                    {/* <h3 id="past-funding" className="text-lg font-semibold mb-3">
                         Past Funding
-                    </h3>
+                    </h3> */}
                     <div className="flex flex-wrap justify-center items-center">
                         {completed.map((fund) => (
                             <FundingTile key={fund.agency + fund.grant} {...fund} />
