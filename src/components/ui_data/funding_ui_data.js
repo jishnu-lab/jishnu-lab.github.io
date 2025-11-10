@@ -2,13 +2,14 @@
 import funding from "@/assets/data/funding.json";
 import { FundingTile } from "@/components/ui/funding-tile";
 
-export function FundingTileData({ type = "current" }) {
-    // funding.json format is { "current": [...], "completed": [...] }
-    const current = funding.current || [];
-    const completed = funding.completed || [];
-    const showOnly = type === "current" || type === "completed" ? type : null;
+export function FundingTileData({ type = "Current" }) {
+    // funding.json now is a flat array with a "status" field ("Current" or "Completed")
+    const fundings = funding || []; // funding is now a flat array
+    const current = fundings.filter(f => f.status === "Current");
+    const completed = fundings.filter(f => f.status === "Completed");
+    const showOnly = type === "Current" || type === "Completed" ? type : null;
 
-    if (showOnly === "current") {
+    if (showOnly === "Current") {
         return (
             <div className="flex flex-wrap justify-center items-center">
                 {current.map((fund) => (
@@ -18,7 +19,7 @@ export function FundingTileData({ type = "current" }) {
         );
     }
 
-    if (showOnly === "completed") {
+    if (showOnly === "Completed") {
         return (
             <div className="flex flex-wrap justify-center items-center">
                 {completed.map((fund) => (
@@ -40,7 +41,6 @@ export function FundingTileData({ type = "current" }) {
                     ))}
                 </div>
             </section>
-
             {completed.length > 0 && (
                 <section aria-labelledby="past-funding" className="mt-8">
                     <h3 id="past-funding" className="text-lg font-semibold mb-3">
