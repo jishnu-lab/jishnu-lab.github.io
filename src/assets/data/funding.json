@@ -1,0 +1,295 @@
+{
+  "current": [
+    {
+      "agency": "NIAID",
+      "grant": "New Innovator DP2 Award DP2AI164325",
+      "title": "Using 3D protein networks to uncover immuno-modulatory molecular phenotypes in infectious disease",
+      "role": "PI",
+      "duration": "08/01/21-07/31/26",
+      "totalBudget": "$2,400,000 ($1,500,000 DC + $900,000 IDC)",
+      "myBudget": "$2,400,000 ($1,500,000 DC + $900,000 IDC)",
+      "effort": "47.5%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "NHGRI",
+      "grant": "U01HG012041",
+      "title": "Linking genome variation to transcriptional network dynamics in human B cells",
+      "role": "MPI (PIs: Singh/Das)",
+      "duration": "08/19/21-05/31/26",
+      "totalBudget": "$4,800,000 ($3,000,000 DC + $1,800,000 IDC)",
+      "myBudget": "$1,200,000 ($800,000 DC + $400,000 IDC)",
+      "effort": "10%",
+      "logo": "/images/funding/nhgri.svg"
+    },
+    {
+      "agency": "NIAID",
+      "grant": "R01AI170108",
+      "title": "Uncovering latent factors underlying weak and robust responses to flu vaccine in healthy and obese older adults",
+      "role": "MPI (PIs: Alcorn/Das/Zimmerman/Singh)",
+      "duration": "07/01/22-06/30/27",
+      "totalBudget": "$4,000,000 ($2,500,000 DC + $1,500,000 IDC)",
+      "myBudget": "$700,000 ($450,000 DC + $250,000 IDC)",
+      "effort": "8%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "NIAID",
+      "grant": "U01AI179514",
+      "title": "B and Tfh cell dynamics underlying durable antibody responses to flu vaccine in children",
+      "role": "MPI (PIs: Singh/Das/Alcorn)",
+      "duration": "04/01/24-02/28/29",
+      "totalBudget": "$3,600,000 ($2,250,000 DC + $1,350,000 IDC)",
+      "myBudget": "$735,000 ($460,000 DC + $275,000 IDC)",
+      "effort": "8%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "NIAID",
+      "grant": "U19AI181984",
+      "title": "Vaccines and Therapeutic Antibodies to Respiro, Rubula, Peribunya & Phenuiviridae (R2P2)-ReVAMPP",
+      "role": "Core E co-I",
+      "duration": "09/01/24-08/31/29",
+      "totalBudget": "$8,000,000 ($5,000,000 DC + $3,000,000 IDC)",
+      "myBudget": "$1,380,000 ($880,000 DC + $500,000 IDC)",
+      "effort": "3%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "NIAMS",
+      "grant": "P50AR080612",
+      "title": "Scleroderma CORT Systems Biology and Modeling Core",
+      "role": "Associate Director",
+      "duration": "09/01/22-08/31/27",
+      "totalBudget": "$8,000,000 ($5,000,000 DC + $3,000,000 IDC)",
+      "myBudget": "$560,000 ($350,000 DC + $210,000 IDC)",
+      "effort": "3.5%",
+      "logo": "/images/funding/niams.png"
+    },
+    {
+      "agency": "NEI",
+      "grant": "U01EY034711",
+      "title": "Assessing how ocular surface nerves, immune cells, and epithelial cells communicate to encourage neuroimmune homeostasis",
+      "role": "Co-I",
+      "duration": "09/01/22-08/31/27",
+      "totalBudget": "$8,000,000 ($5,000,000 DC + $3,000,000 IDC)",
+      "myBudget": "$590,000 ($370,000 DC + $220,000 IDC)",
+      "effort": "8%",
+      "logo": "/images/funding/nei.svg"
+    },
+    {
+      "agency": "NIAID",
+      "grant": "R01AI167711",
+      "title": "Immune response to COVID-19 vaccine in HIV infected men and women",
+      "role": "Co-I",
+      "duration": "10/01/21-09/31/26",
+      "totalBudget": "$4,000,000 ($2,500,000 DC + $1,500,000 IDC)",
+      "myBudget": "$130,000 ($80,000 DC + $50,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "NIMH",
+      "grant": "R01MH136952",
+      "title": "Understanding the mechanisms involved in HIV-1 CNS latency",
+      "role": "Co-I",
+      "duration": "10/01/21-09/31/26",
+      "totalBudget": "$4,000,000 ($2,500,000 DC + $1,500,000 IDC)",
+      "myBudget": "$230,000 ($160,000 DC + $70,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/nimh.svg"
+    },
+    {
+      "agency": "NCI",
+      "grant": "R01CA277473",
+      "title": "Dissecting the role of hypoxia in T cell differentiation in cancer",
+      "role": "Co-I",
+      "duration": "01/01/23-12/31/27",
+      "totalBudget": "$3,000,000 ($2,000,000 DC + $1,000,000 IDC)",
+      "myBudget": "$120,000 ($75,000 DC + $45,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/nci.svg"
+    },
+    {
+      "agency": "NIGMS",
+      "grant": "R35HL166219",
+      "title": "Mechanisms of Immune Dysfunction after Trauma and Surgical Sepsis",
+      "role": "Co-I",
+      "duration": "06/01/23-05/31/28",
+      "totalBudget": "$3,500,000 ($2,250,000 DC + $1,250,000 IDC)",
+      "myBudget": "$300,000 ($200,000 DC + $100,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/nigms.svg"
+    },
+    {
+      "agency": "NHLBI",
+      "grant": "R35HL166219",
+      "title": "Dysregulated Immunometabolism and Premature Senescence in Corticosteroid-Refractory Severe Asthma",
+      "role": "Co-I",
+      "duration": "02/01/23-01/31/30",
+      "totalBudget": "$5,000,000 ($3,200,000 DC + $1,800,000 IDC)",
+      "myBudget": "$480,000 ($300,000 DC + $180,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/nhlbi.svg"
+    },
+    {
+      "agency": "NHLBI",
+      "grant": "R01HL168050",
+      "title": "The Role of Adenine Nucleotide Translocase in Mitochondrial Dysfunction Associated Senescence in COPD",
+      "role": "Co-I",
+      "duration": "08/01/23-04/30/28",
+      "totalBudget": "$1,350,000 ($900,000 DC + $450,000 IDC)",
+      "myBudget": "$55,000 ($35,000 DC + $20,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/nhlbi.svg"
+    },
+    {
+      "agency": "CIHR",
+      "grant": "Project Grant",
+      "title": "Determining DSA pathogenicity in kidney transplantation using systems immunology",
+      "role": "Co-I",
+      "duration": "10/01/22-09/30/26",
+      "totalBudget": "$100,000 ($100,000 DC)",
+      "myBudget": "$100,000 ($100,000 DC)",
+      "effort": "1%",
+      "logo": "/images/funding/cihr.jpg"
+    },
+    {
+      "agency": "NIAID",
+      "grant": "R01AI179476",
+      "title": "Defining molecular pathways triggered by IL-10 and TGFb that drive HIV integration and persistence in Tfh cells in lymph nodes",
+      "role": "co-I",
+      "duration": "07/01/24-09/30/28",
+      "totalBudget": "$3,500,000 ($2,500,000 DC)",
+      "myBudget": "$200,000 ($140,000 DC + $60,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "NIAID",
+      "grant": "R01AI192598",
+      "title": "Investigating the development and regulation of the extrafollicular B cell response as a programmed response type",
+      "role": "co-I",
+      "duration": "07/01/25-09/30/30",
+      "totalBudget": "$2,800,000 ($1,800,000 DC)",
+      "myBudget": "$150,000 ($105,000 DC + $45,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/niaid.svg"
+    },
+    {
+      "agency": "AHA",
+      "grant": "Data Science Pilot Grant",
+      "title": "Harnessing small molecule epigenetic inhibitors for immunomodulation in cardiovascular disease",
+      "role": "MPI",
+      "duration": "07/01/25-09/30/26",
+      "totalBudget": "$100,000 ($90,000 DC)",
+      "myBudget": "$35,000 ($32,000 DC + $3,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/aha.svg"
+    },
+    {
+      "agency": "NCI",
+      "grant": "R01CA301573",
+      "title": "Cell intrinsic and extrinsic effects of zinc metabolism in therapy resistant melanoma",
+      "role": "co-I",
+      "duration": "04/01/25-03/30/30",
+      "totalBudget": "$3,400,000 ($2,150,000 DC)",
+      "myBudget": "$85,000 ($60,000 DC + $25,000 IDC)",
+      "effort": "1%",
+      "logo": "/images/funding/nci.svg"
+    }
+  ],
+
+  "completed": [
+    {
+      "agency": "DoD",
+      "grant": "Scleroderma Idea Development Award",
+      "title": "Biomarkers and pathogenesis of cutaneous fibrosis",
+      "role": "Co-I",
+      "duration": "09/01/21-09/30/24",
+      "totalBudget": "$1,350,000 ($900,000 DC + $450,000 IDC)",
+      "myBudget": "$165,000 ($110,000 DC + $55,000 IDC)",
+      "logo": "/images/funding/dod.svg"
+    },
+    {
+      "agency": "NIDDK",
+      "grant": "dkNET Innovation Award",
+      "title": "Discovering latent factors underlying T1D pathogenesis",
+      "role": "Co-I",
+      "duration": "07/01/21-06/30/23",
+      "totalBudget": "$240,000 ($150,000 DC + $90,000 IDC)",
+      "myBudget": "$55,000 ($35,000 DC + $20,000 IDC)",
+      "logo": "/images/funding/niddk.svg"
+    },
+    {
+      "agency": "PACER",
+      "grant": "Innovative Discovery Proposal",
+      "title": "Integration of protein interactomes with genomic data to identify causal networks underlying RA",
+      "role": "PI",
+      "duration": "05/01/20-04/30/21",
+      "totalBudget": "$65,000 ($60,000 DC)",
+      "myBudget": "$65,000 ($65,000 DC)",
+      "logo": "/images/funding/pacer.png"
+    },
+    {
+      "agency": "UPMC-ITTC",
+      "grant": "Covid-19 Seed Grant",
+      "title": "Multi-scale multi-omic precision medicine for Covid-19",
+      "role": "PI",
+      "duration": "08/01/20-07/30/21",
+      "totalBudget": "$75,000 ($75,000 DC)",
+      "myBudget": "$60,000 ($60,000 DC)",
+      "logo": "/images/funding/upmc.svg"
+    },
+    {
+      "agency": "ALA",
+      "grant": "ALA Award",
+      "title": "Lung-Covid19 Interactions with Microbiota and Host",
+      "role": "Co-I",
+      "duration": "01/01/24-12/31/25",
+      "totalBudget": "$100,000 ($100,000 DC)",
+      "myBudget": "$30,000 ($30,000 DC)",
+      "logo": "/images/funding/ala.svg"
+    },
+    {
+      "agency": "PLRC",
+      "grant": "Pilot Award",
+      "title": "Lymph Portal Partitioning and Metabolic Disease",
+      "role": "MPI",
+      "duration": "04/01/24-03/31/25",
+      "totalBudget": "$80,000 ($50,000 DC + $30,000 IDC)",
+      "myBudget": "$40,000 ($25,000 DC + $15,000 IDC)",
+      "logo": "/images/funding/plrc.png"
+    },
+    {
+      "agency": "CTSI",
+      "grant": "Pilot Award for Innovative Computational Technologies",
+      "title": "Development of interpretable machine learning approaches for spatial omic technologies",
+      "role": "PI",
+      "duration": "04/01/24-03/31/25",
+      "totalBudget": "$45,000 ($30,000 DC + $15,000 IDC)",
+      "myBudget": "$45,000 ($30,000 DC + $15,000 IDC)",
+      "logo": "/images/funding/ctsi.jpeg"
+    },
+    {
+      "agency": "Rainin Foundation",
+      "grant": "Innovator Award",
+      "title": "Exploring the immunomodulatory consequences of protist-derived metabolites in IBD",
+      "role": "MPI",
+      "duration": "07/01/23-05/30/26",
+      "totalBudget": "$187,000 ($170,000 DC + $17,000 IDC)",
+      "myBudget": "$40,000 ($37,000 DC + $3,000 IDC)",
+      "logo": "/images/funding/rainin.webp"
+    },
+    {
+      "agency": "DoD",
+      "grant": "Scleroderma CDMRP SRP Award",
+      "title": "Regulation of profibrotic SPP1 expressing macrophages by TFEB in SSc-ILD",
+      "role": "Co-I",
+      "duration": "07/01/22-06/30/25",
+      "totalBudget": "$1,350,000 ($900,000 DC + $450,000 IDC)",
+      "myBudget": "$155,000 ($100,000 DC + $55,000 IDC)",
+      "logo": "/images/funding/dod.svg"
+    }
+  ]
+}
