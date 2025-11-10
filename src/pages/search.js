@@ -1,7 +1,9 @@
 "use client";
+import Link from "next/link";
+import Head from "next/head";
+import Layout from "@/components/common/layout";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import Link from "next/link";
 
 export default function SearchPage() {
   const params = useSearchParams();
@@ -12,18 +14,27 @@ export default function SearchPage() {
   useEffect(() => {
     if (!query) return;
     setLoading(true);
-    fetch(`/api/perplexity?q=${encodeURIComponent(query)}`)
+    // Replace with your Vercel project
+    fetch(`https://jishnu-lab-github-io.vercel.app//api/perplexity?q=${encodeURIComponent(query)}`)
       .then(res => res.json())
       .then(data => setResults(data.results || []))
       .finally(() => setLoading(false));
   }, [query]);
 
   return (
-    <div className="px-4 py-10 max-w-2xl mx-auto min-h-screen">
-      <h1 className="font-bold text-3xl text-center mb-6">Search Results</h1>
-      {query && (
-        <div className="mb-8 text-center text-neutral-500">
-          Powered by <span className="font-mono text-indigo-700 font-bold">Perplexity Pro</span><br/>
+    <>
+      <Head>
+        <title>Search Results</title>
+        <meta name="description" content="Systems Immunology Lab" />
+        <link rel="icon" type="image/png" href="/favicon-512x512.png"/>
+      </Head>
+      <Layout>
+        <main className="min-h-screen bg-gradient-to-br from-indigo-50 to-blue-100 dark:from-neutral-950 dark:to-neutral-900 flex flex-col items-center">
+          <div className="px-4 py-10 max-w-2xl mx-auto min-h-screen">
+            <h1 className="font-bold text-3xl text-center mb-6">Search Results</h1>
+            {query && (
+              <div className="mb-8 text-center text-neutral-500">
+                Powered by <span className="font-mono text-indigo-700 font-bold">Perplexity Pro</span><br/>
           Searching for: <span className="font-mono text-indigo-600">{query}</span>
         </div>
       )}
@@ -43,5 +54,8 @@ export default function SearchPage() {
         ))}
       </ul>
     </div>
+    </main>
+    </Layout>
+    </>
   );
 }
