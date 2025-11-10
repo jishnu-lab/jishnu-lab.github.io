@@ -82,7 +82,9 @@ export default function SearchPage() {
                       <ReactMarkdown>{item.answer}</ReactMarkdown>
                     </div>
                   ) : item.snippet ? (
-                    <p className="text-neutral-700 dark:text-neutral-300 text-base mt-2">{item.snippet}</p>
+                    <div className="prose prose-indigo dark:prose-invert max-w-full mt-2 text-base">
+                      <ReactMarkdown>{item.answer}</ReactMarkdown>
+                    </div>
                   ) : null}
 
                   {/* Raw URL shown dimly below */}
