@@ -1,33 +1,22 @@
 [
-    {
-      "category": "",
-      "title": "",
-      "src": "/images/memories/1.png"
-    },
-    {
-      "category": "",
-      "title": "",
-      "src": "/images/memories/2.png"
-    },
-    {
-      "category": "",
-      "title": "",
-      "src": "/images/memories/3.png"
-    },
-    {
-      "category": "",
-      "title": "",
-      "src": "/images/memories/4.png"
-    },
-    {
-      "category": "",
-      "title": "",
-      "src": "/images/memories/5.png"
-    },
-    {
-      "category": "",
-      "title": "",
-      "src": "/images/memories/6.png"
-    }
-  ]
-  
+  {
+    "title": "Daily_Fun",
+    "images": [
+      "/images/memories/Daily_Fun/1.png",
+      "/images/memories/Daily_Fun/2.png",
+      "/images/memories/Daily_Fun/3.png",
+      "/images/memories/Daily_Fun/4.png",
+      "/images/memories/Daily_Fun/5.png",
+      "/images/memories/Daily_Fun/6.png"
+    ]
+  },
+  {
+    "title": "Immunology_Retreat",
+    "images": [
+      "/images/memories/Immunology_Retreat/20250926_131720.jpg",
+      "/images/memories/Immunology_Retreat/20250926_162250.jpg",
+      "/images/memories/Immunology_Retreat/IMG_2159.jpg",
+      "/images/memories/Immunology_Retreat/IMG_2202.jpg"
+    ]
+  }
+]

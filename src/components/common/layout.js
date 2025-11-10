@@ -18,9 +18,10 @@ const links = [
   { href: "/team", label: "Team" },
   { href: "/publications", label: "Publications" },
   { href: "/news", label: "News" },
-  { href: "/home", label: "Home" },
+  { href: "/", label: "Home" },
+  { href: "/funding", label: "Funding" },
   { href: "/changelog", label: "Changelog" },
-  { href: "/memories", label: "Fun & Memories" },
+  { href: "/memories", label: "Memories" },
   { href: "/contactus", label: "Contact Us" },
 ];
 
