@@ -42,12 +42,15 @@ export default async function handler(req, res) {
   try {
     const search = await client.search.create({
       query: q,
-      max_results: 10,
-      max_tokens: 25000,
-      max_tokens_per_page: 2048,
+      max_results: 3,
+      max_tokens: 2500,
+      max_tokens_per_page: 1024,
       search_domain_filter: ["jishnulab.org"],
     });
-    res.status(200).json({ results: search?.results || [] });
+    res.status(200).json({
+      summary: search.answer || search.content || null,
+      results: search.results || [],
+    });
   } catch (error) {
     console.error("Perplexity API error:", error);
     res.status(500).json({ error: error.message || "Unexpected API error" });
