@@ -292,5 +292,19 @@
     "tag": "Grant",
     "labMember": "swapnil_keshari",
     "secondaryTag": ""
+  },
+  {
+    "date": "September, 2025",
+    "description": "Prabal gave a talk 'Leveraging HIVs Evolutionary Choices at the CD4 Interface in Designing Broadly Neutralizing Immunotherapies\n' at the annual Department of Immunology retreat at Oglebey, WV",
+    "tag": "Talk",
+    "labMember": "prabal_chhibbar",
+    "secondaryTag": "Primary"
+  },
+  {
+    "date": "November, 2023",
+    "description": "Prabal gave a talk 'Uncovering cell-type-specific immunomodulatory variants and associated molecular phenotypes in infectious disease using structurally-resolved protein networks\n' at the annual School of Medicine Graduate Student Symposium",
+    "tag": "Talk",
+    "labMember": "prabal_chhibbar",
+    "secondaryTag": "Primary"
   }
 ]
