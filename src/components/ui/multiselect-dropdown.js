@@ -32,7 +32,7 @@ export function MultiSelectDropdown({ label, options, selectedValues, onChange }
   };
 
   return (
-    <div className="w-72 mb-4">
+    <div className="w-full sm:w-72 md:max-w-xs mb-4">
       <Listbox value={selectedValues} onChange={onChange} multiple>
         {({ open }) => {
           useEffect(() => setIsOpen(open), [open]);
@@ -50,7 +50,6 @@ export function MultiSelectDropdown({ label, options, selectedValues, onChange }
                   <ChevronUpDownIcon className="h-5 w-5 text-gray-400" aria-hidden="true" />
                 </span>
               </ListboxButton>
-
               <Transition
                 as="div"
                 leave="transition ease-in duration-100"

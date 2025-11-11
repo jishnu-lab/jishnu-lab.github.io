@@ -5,7 +5,7 @@ import { FundingTileData } from "@/components/ui_data/funding_ui_data";
 import { useState } from "react";
 
 export default function Funding() {
-  const [showCurrent, setShowCurrent] = useState(true);
+  const [filterType, setFilterType] = useState("All"); // "All", "Current", or "Completed"
 
   return (
     <>
@@ -24,30 +24,43 @@ export default function Funding() {
           <button
             type="button"
             className={`relative inline-flex items-center justify-center rounded-full py-2 px-4 text-center shadow-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 font-bold mb-4 transition ${
-              showCurrent
+              filterType === "All"
                 ? "bg-green-500 text-white"
                 : "bg-gray-100 text-black hover:bg-green-500 hover:text-white"
             }`}
-            onClick={() => setShowCurrent(true)}
+            onClick={() => setFilterType("All")}
           >
-            Current
+            All
           </button>
+
           <button
             type="button"
             className={`relative inline-flex items-center justify-center rounded-full py-2 px-4 text-center shadow-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 font-bold mb-4 transition ${
-              !showCurrent
+              filterType === "Current"
                 ? "bg-green-500 text-white"
                 : "bg-gray-100 text-black hover:bg-green-500 hover:text-white"
             }`}
-            onClick={() => setShowCurrent(false)}
+            onClick={() => setFilterType("Current")}
+          >
+            Current
+          </button>
+
+          <button
+            type="button"
+            className={`relative inline-flex items-center justify-center rounded-full py-2 px-4 text-center shadow-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 font-bold mb-4 transition ${
+              filterType === "Completed"
+                ? "bg-green-500 text-white"
+                : "bg-gray-100 text-black hover:bg-green-500 hover:text-white"
+            }`}
+            onClick={() => setFilterType("Completed")}
           >
             Completed
           </button>
         </div>
-
         <div className="flex flex-wrap justify-center items-center">
-          <FundingTileData type={showCurrent ? "current" : "Completed"} />
+          <FundingTileData type={filterType} />
         </div>
+        <div className="py-6 md:py-12 lg:py-24" aria-hidden="true" />
       </Layout>
     </>
   );

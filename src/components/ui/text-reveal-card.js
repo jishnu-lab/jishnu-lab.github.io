@@ -78,10 +78,7 @@ export const TextRevealCard = ({
         >
           <p
             style={{ textShadow: "4px 4px 15px rgba(0,0,0,0.5)" }}
-            className="text-center text-3xl sm:text-5xl font-semibold 
-                        bg-clip-text text-transparent 
-                        bg-gradient-to-b from-neutral-800 to-neutral-500
-                        dark:bg-gradient-to-b dark:from-neutral-200 dark:to-neutral-500"
+            className="text-center text-3xl sm:text-5xl font-semibold"
           >
             {revealText}
           </p>
@@ -101,7 +98,7 @@ export const TextRevealCard = ({
 
         {/* Main Text with Stars */}
         <div className="absolute inset-0 flex items-center justify-center text-center z-10 [mask-image:linear-gradient(to_bottom,transparent,white,transparent)]">
-          <p className="text-center items-center justify-center text-3xl sm:text-5xl font-semibold bg-clip-text text-transparent bg-black dark:bg-white py-2">
+          <p className="text-center items-center justify-center text-3xl sm:text-5xl py-2 font-semibold">
             {text}
           </p>
           <MemoizedStars />
