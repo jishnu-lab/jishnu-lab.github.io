@@ -71,7 +71,7 @@
   },
   {
     "date": "August, 2022",
-    "description": "Hanxi Xiao successfully defends his proposal to be a PhD Candidate",
+    "description": "Hanxi Xiao successfully defends her proposal to be a PhD Candidate",
     "labMember": "hanxi_xiao"
   },
   {
@@ -115,8 +115,33 @@
     "labMember": "aaron_francis"
   },
   {
+    "date": "January, 2024",
+    "description": "Jane Siwek joins the lab as a PhD student from CPCB Program",
+    "labMember": "jane_siwek"
+  },
+  {
+    "date": "September, 2024",
+    "description": "Mary Dorothy Cundiff",
+    "labMember": "mary_dorothy_cundiff"
+  },
+  {
     "date": "December, 2024",
     "description": "Alisa Omelchenko defends her proposal to be a PhD Candidate",
     "labMember": "alisa_omelchenko"
+  },
+  {
+    "date": "February, 2025",
+    "description": "Sanjyot Shenoy joins the lab as a first year Ph.D. Student from CPCB Program.",
+    "labMember": "sanjyot_shenoy"
+  },
+  {
+    "date": "February, 2025",
+    "description": "Akash Kishore continues in the lab as a Graduate Student in the CPCB Program",
+    "labMember": "akash_kishore"
+  },
+  {
+    "date": "June, 2025",
+    "description": "Javad Rahimikollu gradutes the lab as Dr. Javad Rahimikollu. We wish him best in his next endeavor! Upwards and Onwards!",
+    "labMember": "javad_rahimikollu"
   }
 ]
