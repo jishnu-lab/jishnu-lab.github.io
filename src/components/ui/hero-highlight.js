@@ -37,7 +37,7 @@ export const HeroHighlight = ({
   return (
     <div
       className={cn(
-        "group absolute md:h-[calc(100vh-100px)] h-[calc(100vh-70px)] min-w-screen items-center justify-center",
+        "group absolute md:w-[calc(100vw)] w-[calc(100vh)] min-h-screen items-center justify-center",
         containerClassName
       )}
       onMouseMove={handleMouseMove}>

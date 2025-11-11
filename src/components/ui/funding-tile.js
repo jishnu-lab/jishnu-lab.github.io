@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 
-export const FundingTile = ({ agency, grant, logo, totalBudget, myBudget, effort, role, duration }) => {
+export const FundingTile = ({ agency, logo, grant, title, role, endDate }) => {
 return (
     <div className={cn("bg-white dark:bg-neutral-900 border border-gray-200 dark:border-neutral-800 rounded-lg shadow-lg p-6 flex flex-col items-center m-4")}>
         {/* LOGO CONTAINER */}
@@ -20,6 +20,7 @@ return (
             }}
             />
       </div>
+        {/* DETAILS */}
         <h3 className="text-lg font-bold mb-2 text-center">{agency}</h3>
         <div className="mb-2 text-center">
             <span className="font-semibold">Grant:</span> {grant}
@@ -29,20 +30,14 @@ return (
                 <span className="font-semibold">Role:</span> {role}
             </div>
         )}
-        {duration && (
+        {endDate && (
             <div className="mb-1 text-center">
-                <span className="font-semibold">Duration:</span> {duration}
+                <span className="font-semibold">End:</span> {endDate}
             </div>
         )}
-        <div className="mb-1 text-center">
-            <span className="font-semibold">Total Budget:</span> {totalBudget}
-        </div>
-        <div className="mb-1 text-center">
-            <span className="font-semibold">Lab Budget:</span> {myBudget}
-        </div>
-        {/* {effort && (
+        {/* {title && (
             <div className="mb-1 text-center">
-                <span className="font-semibold">Effort:</span> {effort}
+                <span className="font-semibold">Title:</span> {title}
             </div>
         )} */}
     </div>
