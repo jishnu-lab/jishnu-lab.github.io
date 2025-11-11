@@ -616,6 +616,13 @@
     "secondaryTag": ""
   },
   {
+    "date": "July, 2024",
+    "description": "Jane Siwek gave a talk at ISMB 2024 on \"Sliding Window INteraction Grammar (SWING): a generalized interaction language model for peptide and protein interactions\"",
+    "tag": "Talk",
+    "labMember": "jane_siwek",
+    "secondaryTag": ""
+  },
+  {
     "date": "October, 2024",
     "description": "Alisa Omelchenko won 'Best Abstract' and gave a talk at the School of Medicine Graduate Research Symposium.",
     "tag": "Award",
@@ -677,5 +684,75 @@
     "tag": "Talk",
     "labMember": "zarifeh_heidari_rarani",
     "secondaryTag": ""
+  },
+  {
+    "date": "September, 2025",
+    "description": "Swapnil Keshari wins Elevator Pitch at the 23rd Department of Immunology Retreat",
+    "tag": "Talk",
+    "labMember": "zarifeh_heidari_rarani",
+    "secondaryTag": ""
+  },
+  {
+    "date": "October, 2025",
+    "description": "Jishnu wins recognition as student body (BGSA) awarded Mentor of the Year across the School of Medicine in 30th Graduate Student Research Symposium",
+    "tag": "Award",
+    "labMember": "zarifeh_heidari_rarani",
+    "secondaryTag": ""
+  },
+  {
+    "date": "June, 2025",
+    "description": "Javad successfully defends his thesis titled \"Interpretable Machine Learning and Protein NetworkBased Approaches for Biological Discovery from MultiOmic Datasets\". Congratulations Dr. Javad",
+    "tag": "Award",
+    "labMember": "zarifeh_heidari_rarani",
+    "secondaryTag": "Primary"
+  },
+  {
+    "date": "October, 2025",
+    "description": "We officially have a Pilot in the lab. Swapnil Keshari becomes a FAA part 61 Private Pilot.",
+    "tag": "Award",
+    "labMember": "swapnil_keshari",
+    "secondaryTag": "Primary"
+  },
+  {
+    "date": "October, 2025",
+    "description": "Jane Siwek gave a talk at the 30th Annual School of Medicine Graduate Student Research Symposium on \"Sliding Window INteraction Grammar (SWING): a generalized interaction language model for peptide and protein interactions\"",
+    "tag": "Talk",
+    "labMember": "jane_siwek",
+    "secondaryTag": ""
+  },
+  {
+    "date": "October, 2025",
+    "description": "Hanxi Xiao was the runner up for Stephen L Phillips Best Reserch Paper Award for her Nature methods paper SLIDE across School of Medicine in 30th SOM GSRS.",
+    "tag": "Award",
+    "labMember": "hanxi_xiao",
+    "secondaryTag": ""
+  },
+  {
+    "date": "October, 2025",
+    "description": "Alisa participated in the St. Jude Biohackation and her team won 'Most Technically Impressive' award.",
+    "tag": "Award",
+    "labMember": "alisa_omelchenko",
+    "secondaryTag": ""
+  },
+  {
+    "date": "July, 2025",
+    "description": "Alisa gave a talk 'A unified network systems approach uncovers a core novel program underlying T follicular helper cell differentiation' at ISMB 2025",
+    "tag": "Talk",
+    "labMember": "alisa_omelchenko",
+    "secondaryTag": ""
+  },
+  {
+    "date": "November, 2025",
+    "description": "Alisa gave a talk 'A unified network systems approach uncovers a core novel program underlying T follicular helper cell differentiation' at CSI Symposium",
+    "tag": "Talk",
+    "labMember": "alisa_omelchenko",
+    "secondaryTag": ""
+  },
+  {
+    "date": "October, 2025",
+    "description": "Zarifeh Heidari Rarani presented study Uncovering Novel Cellular Programs Underlying Bifurcating Human B Cell States as a poster at the IGVF Annual meeting in Durham NC.",
+    "tag": "Talk",
+    "labMember": "zarifeh_heidari_rarani",
+    "secondaryTag": "Primary"
   }
 ]
