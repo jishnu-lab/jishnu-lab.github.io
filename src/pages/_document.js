@@ -9,7 +9,6 @@ export default function Document() {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link href="https://fonts.googleapis.com/css2?family=Vend+Sans:opsz,wght@8..144,100..900&display=swap" rel="stylesheet"/>
         <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400..900&display=swap" rel="stylesheet"/>
-
       </Head>
       <body>
         <Script id="theme-switcher" strategy="beforeInteractive">

@@ -33,7 +33,8 @@ const FloatingDockMobile = ({ items, className }) => {
         {open && (
           <motion.div
             layoutId="nav"
-            className="absolute top-full left-1/2 -translate-x-1/2 mt-2 flex flex-row gap-2 z-50"
+            className="absolute top-full left-1/2 -translate-x-1/2 mt-2 flex flex-row gap-2 z-50 
+             h-16 items-end rounded-2xl px-4 pb-3 md:flex bg-gray-400/80 dark:bg-neutral-900/80 backdrop-blur"
           >
             {items.map((item, idx) => (
               <motion.div
@@ -94,7 +95,7 @@ const FloatingDockDesktop = ({
       onMouseMove={handleMouseMove}
       onMouseLeave={() => mouseCoord.set(Infinity)}
       className={cn(
-        "hidden h-16 items-end gap-4 rounded-2xl bg-gray-400 px-4 pb-3 md:flex dark:bg-neutral-900",
+        "hidden h-16 items-end gap-4 rounded-2xl px-4 pb-3 md:flex  bg-gray-400/80 dark:bg-neutral-900/80 backdrop-blur ",
         isVertical ? "flex-col h-auto w-16 py-4 px-2 gap-4" : "items-end h-16 px-4 pb-3 gap-4",
         className
       )}
@@ -162,7 +163,7 @@ function IconContainer({
                      animate={{ opacity: 1, y: 0, x: isVertical ? 10 : "-50%" }}
                      exit={{ opacity: 0, y: isVertical ? 0 : 2, x: isVertical ? 10 : "-50%" }}
                      className={cn(
-                         "absolute w-max rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs whitespace-pre text-neutral-700 dark:border-neutral-900 dark:bg-neutral-800 dark:text-white",
+                         "absolute w-max rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs whitespace-pre text-neutral-700 dark:border-neutral-900 dark:bg-neutral-800 dark:text-white font-mono font-bold",
                          isVertical
                          ? "left-full ml-1/2 top-1/2 -translate-y-1/2 "
                          : "top-full left-1/2 mt-4"

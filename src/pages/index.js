@@ -1,43 +1,3 @@
-// "use client";
-// import Head from "next/head";
-// import Layout from "@/components/common/layout";
-// import React from "react";
-// import {HeroHighlight} from "@/components/ui/hero-highlight";
-// import {TextRevealCard} from "@/components/ui/text-reveal-card";
-// import {CardsCarousel} from "@/components/ui_data/memories_ui_data";
-
-// export default function Home() {
-//   return (
-//     <>
-//         <Head>
-//         <title>Jishnu Lab</title>
-//         <meta name="description" content="Computational Systems Immunology" />
-//         <link rel="icon" type="image/png" href="/favicon-512x512.png"/>
-//       </Head>
-//       <HeroHighlight className="fixed inset-0 -z-30 bg-transparent pointer-events-none "/>
-//       <Layout>
-//       <h2 className="bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 
-//       md:text-7xl text-5xl font-sans py-20 relative z-20 font-bold tracking-tight">
-//         Jishnu's Computational Systems Immunology Lab
-//         </h2>
-//         {/* <CardsCarousel/> */}
-//         <h3 className="text-center text-neutral-800 dark:text-neutral-200
-//                        text-4xl font-sans relative z-20 font-bold tracking-tight">
-//           We Take</h3>
-//           <div className="flex flex-col items-center justify-center">
-//           <TextRevealCard text="ML, Networks and Immunology" revealText= "Code, Caffine, and Collaboration"
-//                           className="items-center text-center justify-center overflow-visible text-neutral-800 dark:text-neutral-200"/>
-//           </div>
-//           <h3 className="text-center text-neutral-800 dark:text-neutral-200
-//                        text-4xl font-sans relative z-20 font-bold tracking-tight">
-//           Quite Seriously!
-//           </h3>
-//       </Layout>
-//       </>
-
-//   );
-// }
-
 "use client";
 import Head from "next/head";
 import React, { useState } from "react";
@@ -91,14 +51,16 @@ function ThinkWidget() {
     <form onSubmit={onThink}
       className="flex flex-col items-center justify-center mt-10 mb-10 w-full z-20"
     >
-      <div className="flex items-center w-full max-w-lg bg-white/80 dark:bg-neutral-900/80 border rounded-2xl shadow-xl px-6 py-4">
-        <span className="text-xl text-blue-600 mr-2">🧠</span>
+      <div className="flex items-center w-full max-w-xs sm:max-w-sm md:max-w-lg bg-white/80 dark:bg-neutral-900/80 border rounded-2xl shadow-xl px-6 py-4">
+        <span className="text-xl mr-2">🧠</span>
         <input
           className="flex-1 outline-none bg-transparent text-lg dark:text-neutral-100 text-neutral-900 font-mono placeholder:text-neutral-400"
           value={query}
           onChange={e => setQuery(e.target.value)}
           placeholder="Type to search lab website…"
         />
+      </div>
+      <div className="flex items-center justify-center mt-4">
         <button
           type="submit"
           className="ml-4 px-4 py-2 rounded-full bg-gray-100 hover:bg-green-500 hover:text-white text-black transition font-bold"
@@ -106,8 +68,9 @@ function ThinkWidget() {
           Think!
         </button>
       </div>
+
       <span className="mt-2 text-xs text-neutral-400 dark:text-neutral-500">
-        Powered by Caffeine and Curiosity
+        Fueled by Caffeine
       </span>
     </form>
   );
@@ -120,28 +83,30 @@ export default function Home() {
       <Head>
         <title>Jishnu Lab</title>
         <meta name="description" content="Systems Immunology Lab" />
+        <meta name="google-site-verification" content="V2GqRBQgwjC6TSPBjkvI7-8G335cwis4E40tZhfFG8I" />
         <link rel="icon" type="image/png" href="/favicon-512x512.png"/>
       </Head>
-      <HeroHighlight className="fixed inset-0 -z-10 bg-transparent pointer-events-none "/>
+      <HeroHighlight className="fixed w-full h-full -z-10 bg-transparent pointer-events-none "/>
       {/* <HeroHighlight className="w-screen h-screen fixed inset-0 z-[-1] bg-transparent" /> */}
 
       <Layout>
       <main className="min-h-screen flex flex-col items-center, z-20">
         {/* Hero Section */}
         <section className="flex flex-col items-center justify-center mb-12 mt-12">
-        <h2 className="font-serif bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 text-7xl  py-20 md:py-10 relative z-20 font-bold tracking-tight">
+        <h2 className="font-sans bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-white dark:to-neutral-500 text-7xl  py-20 md:py-10 relative z-20 font-bold tracking-tight">
           Jishnu's Computational Systems Immunology Lab
         </h2>
+
         <h3 className="text-center text-neutral-800 dark:text-neutral-200
-                      text-5xl relative z-20 font-sans font-bold tracking-tight mt-8">
+                      text-3xl sm:text-5xl relative z-20 font-bold tracking-tight mt-8 mb-4">
          Exploring</h3>
-          <TextRevealCard text="ML, Networks and Immunology" revealText= "Code, Caffine, & Collaboration"
+          <TextRevealCard text="ML, Networks and Immunology" revealText= "Code, Caffeine, & Collaboration"
                            className="items-center text-center justify-center overflow-visible text-neutral-800 dark:text-neutral-200 z-20"/>
           <ThinkWidget />
         </section>
 
         {/* Featured Quick Links */}
-        <section className="flex flex-wrap justify-center gap-10 mt-4 px-4 mb-12 z-20">
+        <section className="flex flex-wrap justify-center gap-10 px-4 mb-12 z-20">
           {featured.map(x => (
             <Link key={x.href} href={x.href}
               className="bg-white/85 dark:bg-neutral-900/80 shadow-md border rounded-xl px-6 py-6 max-w-xs flex-1 min-w-[220px] flex flex-col items-center text-center hover:scale-105 transition"
@@ -155,16 +120,6 @@ export default function Home() {
             </Link>
           ))}
         </section>
-        {/* Contact Section */}
-        {/* <section className="flex flex-col items-center my-14 z-20">
-          <span className="text-lg font-medium text-neutral-600 dark:text-neutral-300 mb-3">
-            Curious about our research, or want to collaborate?
-          </span>
-          <Link href="/contactus"
-                className="px-8 py-3 rounded-lg bg-indigo-600 text-white shadow-md text-lg font-bold hover:bg-indigo-700 mb-2">
-            Contact Us
-          </Link>
-        </section> */}
       </main>
       </Layout>
     </>

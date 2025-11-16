@@ -6,8 +6,9 @@
   --foreground: #0a0a0a;
 
   /* Preferred sans font, downloaded: Inter. Fallbacks: Trebuchet MS, Arial, sans-serif */
-  --font-display: 'Vend Sans', 'Trebuchet MS', Helvetica, sans-serif;
+  --font-sans: 'Vend Sans', 'Trebuchet MS', Helvetica, sans;
   --font-serif: 'Bodoni Moda', Cambria, Georgia, serif;
+  --font-mono: 'Fira Code', 'Courier New', Courier, monospace;
 
   --spacing: 0.25rem;
 }
