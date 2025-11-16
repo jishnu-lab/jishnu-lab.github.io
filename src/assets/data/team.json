@@ -136,7 +136,7 @@
     "websiteLink": "",
     "linkedInLink": "",
     "githubLink": "",
-    "xLink": "",
+    "xLink": "https://x.com/chhibbarprabal?s=21",
     "googleScholarLink": "https://scholar.google.com/citations?user=b8a8j78AAAAJ&hl=en"
   },
   {
@@ -975,6 +975,26 @@
     "photoLink": "/images/personnel/nandita_kalyan",
     "websiteLink": "",
     "linkedInLink": "https://www.linkedin.com/in/nandita-kalyan2026/",
+    "githubLink": "",
+    "xLink": "",
+    "googleScholarLink": ""
+  },
+  {
+    "dateFirstCreated(not_used_anywhere_just_for_records)": "November, 2025",
+    "firstName": "Ifunanya",
+    "lastName": "Okoroma",
+    "contactEmailId": "iuo5@pitt.edu",
+    "shortBlurb": "Ifunanya graduated from the University of California, San Diego with a B.S. in Data Science. After working as an undergraduate researcher conducting data analysis in a biology lab, she's interested in using machine learning to help answer biomedical questions in the areas of infectious disease and chronic illness. Outside of coding in Python (her comfort language), some of her favorite things are second-hand fashion, discovering new music with the intention of curating perfect playlists, and learning niche information from the latest docuseries she's watching.",
+    "roleInLab": "Research Assistant",
+    "graduateProgram": "NA",
+    "joiningMonthAndYear": "September, 2025",
+    "leavingMonthAndYear": "",
+    "coMentorString": "",
+    "isCurrent": true,
+    "slugLongTermMembers": "ifunanya_okoroma",
+    "photoLink": "/images/personnel/ifunanya_okoroma",
+    "websiteLink": "",
+    "linkedInLink": "https://www.linkedin.com/in/ifunanya-okoroma/",
     "githubLink": "",
     "xLink": "",
     "googleScholarLink": ""
