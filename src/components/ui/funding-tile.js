@@ -1,8 +1,8 @@
 import { cn } from "@/lib/utils";
 
-export const FundingTile = ({ agency, logo, grant, title, role, endDate }) => {
+export const FundingTile = ({ agency, logo, grant, title, role, startDate, endDate }) => {
 return (
-    <div className={cn("bg-white dark:bg-neutral-900 border border-gray-200 dark:border-neutral-800 rounded-lg shadow-lg p-6 flex flex-col items-center m-4")}>
+    <div className={cn("bg-gray-400/80 dark:bg-neutral-900/80 backdrop-blur border border-gray-200 dark:border-neutral-800 rounded-lg shadow-lg p-6 flex flex-col items-center m-4")}>
         {/* LOGO CONTAINER */}
         <div
             className="flex items-center justify-center bg-white dark:bg-white mb-2"
@@ -28,6 +28,11 @@ return (
         {role && (
             <div className="mb-1 text-center">
                 <span className="font-semibold">Role:</span> {role}
+            </div>
+        )}
+        {startDate && (
+            <div className="mb-1 text-center">
+                <span className="font-semibold">Start:</span> {startDate}
             </div>
         )}
         {endDate && (

@@ -41,7 +41,7 @@ export function MultiSelectDropdown({ label, options, selectedValues, onChange }
             <div className="relative mt-1">
               <ListboxButton
                 ref={buttonRef}
-                className="relative w-full rounded-full bg-gray-100 hover:bg-green-500 hover:text-white text-black py-2 pl-3 pr-10 text-left shadow-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="relative w-full rounded-full bg-gray-100 hover:bg-green-500 hover:text-white text-black py-2 pl-3 pr-10 text-left shadow-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 font-mono font-bold"
               >
                 {selectedValues.length > 0
                   ? selectedValues.map(getLabel).join(", ")

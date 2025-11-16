@@ -153,13 +153,13 @@ export default function Publication() {
             <div className="flex items-center gap-4 mt-2">
               <button
                 onClick={() => setIsJishnuAuthor(true)}
-                className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 shadow-md hover:bg-green-500 hover:text-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="px-4 py-2 rounded-full text-sm font-mono font-bold bg-gray-100 shadow-md hover:bg-green-500 hover:text-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
               >
                 Yes
               </button>
               <button
                 onClick={() => setIsJishnuAuthor(false)}
-                className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 shadow-md hover:bg-green-500 hover:text-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="px-4 py-2 rounded-full text-sm font-mono font-bold bg-gray-100 shadow-md hover:bg-green-500 hover:text-white text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
               >
                 No
               </button>

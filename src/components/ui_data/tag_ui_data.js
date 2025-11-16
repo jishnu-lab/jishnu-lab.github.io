@@ -1,6 +1,6 @@
 import team_data_raw from "@/assets/data/team.json";
 const people_slugs_raw = team_data_raw
-  .filter(person => person.isCurrent)
+  // .filter(person => person.isCurrent)
   .map(person => ({
     firstName: person.firstName,
     lastName: person.lastName,

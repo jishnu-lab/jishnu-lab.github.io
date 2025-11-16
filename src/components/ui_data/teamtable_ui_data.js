@@ -1,4 +1,5 @@
 import React from "react";
+import { formatPeopleTagsLinksRendered } from "@/components/ui_data/tag_ui_data";
 
 export function TeamTable({ alumni }) {
   return (
@@ -15,7 +16,7 @@ export function TeamTable({ alumni }) {
           {alumni.map((alum, i) => (
             <tr key={i} className="hover:bg-gray-100 dark:hover:bg-gray-700">
               <td className="border border-gray-400 px-4 py-2">
-                {alum.firstName} {alum.lastName}
+                {formatPeopleTagsLinksRendered(alum.slugLongTermMembers)}
               </td>
               <td className="border border-gray-400 px-4 py-2">{alum.roleInLab}</td>
             </tr>

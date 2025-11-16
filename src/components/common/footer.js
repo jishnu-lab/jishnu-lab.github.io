@@ -6,7 +6,8 @@ export default function Footer({ links = [] }) {
 
   return (
     <footer
-      className="fixed left-0 bottom-0 w-full border-t bg-white/80 dark:bg-neutral-900/80 backdrop-blur text-sm text-neutral-600 dark:text-neutral-400 z-50"
+      className="fixed left-0 bottom-0 w-full border-t bg-gray-400/80 dark:bg-neutral-900/80 backdrop-blur
+                  text-sm text-neutral-600 dark:text-neutral-400 z-50 font-mono font-bold"
       style={{ boxShadow: "0 -2px 12px rgba(0,0,0,0.03)" }}
     >
       <div className="container mx-auto px-4 flex flex-col items-center justify-center min-h-[70px] md:min-h-[90px] md:flex-row md:justify-between gap-2 md:gap-4">
