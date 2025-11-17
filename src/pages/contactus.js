@@ -8,7 +8,7 @@ import { BackgroundLines } from "../components/backgrounds/background-lines";
 export function FeaturesSection() {
     const features = [
       {
-        title: "Find Cool Kids @ Room 4007, 4011, 4012",
+        title: "Find Cool Kids @ Room 4003, 4007, 4011, 4012",
         description: "The Assembly, 5051 Centre Avenue, Pittsburgh, PA 15213",
         skeleton: <SkeletonOne />,
         className:
