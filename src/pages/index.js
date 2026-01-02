@@ -31,6 +31,12 @@ const featured = [
     href: "/contactus",
     icon: "📞",
     description: "Curious about our research, or want to collaborate?"
+  },
+  {
+    label: "Lab Resources",
+    href: "/labresources",
+    icon: "🗂️",
+    description: "Access internal resources, guides, and documentation."
   }
 ];
 
