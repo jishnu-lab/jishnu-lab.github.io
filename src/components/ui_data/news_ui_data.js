@@ -3,6 +3,7 @@ import {
     IconCurrencyDollar,
     IconDevicesStar,
     IconMicrophone2,
+    IconArticle,
 } from "@tabler/icons-react";
 import news from "@/assets/data/news.json";
 import {NewsCard} from "@/components/ui/news-card";
@@ -31,7 +32,7 @@ export function NewsCardData() {
                 key={`news-card-${index}`}
                 title={feature.date}
                 description={feature.description}
-                icon={tagIconMap[feature.tag] || IconArticle}
+                icon={tagIconMap[feature.tag] || <IconArticle/>}
                 linkRendered={formatPeopleTagsLinksRendered(feature.labMember)}
                 />
             </GlowingStarsBackgroundCard>
