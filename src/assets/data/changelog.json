@@ -153,5 +153,35 @@
     "date": "September, 2025",
     "description": "Ifunanya joins the lab as a Research Scientist",
     "labMember": "ifunanya_okoroma"
+  },
+  {
+    "date": "January, 2024",
+    "description": "Tracy Tabib joins the lab as a PhD student from CPCB Program",
+    "labMember": "tracy_tabib"
+  },
+  {
+    "date": "January, 2024",
+    "description": "Alyson Wang joins the lab as a PhD student from CPCB Program",
+    "labMember": "alyson_wang"
+  },
+  {
+    "date": "November, 2025",
+    "description": "Akanksha Sachan successfully defends his proposal to be a PhD Candidate",
+    "labMember": "akanksha_sachan"
+  },
+  {
+    "date": "January, 2026",
+    "description": "Ayub Ahmed Khan joins the lab as a PhD student from CPCB Program",
+    "labMember": "ayub_ahmed_khan"
+  },
+  {
+    "date": "January, 2026",
+    "description": "Yuchen (Chloe) Liu joins the lab as a PhD student from CPCB Program",
+    "labMember": "yuchenchloe_liu"
+  },
+  {
+    "date": "January, 2026",
+    "description": "Palak Chaudhry joins the lab as a PhD student from CPCB Program",
+    "labMember": "palak_chaudhry"
   }
 ]
