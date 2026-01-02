@@ -34,9 +34,6 @@ export default function News() {
             </div>
             <NewsCardData className="light:text-white"/>
         </Layout>
-
-
-        
         </>
         
         

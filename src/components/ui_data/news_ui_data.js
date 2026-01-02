@@ -3,6 +3,7 @@ import {
     IconCurrencyDollar,
     IconDevicesStar,
     IconMicrophone2,
+    IconArticle,
 } from "@tabler/icons-react";
 import news from "@/assets/data/news.json";
 import {NewsCard} from "@/components/ui/news-card";
