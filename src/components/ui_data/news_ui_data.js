@@ -32,7 +32,7 @@ export function NewsCardData() {
                 key={`news-card-${index}`}
                 title={feature.date}
                 description={feature.description}
-                icon={tagIconMap[feature.tag] || IconArticle}
+                icon={tagIconMap[feature.tag] || <IconArticle/>}
                 linkRendered={formatPeopleTagsLinksRendered(feature.labMember)}
                 />
             </GlowingStarsBackgroundCard>
