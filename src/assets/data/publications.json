@@ -1,5 +1,21 @@
 [
   {
+    "title": "Immune BioGraphy: A tale of graphical approaches in systems and virtual immunology",
+    "authors": "Keshari S, Chakraborty T, Das J",
+    "date": "06/05/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Machine Learning",
+    "href": "https://www.cell.com/cell-systems/abstract/S2405-4712(26)00100-6",
+    "journal": "Cell Systems",
+    "year": 2026,
+    "firstAuthorsLab": "swapnil_keshari, trirupa_chakraborty",
+    "otherLabMembers": "jishnu_das",
+    "isCorrespondingAuthorJishnu": true,
+    "featured": false,
+    "secondaryTag": "Primary",
+    "authorsHighlighted": "1,2,3"
+  },
+  {
     "title": "",
     "authors": "",
     "date": "",
@@ -66,7 +82,7 @@
   {
     "title": "The production of the chemokine, CCL2, by corneal sensory neurons initiates anti-viral immunity at the cornea and trigeminal ganglion",
     "authors": "Yun H, Moghbeli K, Gerges P, Cisney R, Yoshida M, Hawse W, MacDonald W, Bhuiyan S, Renthal W, Sullivan C, Das J, Kaplan D, Singh H, Davis B, St. Leger A",
-    "date": "",
+    "date": "01/27/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Applications",
     "href": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01465-2",
@@ -82,7 +98,7 @@
   {
     "title": "Altered AP-1, RUNX and EGR chromatin dynamics drive fibrotic lung disease",
     "authors": "Valenzi E, Jia M, Gerges P, Fan J, Tabib T, Behera R, Mao H, Xue D, Ju E, Zhou Y, Sembrat J, Das J, Benos P, Singh H, Lafyatis R",
-    "date": "",
+    "date": "12/31/2025",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Applications",
     "href": "",
