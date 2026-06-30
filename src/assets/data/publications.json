@@ -1,5 +1,37 @@
 [
   {
+    "title": "Comparative transcriptional profiling of key macrophage and fibroblast subpopulations in rheumatoid arthritis-associated lung disease",
+    "authors": "Tabib T, Ezenwa O, Sciurba J, Valenzi EB, Sembrat J, Cody B, Das J, Lafyatis R, Ascherman DP",
+    "date": "06/22/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.70256",
+    "journal": "Arthritis and Rheumatology",
+    "year": 2026,
+    "firstAuthorsLab": "tracy_tabib",
+    "otherLabMembers": "jishnu_das",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "1,6"
+  },
+  {
+    "title": "BPTF is essential for vaccine-induced germinal center B cell responses",
+    "authors": "Sturtz A, Evavold B, Heidari Rarani Z, Alsoussi W, Zhou J, Matz H, Muramatsu H, Simkins W, Kumar Malladi S, McIntire K, Das J, Turner J, Pardi N, Ellebedy A",
+    "date": "06/07/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://academic.oup.com/jimmunol/article/215/6/vkag126/8712093?login=false",
+    "journal": "Journal of Immunology",
+    "year": 2026,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, zarifeh_heidari_rarani",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "3,5"
+  },
+  {
     "title": "Immune BioGraphy: A tale of graphical approaches in systems and virtual immunology",
     "authors": "Keshari S, Chakraborty T, Das J",
     "date": "06/05/2026",
