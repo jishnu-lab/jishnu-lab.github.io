@@ -1,5 +1,37 @@
 [
   {
+    "title": "A unified network systems approach uncovers a core program underlying T follicular helper cell differentiation",
+    "authors": "Omelchenko A, Rahman S, Wang A, Tabib T, Viswanadham V, Yuen G, Del Rio Estrada P, D'Onofrio V, Chen Y, Sun N, Mattoo H, Keshari S, Gadiraju C, Salgado G, Soto-Nava M, Ruiz-Carbajal L, D?az-Rivera D, ?vila-R?os S, Kasturi S, Ribeiro S, Shlomchik M, Poholek A, Pillai S, Elsner R, Mahajan V, Das J",
+    "date": "in press",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Protein Networks, Gene Regulatory Networks",
+    "href": "",
+    "journal": "Nature Communications",
+    "year": 2026,
+    "firstAuthorsLab": "alisa_omelchenko",
+    "otherLabMembers": "jishnu_das, swapnil_keshari, tracy_tabib, alyson_wang, yijia_chen",
+    "isCorrespondingAuthorJishnu": true,
+    "featured": true,
+    "secondaryTag": "Primary",
+    "authorsHighlighted": "1,3,4,8"
+  },
+  {
+    "title": "IL4R? blockade inhibits proliferation of malignant lymphocytes and the immunosuppressive tumor microenvironment of mycosis fungoides.",
+    "authors": "Gaydosik AM, Wang A, Das J, Lapolla B, Akilov OE, Geskin LJ, Fuschiotti P",
+    "date": "06/25/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://jitc.bmj.com/content/14/6/e015022",
+    "journal": "Journal for ImmunoTherapy of Cancer ",
+    "year": 2026,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, alyson_wang",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "2,3"
+  },
+  {
     "title": "Comparative transcriptional profiling of key macrophage and fibroblast subpopulations in rheumatoid arthritis-associated lung disease",
     "authors": "Tabib T, Ezenwa O, Sciurba J, Valenzi EB, Sembrat J, Cody B, Das J, Lafyatis R, Ascherman DP",
     "date": "06/22/2026",
