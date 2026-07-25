@@ -6,7 +6,7 @@
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Protein Networks, Gene Regulatory Networks",
     "href": "https://www.nature.com/articles/s41467-026-75559-8",
-    "journal": "Nature Communications (in press)",
+    "journal": "Nature Communications",
     "year": 2026,
     "firstAuthorsLab": "alisa_omelchenko",
     "otherLabMembers": "jishnu_das, swapnil_keshari, tracy_tabib, alyson_wang, yijia_chen",
@@ -32,7 +32,7 @@
     "authorsHighlighted": "5,"
   },
   {
-    "title": "IL4R? blockade inhibits proliferation of malignant lymphocytes and the immunosuppressive tumor microenvironment of mycosis fungoides.",
+    "title": "IL4Ra blockade inhibits proliferation of malignant lymphocytes and the immunosuppressive tumor microenvironment of mycosis fungoides.",
     "authors": "Gaydosik AM, Wang A, Das J, Lapolla B, Akilov OE, Geskin LJ, Fuschiotti P",
     "date": "06/25/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
@@ -94,6 +94,22 @@
     "featured": false,
     "secondaryTag": "Primary",
     "authorsHighlighted": "1,2,3"
+  },
+  {
+    "title": "Corneal Innervation Research at a Crossroads: A Tool-Driven Roadmap for the Future",
+    "authors": "Matynia A, Meng I, Davis B, Pflugfelder S, Galor A, Perez V, Felix E, Hamrah P, Rompolas P, Ruiz-Lozano R, Bhuiyan S, Moghbeli K, Semizoglou E, Renthal W, Singh H, Das J, Golczak M, Stepp M, Morgans C, de Paiva C, Saab C, Spigelman I, Sayegh R, Largent-Milnes T, Wu H, Luo W, Mitra S, Yoo H, Farsiu S, Littleton S, Jacob E, McPheeters M, Lapierre-Landry M, Smith J, Wang X, Florea R, Widjaja-Adhi M, Holmes S, Zemborain Z, Laise K, Pondelis N, Jeong K, Chen R, Jenkins M, Lee V, Moulton E, Jacobs D, Aicher S, St Leger A, Saban D",
+    "date": "06/01/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://iovs.arvojournals.org/article.aspx?articleid=2811969",
+    "journal": "Investigative Ophthalmology and Visual Science",
+    "year": 2026,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, kaveh_moghbeli",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": ""
   },
   {
     "title": "Postprandial changes to systemic lipid metabolism imprint durable enhancements to T cell immunity",
