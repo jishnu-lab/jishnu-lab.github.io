@@ -2,10 +2,10 @@
   {
     "title": "A unified network systems approach uncovers a core program underlying T follicular helper cell differentiation",
     "authors": "Omelchenko A, Rahman S, Wang A, Tabib T, Viswanadham V, Yuen G, Del Rio Estrada P, D'Onofrio V, Chen Y, Sun N, Mattoo H, Keshari S, Gadiraju C, Salgado G, Soto-Nava M, Ruiz-Carbajal L, D?az-Rivera D, ?vila-R?os S, Kasturi S, Ribeiro S, Shlomchik M, Poholek A, Pillai S, Elsner R, Mahajan V, Das J",
-    "date": "07/01/2026",
+    "date": "07/22/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Protein Networks, Gene Regulatory Networks",
-    "href": "",
+    "href": "https://www.nature.com/articles/s41467-026-75559-8",
     "journal": "Nature Communications (in press)",
     "year": 2026,
     "firstAuthorsLab": "alisa_omelchenko",
@@ -14,6 +14,22 @@
     "featured": true,
     "secondaryTag": "Primary",
     "authorsHighlighted": "1,3,4,8"
+  },
+  {
+    "title": "Macrophage-specific targeting of histone demethylases with small-molecule inhibitors suppresses inflammatory response in vivo",
+    "authors": "Natarajan N, Ahmed T, Govindaswamy B, Manickam D, Das J, Islam K, Dutta P",
+    "date": "07/06/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://www.jbc.org/article/S0021-9258(26)02187-3/fulltext",
+    "journal": "Journal of Biological Chemistry",
+    "year": 2026,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": "5,"
   },
   {
     "title": "IL4R? blockade inhibits proliferation of malignant lymphocytes and the immunosuppressive tumor microenvironment of mycosis fungoides.",
