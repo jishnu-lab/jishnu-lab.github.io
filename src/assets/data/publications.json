@@ -1,5 +1,21 @@
 [
   {
+    "title": "Aberrant mucin expression and keratinization distinguishing severe from mild asthma revealed by interpretable machine learning",
+    "authors": "Kale S, Vincent A, Ross M, Mehta I, Calderon M, Ramonell R, Setya H, McCreary-Partyka J, Yuan H, Christenson S, Woodruff P, Castro M, Sumino K, Jarjour N, Denlinger L, Gaston B, Bleecker E, Meyers D, Moore W, Israel E, Levy B, Mauger D, Erzurum S, Newbrough A, Nee T, Ray P, St. Croix C, Wenzel S, Das J, Ray A, Gauthier M",
+    "date": "07/30/2026",
+    "image": "/images/publications/Opportunities-in-AI.jpg",
+    "domainTags": "Applications",
+    "href": "https://insight.jci.org/articles/view/202442",
+    "journal": "JCI Insight",
+    "year": 2026,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, isha_mehta, augusta_vincent",
+    "isCorrespondingAuthorJishnu": true,
+    "featured": true,
+    "secondaryTag": "Primary",
+    "authorsHighlighted": "2,4,6"
+  },
+  {
     "title": "A unified network systems approach uncovers a core program underlying T follicular helper cell differentiation",
     "authors": "Omelchenko A, Rahman S, Wang A, Tabib T, Viswanadham V, Yuen G, Del Rio Estrada P, D'Onofrio V, Chen Y, Sun N, Mattoo H, Keshari S, Gadiraju C, Salgado G, Soto-Nava M, Ruiz-Carbajal L, D?az-Rivera D, ?vila-R?os S, Kasturi S, Ribeiro S, Shlomchik M, Poholek A, Pillai S, Elsner R, Mahajan V, Das J",
     "date": "07/22/2026",
