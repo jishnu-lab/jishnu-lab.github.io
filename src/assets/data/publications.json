@@ -496,6 +496,22 @@
     "authorsHighlighted": "6,"
   },
   {
+    "title": "Deciphering the impact of genomic variation on function",
+    "authors": "IGVF Consortium",
+    "date": "09/04/2024",
+    "image": "/images/publications/The-survival-of-B-cells.jpg",
+    "domainTags": "Applications",
+    "href": "https://www.nature.com/articles/s41586-024-07510-0",
+    "journal": "Nature",
+    "year": 2024,
+    "firstAuthorsLab": "",
+    "otherLabMembers": "jishnu_das, zarifeh_heidari_rarani, trirupa_chakraborty, swapnil_keshari",
+    "isCorrespondingAuthorJishnu": false,
+    "featured": false,
+    "secondaryTag": "Secondary",
+    "authorsHighlighted": ""
+  },
+  {
     "title": "The RNA binding protein Arid5a drives IL-17-dependent autoantibody-induced glomerulonephritis",
     "authors": "Li Y, Vyas S, Mehta I, Asada N, Dey I, Taylor T, Bechara R, Amatya N, Aggor F, Coleman B, Li D, Yamamoto K, Ezenwa O, Sun Y, Sterneck E, McManus C, Panzer U, Biswas P, Savan R, Das J, Gaffen S",
     "date": "07/12/2024",
@@ -1029,7 +1045,7 @@
     "date": "12/21/2021",
     "image": "/images/publications/People-critically.webp",
     "domainTags": "Machine Learning",
-    "href": "https://www.sciencedirect.com/science/article/pii/S2666379121003487?via%3Dihub",
+    "href": "https://www.sciencedirect.com/science/article/pii/S2666379121003487",
     "journal": "Cell Reports Medicine",
     "year": 2021,
     "firstAuthorsLab": "",
