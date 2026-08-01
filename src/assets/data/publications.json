@@ -1,7 +1,7 @@
 [
   {
     "title": "Aberrant mucin expression and keratinization distinguishing severe from mild asthma revealed by interpretable machine learning",
-    "authors": "Kale S, Vincent A, Ross M, Mehta I, Calderon M, Ramonell R, Setya H, McCreary-Partyka J, Yuan H, Christenson S, Woodruff P, Castro M, Sumino K, Jarjour N, Denlinger L, Gaston B, Bleecker E, Meyers D, Moore W, Israel E, Levy B, Mauger D, Erzurum S, Newbrough A, Nee T, Ray P, St. Croix C, Wenzel S, Das J, Ray A, Gauthier M",
+    "authors": "Kale S, Vincent A, Ross M, Mehta I, Calderon M, Ramonell R, Setya H, McCreary-Partyka J, Yuan H, Christenson S, Woodruff P, Castro M, Sumino K, Jarjour N, Denlinger L, Gaston B, Bleecker E, Meyers D, Moore W, Israel E, Levy B, Mauger D, Erzurum S, Newbrough A, Nee T, Ray P, St. Croix C, Wenzel S, Das J^, Ray A^, Gauthier M^",
     "date": "07/30/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Applications",
@@ -17,7 +17,7 @@
   },
   {
     "title": "A unified network systems approach uncovers a core program underlying T follicular helper cell differentiation",
-    "authors": "Omelchenko A, Rahman S, Wang A, Tabib T, Viswanadham V, Yuen G, Del Rio Estrada P, D'Onofrio V, Chen Y, Sun N, Mattoo H, Keshari S, Gadiraju C, Salgado G, Soto-Nava M, Ruiz-Carbajal L, D?az-Rivera D, ?vila-R?os S, Kasturi S, Ribeiro S, Shlomchik M, Poholek A, Pillai S, Elsner R, Mahajan V, Das J",
+    "authors": "Omelchenko A, Rahman S, Wang A, Tabib T, Viswanadham V, Yuen G, Del Rio Estrada P, D'Onofrio V, Chen Y, Sun N, Mattoo H, Keshari S, Gadiraju C, Salgado G, Soto-Nava M, Ruiz-Carbajal L, D?az-Rivera D, ?vila-R?os S, Kasturi S, Ribeiro S, Shlomchik M, Poholek A, Pillai S, Elsner R, Mahajan V, Das J^",
     "date": "07/22/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Protein Networks, Gene Regulatory Networks",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Immune BioGraphy: A tale of graphical approaches in systems and virtual immunology",
-    "authors": "Keshari S, Chakraborty T, Das J",
+    "authors": "Keshari S*, Chakraborty T*, Das J^",
     "date": "06/05/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Machine Learning, Applications",
@@ -209,7 +209,7 @@
   },
   {
     "title": "Multi-modal integration of protein interactomes with genomic and molecular data discovers distinct RA endotypes",
-    "authors": "Rahimikollu J, Guha Roy P, Kishore A, Lee D, Vanderlinden L, Nazarali K, Zhang F, Ascherman D, Schwartz D, Moreland L, Das J",
+    "authors": "Rahimikollu J*, Guha Roy P*, Kishore A, Lee D, Vanderlinden L, Nazarali K, Zhang F, Ascherman D, Schwartz D, Moreland L, Das J^",
     "date": "02/11/2026",
     "image": "/images/publications/Opportunities-in-AI.jpg",
     "domainTags": "Protein Networks",
